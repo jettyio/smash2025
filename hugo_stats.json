@@ -1,0 +1,28 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "body",
+      "footer",
+      "h2",
+      "h3",
+      "head",
+      "header",
+      "html",
+      "li",
+      "main",
+      "meta",
+      "nav",
+      "p",
+      "script",
+      "title",
+      "ul"
+    ],
+    "classes": [
+      "bg-sky-50",
+      "bg-sky-950",
+      "site-footer"
+    ],
+    "ids": null
+  }
+}
