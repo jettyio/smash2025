@@ -606,9 +606,6 @@
   .justify-between {
     justify-content: space-between;
   }
-  .justify-center {
-    justify-content: center;
-  }
   .space-x-2 {
     :where(& > :not(:last-child)) {
       --tw-space-x-reverse: 0;
@@ -622,17 +619,8 @@
   .px-5 {
     padding-inline: calc(var(--spacing) * 5);
   }
-  .px-10 {
-    padding-inline: calc(var(--spacing) * 10);
-  }
   .pt-10 {
     padding-top: calc(var(--spacing) * 10);
-  }
-  .pt-15 {
-    padding-top: calc(var(--spacing) * 15);
-  }
-  .pr-20 {
-    padding-right: calc(var(--spacing) * 20);
   }
   .pb-4 {
     padding-bottom: calc(var(--spacing) * 4);
@@ -645,9 +633,6 @@
   }
   .pb-15 {
     padding-bottom: calc(var(--spacing) * 15);
-  }
-  .pb-30 {
-    padding-bottom: calc(var(--spacing) * 30);
   }
   .text-center {
     text-align: center;
