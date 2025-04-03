@@ -19,20 +19,31 @@
         <meta name="msapplication-TileColor" content="#000000">
         <meta name="theme-color" content="#ffffff"> -->
     </head>
-    <body class="bg-sky-50">
-        <header>
-            <nav>
-                <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/about">About</a></li>
-                </ul>
-            </nav>
-        </header>
-        <main>
-            {{ block "main" . }}{{ end }}
-        </main>
-        <footer class="site-footer">
-            <a href="/" title="{{ .Site.Params.copyright }}" rel="home">{{ .Site.Params.copyright }}</a>
+    <body class="bg-sky-50 px-5 md:px-10">
+        <div class="md:flex pt-10 md:pt-15 pb-15 md:pb-30 max-w-5xl mx-auto">
+            <header class="pb-10 md:w-3xs md:pr-4">
+                <h1 class="text-center md:text-left font-black pb-6 text-2xl tracking-wider">{{ .Site.Title }}</h1>
+                <nav>
+                    <ul class="flex md:block flex-wrap justify-between space-x-2 md:space-x-0 md:space-y-2">
+                        {{ $currentPage := . }}
+                        {{ range site.Menus.main }}
+                            <li>
+                                {{ if $currentPage.IsMenuCurrent .Menu . }}
+                                    <span class="block text-blue-600">{{ .Name }}</span>
+                                {{ else }}
+                                    <a class="block text-blue-950 hover:text-blue-600" href="{{ .URL }}">{{ .Name }}</a>
+                                {{ end }}
+                            </li>
+                        {{ end }}
+                    </ul>
+                </nav>
+            </header>
+            <main class="prose">
+                {{ block "main" . }}{{ end }}
+            </main>
+        </div>
+        <footer class="text-center pb-4">
+            <p>&copy; <span class="font-black tracking-wider">{{ .Site.Title }}</span></p>
         </footer>
         <!-- <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

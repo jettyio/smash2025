@@ -19,3 +19,24 @@ title = 'SMASH'
     disableWatch = true
     source = 'hugo_stats.json'
     target = 'assets/notwatching/hugo_stats.json'
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    pageRef = '/'
+    weight = 10
+  [[menu.main]]
+    name = 'Call for papers'
+    url = '/callforpapers'
+    pageRef = '/callforpapers'
+    weight = 20
+  [[menu.main]]
+    name = 'Schedule'
+    url = '/schedule'
+    pageRef = '/schedule'
+    weight = 30
+  [[menu.main]]
+    name = 'Notable papers'
+    url = '/notablepapers'
+    pageRef = '/notablepapers'
+    weight = 40
