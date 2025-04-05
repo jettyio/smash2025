@@ -40,3 +40,8 @@ title = 'SMASH'
     url = '/notablepapers'
     pageRef = '/notablepapers'
     weight = 40
+  [[menu.main]]
+    name = 'Code of conduct'
+    url = '/condeofconduct'
+    pageRef = '/condeofconduct'
+    weight = 50
