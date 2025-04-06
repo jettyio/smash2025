@@ -29,7 +29,7 @@ Interdisciplinary submissions from law and social sciences:
 - Ethical considerations when deploying ML systems
 - Regulation of ML technology
 
-#### Organizing Team (TBD):
+#### Organizing Team:
 - Jonathan Lebensold (Mila / Akinox)
 - Scott Schaffter (Google Sustainability)
 - Shahrad Mohammadzadeh (Mila / McGill)
