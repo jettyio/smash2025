@@ -12,10 +12,12 @@ Healthcare and Sustainability:
 - Applications of AI in healthcare (administration, precision medicine, patient care, diagnostics)
 - Using patient data in ML research
 - Healthcare ML metrics, monitoring and benchmarking
-- Methods for ML sustainability
+
+Methods for ML sustainability
 - ML emissions accounting metrics
 - Case studies and applications of sustainability in ML
-ML Safety, Model Accountability and Alignment:
+
+ML Safety, Privacy, Model Accountability and Alignment:
 - Safety, robustness and alignment of ML systems
 - ML systems and software traceability
 - Privacy enhancing technologies (PETs): differential privacy, federated learning, secure multi-party computation, etc.
