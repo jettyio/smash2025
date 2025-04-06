@@ -2,6 +2,9 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 disableHugoGeneratorInject = true
 title = 'SMASH 2025: The Symposium on Model Accountability, Sustainability and Healthcare'
+[params]
+shorttitle =  'SMASH 2025'
+description = 'The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability.'
 [build]
   [build.buildStats]
     enable = true

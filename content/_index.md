@@ -2,7 +2,7 @@
 title = ''
 +++
 ## Symposium on Model Accountability, Sustainability and Healthcare
-The Symposium on Model Accountability, Sustainability and Healthcare (SMASH) is an interdisciplinary gathering focused on operationalizing AI today. The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interpretability and accountability. This symposium will explore these research topics through the lens of healthcare and sustainability.
+The Symposium on Model Accountability, Sustainability and Healthcare (SMASH) is an interdisciplinary gathering focused on operationalizing AI today. The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability. This symposium will explore these research topics through the lens of healthcare and sustainability.
 
 Today, healthcare presents a real-world use case for AI deployments and work in sustainability and in healthcare benefit from better model safety and accountability. Each field relies on an ecosystem of providers, tools and datasets where the risks and opportunities are borne by all.
 
