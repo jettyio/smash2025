@@ -6,7 +6,7 @@ The Symposium on Model Accountability, Sustainability and Healthcare (SMASH) is 
 
 Today, healthcare presents a real-world use case for AI deployments and work in sustainability and in healthcare benefit from better model safety and accountability. Each field relies on an ecosystem of providers, tools and datasets where the risks and opportunities are borne by all.
 
-We invite researchers to submit 4 page extended abstracts under the following research areas:
+Contributions to SMASH that are of an applied nature are also welcome, such as case studies deploying ML in mission-critical with sensitive data (energy, healthcare, transportation, logistics and supply chain). We invite researchers to submit 4 page extended abstracts under the following research areas:
 
 Healthcare and Sustainability:
 - Applications of AI in healthcare (administration, precision medicine, patient care, diagnostics)
