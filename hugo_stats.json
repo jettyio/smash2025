@@ -10,6 +10,7 @@
       "h2",
       "h3",
       "h4",
+      "h5",
       "head",
       "header",
       "html",
@@ -68,19 +69,16 @@
       "tracking-wider"
     ],
     "ids": [
-      "organizing-team-tbd",
+      "healthcare-and-sustainability",
+      "interdisciplinary-submissions-from-law-and-social-sciences",
+      "methods-for-ml-sustainability",
+      "ml-safety-privacy-model-accountability-and-alignment",
+      "organizing-team",
       "outcomes",
       "reporting",
       "scope",
-      "some-paper-topics-might-address",
-      "some-paper-topics-might-address-1",
-      "some-paper-topics-might-address-2",
       "symposium-on-model-accountability-sustainability-and-healthcare",
-      "track-1-model-accountability",
-      "track-2-model-sustainability",
-      "track-3-healthcare",
-      "who",
-      "why-link-sustainability-and-healthcare"
+      "who"
     ]
   }
 }
