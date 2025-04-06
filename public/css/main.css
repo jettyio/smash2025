@@ -597,6 +597,21 @@
   .flex {
     display: flex;
   }
+  .h-10 {
+    height: calc(var(--spacing) * 10);
+  }
+  .h-15 {
+    height: calc(var(--spacing) * 15);
+  }
+  .h-25 {
+    height: calc(var(--spacing) * 25);
+  }
+  .h-50 {
+    height: calc(var(--spacing) * 50);
+  }
+  .h-100 {
+    height: calc(var(--spacing) * 100);
+  }
   .max-w-5xl {
     max-width: var(--container-5xl);
   }
@@ -670,6 +685,11 @@
   .md\:flex {
     @media (width >= 48rem) {
       display: flex;
+    }
+  }
+  .md\:h-25 {
+    @media (width >= 48rem) {
+      height: calc(var(--spacing) * 25);
     }
   }
   .md\:w-3xs {
