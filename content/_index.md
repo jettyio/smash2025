@@ -31,6 +31,7 @@ Interdisciplinary submissions from law and social sciences:
 
 #### Organizing Team:
 - Jonathan Lebensold (Mila / Akinox)
+- Abdullah Norozi Iranzad
 - Scott Schaffter (Google Sustainability)
 - Shahrad Mohammadzadeh (Mila / McGill)
 - Doina Precup (Mila / McGill / Google Deepmind)
