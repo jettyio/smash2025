@@ -7,7 +7,9 @@
       "footer",
       "h1",
       "h2",
+      "h3",
       "h4",
+      "h5",
       "head",
       "header",
       "html",
@@ -56,6 +58,10 @@
       "tracking-wider"
     ],
     "ids": [
+      "healthcare-and-sustainability",
+      "interdisciplinary-submissions-from-law-and-social-sciences",
+      "methods-for-ml-sustainability",
+      "ml-safety-privacy-model-accountability-and-alignment",
       "organizing-team",
       "outcomes",
       "reporting",

@@ -8,28 +8,28 @@ Today, healthcare presents a real-world use case for AI deployments and work in 
 
 Contributions to SMASH that are of an applied nature are also welcome, such as case studies deploying ML in mission-critical with sensitive data (energy, healthcare, transportation, logistics and supply chain). We invite researchers to submit 4 page extended abstracts under the following research areas:
 
-Healthcare and Sustainability:
+#### Healthcare and Sustainability:
 - Applications of AI in healthcare (administration, precision medicine, patient care, diagnostics)
 - Using patient data in ML research
 - Healthcare ML metrics, monitoring and benchmarking
 
-Methods for ML sustainability
+#### Methods for ML sustainability
 - ML emissions accounting metrics
 - Case studies and applications of sustainability in ML
 
-ML Safety, Privacy, Model Accountability and Alignment:
+#### ML Safety, Privacy, Model Accountability and Alignment:
 - Safety, robustness and alignment of ML systems
 - ML systems and software traceability
 - Privacy enhancing technologies (PETs): differential privacy, federated learning, secure multi-party computation, etc.
 - ML performance and benchmarking methods
 - Mechanisms for ML provenance tracking and watermarking
 
-Interdisciplinary submissions from law and social sciences:
+#### Interdisciplinary submissions from law and social sciences:
 - ML risk assessments and disclosures
 - Ethical considerations when deploying ML systems
 - Regulation of ML technology
 
-#### Organizing Team:
+## Organizing Team:
 - Jonathan Lebensold (Mila / Akinox)
 - Scott Schaffter (Google Sustainability)
 - Shahrad Mohammadzadeh (Mila / McGill)
