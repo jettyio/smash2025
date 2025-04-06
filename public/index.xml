@@ -15,6 +15,13 @@
       <description>&lt;h3 id=&#34;track-1-model-accountability&#34;&gt;Track 1: Model Accountability&lt;/h3&gt;&#xA;&lt;p&gt;Research into model accountability is focused on operationalizing ML in mission-critical areas, such as healthcare, transportation, logistics and pharmaceutical traceability.&lt;/p&gt;&#xA;&lt;h4 id=&#34;some-paper-topics-might-address&#34;&gt;Some paper topics might address:&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Model performance and benchmarking methods&lt;/li&gt;&#xA;&lt;li&gt;Model provenance tracking (compute, datasets and foundation models)&lt;/li&gt;&#xA;&lt;li&gt;Model training and data privacy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;track-2-model-sustainability&#34;&gt;Track 2: Model Sustainability&lt;/h3&gt;&#xA;&lt;p&gt;The adoption of foundation models and AI is having a profound effect on methods for tracking environmental sustainability and CO2 emissions.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Code of conduct</title>
+      <link>http://localhost:1313/condeofconduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/condeofconduct/</guid>
+      <description>&lt;p&gt;The open exchange of ideas, the freedom of thought and expression, and respectful scientific debate are central to the goals of this conference on machine learning; this requires a community and an environment that recognizes and respects the inherent worth of every person.&lt;/p&gt;&#xA;&lt;h4 id=&#34;who&#34;&gt;Who&lt;/h4&gt;&#xA;&lt;p&gt;All participants—attendees, organizers, reviewers, speakers, sponsors, and volunteers at our conference, workshops, and conference-sponsored social events—are required to agree with this code of conduct both during the event and on official communication channels, including social media. Organizers will enforce this code, and we expect cooperation from all participants to help ensure a safe and productive environment for everybody.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Notable papers</title>
       <link>http://localhost:1313/notablepapers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -26,17 +26,17 @@ title = 'SMASH'
     pageRef = '/'
     weight = 10
   [[menu.main]]
-    name = 'Call for papers'
-    url = '/callforpapers'
-    pageRef = '/callforpapers'
-    weight = 20
-  [[menu.main]]
     name = 'Schedule'
     url = '/schedule'
     pageRef = '/schedule'
-    weight = 30
+    weight = 20
   [[menu.main]]
     name = 'Notable papers'
     url = '/notablepapers'
     pageRef = '/notablepapers'
+    weight = 30
+  [[menu.main]]
+    name = 'Code of conduct'
+    url = '/condeofconduct'
+    pageRef = '/condeofconduct'
     weight = 40
