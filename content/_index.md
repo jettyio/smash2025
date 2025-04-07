@@ -30,8 +30,9 @@ Contributions to SMASH that are of an applied nature are also welcome, such as c
 - Regulation of ML technology
 
 ## Organizing Team:
-- Jonathan Lebensold (Mila / Akinox)
+- Jonathan Lebensold, Mila, Akinox
+- Shahrad Mohammadzadeh, Mila, McGill
 - Abdullah Norozi Iranzad
-- Scott Schaffter (Google Sustainability)
-- Shahrad Mohammadzadeh (Mila / McGill)
-- Doina Precup (Mila / McGill / Google Deepmind)
+- Scott Schaffter, Google Sustainability
+- Doina Precup,  Google Deepmind, Mila, McGill
+- Keyu Wang, Harvard
