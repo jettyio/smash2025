@@ -30,6 +30,8 @@ Contributions to SMASH that are of an applied nature are also welcome, such as c
 #### Methods for ML Sustainability:
 - ML emissions accounting metrics
 - Case studies and applications of sustainability in ML
+- Sustainable computing and system design
+- Environmental accounting methods for ML
 
 ## Organizing Team:
 - Jonathan Lebensold, Mila, Akinox
