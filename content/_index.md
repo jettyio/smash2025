@@ -27,7 +27,7 @@ Contributions to SMASH that are of an applied nature are also welcome, such as c
 - Using patient data in ML research
 - Healthcare ML metrics, monitoring and benchmarking
 
-#### Methods for ML sustainability:
+#### Methods for ML Sustainability:
 - ML emissions accounting metrics
 - Case studies and applications of sustainability in ML
 
