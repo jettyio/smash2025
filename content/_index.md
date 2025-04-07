@@ -35,6 +35,6 @@ Contributions to SMASH that are of an applied nature are also welcome, such as c
 - Jonathan Lebensold, Mila, Akinox
 - Shahrad Mohammadzadeh, Mila, McGill
 - Abdullah Norozi Iranzad
-- Scott Schaffter, Google Sustainability
 - Doina Precup,  Google Deepmind, Mila, McGill
+- Scott Schaffter, Google Sustainability
 - Keyu Wang, Harvard
