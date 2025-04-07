@@ -20,7 +20,7 @@ We invite researchers to submit 4 page extended abstracts under the research are
 - Ethical considerations when deploying ML systems
 - Regulation of ML technology
 
-Contributions to SMASH that are of an applied nature are also welcome, such as case studies deploying ML in mission-critical with sensitive data.
+Contributions to SMASH that are of an applied nature are also welcome, such as case studies deploying ML with sensitive data.
 
 #### Healthcare Applications:
 - Applications of AI in healthcare (administration, precision medicine, patient care, diagnostics)
