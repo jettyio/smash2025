@@ -55,6 +55,17 @@
             </header>
             <main class="prose">
                 {{ block "main" . }}{{ end }}
+                <h2>Sponsors</h2>
+                {{ $sponsors := site.Data.sponsors }}
+                <ul class="not-prose flex gap-8 flex-wrap justify-between">
+                    {{ range $sponsors }}
+                        <li>
+                            <a class="block w-30" href="{{ .url }}">
+                                <img class="w-full" src="/sponsors/{{ .img }}" alt="{{ .name }}">
+                            </a>
+                        </li>
+                    {{ end }}
+                </ul>
             </main>
         </div>
         <script data-goatcounter="https://smashcon.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
