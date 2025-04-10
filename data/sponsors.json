@@ -3,5 +3,15 @@
         "name": "MLCommons",
         "url": "https://mlcommons.org/",
         "img": "ml-commons-logo.svg"
+    },
+    {
+        "name": "CHAI – Coalition for Health AI",
+        "url": "https://chai.org/",
+        "img": "Chai_Logo-R3-01.png"
+    },
+    {
+        "name": "Akinox",
+        "url": "https://www.akinox.com/",
+        "img": "Akinox-logo-coul-2.png"
     }
 ]
