@@ -34,7 +34,7 @@ Contributions to SMASH that are of an applied nature are also welcome, such as c
 - Environmental accounting methods for ML
 
 ## Organizing Team:
-- Jonathan Lebensold, Mila, Akinox
+- Jonathan Lebensold, Akinox, Mila
 - Shahrad Mohammadzadeh, Mila, McGill
 - Abdullah Norozi Iranzad
 - Doina Precup,  Google Deepmind, Mila, McGill
