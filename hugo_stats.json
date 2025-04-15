@@ -3,15 +3,16 @@
     "tags": [
       "a",
       "body",
+      "br",
       "div",
       "g",
       "h1",
       "h2",
+      "h3",
       "h4",
       "head",
       "header",
       "html",
-      "img",
       "li",
       "link",
       "main",
@@ -21,6 +22,7 @@
       "path",
       "script",
       "span",
+      "strong",
       "svg",
       "title",
       "ul"
@@ -60,11 +62,10 @@
       "text-blue-600",
       "text-blue-950",
       "text-center",
-      "tracking-wider",
-      "w-30",
-      "w-full"
+      "tracking-wider"
     ],
     "ids": [
+      "event-details",
       "healthcare-applications",
       "interdisciplinary-submissions-from-law-and-social-sciences",
       "methods-for-ml-sustainability",
