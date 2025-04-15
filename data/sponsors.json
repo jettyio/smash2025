@@ -13,5 +13,20 @@
         "name": "Akinox",
         "url": "https://www.akinox.com/",
         "img": "Akinox-logo-coul-2.png"
+    },
+    {
+        "name": "Google Sustainability",
+        "url": "https://sustainability.google/",
+        "img": "google.svg"
+    },
+    {
+        "name": "Mila",
+        "url": "https://mila.quebec/en",
+        "img": "mila.png"
+    },
+    {
+        "name": "CDSI",
+        "url": "https://www.mcgill.ca/cdsi/",
+        "img": "cdsi.png"
     }
 ]
