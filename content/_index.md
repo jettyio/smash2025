@@ -4,6 +4,12 @@ title = ''
 ## Symposium on Model Accountability, Sustainability and Healthcare
 The Symposium on Model Accountability, Sustainability and Healthcare (SMASH) is an interdisciplinary gathering focused on operationalizing AI safely and responsibly. The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability. This symposium will explore these research topics through the lens of healthcare and sustainability.
 
+### Event Details
+November 4-5 2025
+The Agora
+[Mila, the Quebec AI Institute](https://mila.quebec/en)
+6666 Rue Saint-Urbain, Montréal, QC H2S 3H1 Canada
+
 The healthcare sector is rapidly embracing AI, and the insights gained are likely to inform future sustainability research. These disciplines operate within interconnected ecosystems of stakeholders, technologies, and datasets, sharing both the potential benefits and inherent risks.
 
 We invite researchers to submit 4 page extended abstracts under the research areas defined below.
@@ -16,9 +22,11 @@ We invite researchers to submit 4 page extended abstracts under the research are
 - Mechanisms for ML provenance tracking and watermarking
 
 #### Interdisciplinary Submissions from Law and Social Sciences:
+- Acceptance of ML technologies by clinicians, patients, and administrators
 - ML risk assessments and disclosures
 - Ethical considerations when deploying ML systems
 - Regulation of ML technology
+
 
 Contributions to SMASH that are of an applied nature are also welcome, such as case studies deploying ML with sensitive data.
 
