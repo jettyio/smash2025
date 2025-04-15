@@ -16,9 +16,11 @@ We invite researchers to submit 4 page extended abstracts under the research are
 - Mechanisms for ML provenance tracking and watermarking
 
 #### Interdisciplinary Submissions from Law and Social Sciences:
+- Acceptance of ML technologies by clinicians, patients, and administrators
 - ML risk assessments and disclosures
 - Ethical considerations when deploying ML systems
 - Regulation of ML technology
+
 
 Contributions to SMASH that are of an applied nature are also welcome, such as case studies deploying ML with sensitive data.
 
@@ -34,7 +36,7 @@ Contributions to SMASH that are of an applied nature are also welcome, such as c
 - Environmental accounting methods for ML
 
 ## Organizing Team:
-- Jonathan Lebensold, Akinox, Mila
+- Jonathan Lebensold, Mila, Akinox
 - Shahrad Mohammadzadeh, Mila, McGill
 - Abdullah Norozi Iranzad
 - Doina Precup,  Google Deepmind, Mila, McGill
