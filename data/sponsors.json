@@ -28,5 +28,10 @@
         "name": "CDSI",
         "url": "https://www.mcgill.ca/cdsi/",
         "img": "cdsi.png"
+    },
+    {
+        "name": "Obvia",
+        "url": "https://www.obvia.ca/",
+        "img": "obvia.svg"
     }
 ]
