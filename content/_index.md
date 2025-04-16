@@ -40,6 +40,20 @@ Contributions to SMASH that are of an applied nature are also welcome, such as c
 - Sustainable computing and system design
 - Environmental accounting methods for ML
 
+## Committee Members:
+- Omar Benjelloun, Google, MLCommons
+- Martin Cousineau, l'OBVIA, HEC
+- Eric D. Kolaczyk, CDSI, McGill
+- Cooper Elsworth, SIGMA, Stanford
+- Golnoosh Farnadi, McGill, CIFAR, Mila
+- Marie-Pierre Gagnon, ULaval
+- Lyse Langlois, l'OBVIA, Laval
+- Maroussia Lévesque, Harvard
+- Catherine Régis, CAISI, Université de Montréal
+- Syed Raza Abidi, Dalhousie
+- Charbel-Raphaël Segerie, CeSIA, ML4Good
+- Carole-Jean Wu, Meta, MLCommons
+
 ## Organizing Team:
 - Jonathan Lebensold, Mila, Akinox
 - Shahrad Mohammadzadeh, Mila, McGill
