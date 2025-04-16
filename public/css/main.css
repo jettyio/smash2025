@@ -150,7 +150,7 @@
   }
   @supports (not (-webkit-appearance: -apple-pay-button))  or (contain-intrinsic-size: 1px) {
     ::placeholder {
-      color: color-mix(in oklab, currentColor 50%, transparent);
+      color: color-mix(in oklab, currentcolor 50%, transparent);
     }
   }
   textarea {
@@ -613,14 +613,26 @@
   .h-15 {
     height: calc(var(--spacing) * 15);
   }
+  .w-30 {
+    width: calc(var(--spacing) * 30);
+  }
+  .w-full {
+    width: 100%;
+  }
   .max-w-5xl {
     max-width: var(--container-5xl);
   }
   .flex-wrap {
     flex-wrap: wrap;
   }
+  .items-center {
+    align-items: center;
+  }
   .justify-between {
     justify-content: space-between;
+  }
+  .gap-8 {
+    gap: calc(var(--spacing) * 8);
   }
   .space-x-2 {
     :where(& > :not(:last-child)) {
