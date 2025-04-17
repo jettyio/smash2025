@@ -1,0 +1,11 @@
+<h2>Sponsors</h2>
+{{ $sponsors := site.Data.sponsors }}
+<ul class="not-prose flex gap-8 flex-wrap items-center">
+    {{ range $sponsors }}
+        <li>
+            <a class="block w-30" href="{{ .url }}" title="{{ .name }}" target="_blank">
+                <img class="w-full" src="/sponsors/{{ .img }}" alt="{{ .name }}">
+            </a>
+        </li>
+    {{ end }}
+</ul>
