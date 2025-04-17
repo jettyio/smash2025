@@ -25,6 +25,11 @@
         "img": "mila.png"
     },
     {
+        "name": "CIFAR",
+        "url": "https://cifar.ca/",
+        "img": "cifar.svg"
+    },
+    {
         "name": "CDSI",
         "url": "https://www.mcgill.ca/cdsi/",
         "img": "cdsi.png"
