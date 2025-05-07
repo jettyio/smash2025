@@ -1,17 +1,34 @@
 +++
-title = 'Code of conduct'
+title = "Code of Conduct" 
 +++
-The open exchange of ideas, the freedom of thought and expression, and respectful scientific debate are central to the goals of this conference on machine learning; this requires a community and an environment that recognizes and respects the inherent worth of every person.
 
-#### Who
-All participants—attendees, organizers, reviewers, speakers, sponsors, and volunteers at our conference, workshops, and conference-sponsored social events—are required to agree with this code of conduct both during the event and on official communication channels, including social media. Organizers will enforce this code, and we expect cooperation from all participants to help ensure a safe and productive environment for everybody.
+At SMASH, we believe that open exchange, critical inquiry, and respectful dialogue are the cornerstones of scientific progress in machine learning and related fields. We are committed to fostering an environment where everyone—regardless of background—feels welcomed, valued, and safe.
 
-#### Scope
-The conference commits itself to providing an experience for all participants that is free from harassment, bullying, discrimination, and retaliation for all participants. This includes offensive comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), politics, technology choices, or any other personal characteristics. Bullying, intimidation, personal attacks, harassment, sustained disruption of talks or other events, and behavior that interferes with another’s full participation will not be tolerated. This includes sexual harassment, stalking, following, harassing photography or recording, inappropriate physical contact, unwelcome sexual attention, public vulgar exchanges, and diminutive characterizations, which are all unwelcome in this RLDM. This Code of Conduct applies to the actual meeting sites and conference venues where RLDM business is being conducted. RLDM is not responsible for non-sponsored activity or behavior that may occur at non-sponsored locations such as hotels, restaurants, or locations not otherwise a sanctioned space for RLDM sponsored events.
-Sponsors are equally subject to this Code of Conduct. In particular, sponsors should not use images, activities, or other materials that are of a sexual, racial, or otherwise offensive nature. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment. This code applies both to official sponsors as well as any organization that uses the conference name as branding as part of its activities at or around the conference.
+#### Who This Applies To
+This Code of Conduct applies to all participants at SMASH events: attendees, speakers, organizers, reviewers, sponsors, and volunteers. It extends to official activities, including workshops, poster sessions, and SMASH-sponsored social events, as well as communication on official channels and social media. All participants are expected to adhere to this code throughout the event. The SMASH organizing team will enforce these guidelines, and we ask for your full cooperation in upholding a respectful and inclusive space.
 
-#### Outcomes
-Participants asked by any member of the community to stop any such behavior are expected to comply immediately. If a participant engages in such behavior, the conference organizers may take any action they deem appropriate, including: a formal or informal warning to the offender, expulsion from the conference with no refund, barring from participation in future conferences or their organization, reporting the incident to the offender’s local institution or funding agencies, or reporting the incident to local law enforcement. A response of “just joking” will not be accepted; behavior can be harassing without an intent to offend. If action is taken, an appeals process will be made available.
+#### Scope of the Code
+SMASH is dedicated to providing a harassment-free and inclusive experience for everyone. Harassment, discrimination, bullying, and retaliation are strictly prohibited. This includes but is not limited to:
 
-#### Reporting
-If you have concerns related to your inclusion at that conference, or observe someone else’s difficulties, or have any other concerns related to inclusion, please contact the  co-chairs.
+- Offensive comments or behavior related to gender, gender identity or expression, sexual orientation, disability, age, physical appearance, body size, race, ethnicity, religion (or lack thereof), political beliefs, or technology choices.
+- Intimidation, stalking, sustained disruption of sessions, unwelcome sexual attention, or any form of harassment, whether verbal, physical, or visual.
+- Inappropriate physical contact, harassing photography or recording, vulgar exchanges, or belittling remarks.
+- Creating or contributing to a sexualized environment through language, attire, or visuals.
+
+This code covers all SMASH venues and affiliated spaces. While SMASH cannot control behavior in non-sponsored locations (e.g., hotels, restaurants), we expect participants to carry the spirit of this code beyond official events. Sponsors are also expected to uphold these standards and must avoid using materials or engaging in activities that could be considered offensive, demeaning, or inappropriate.
+
+#### Consequences of Violations
+If you are asked to stop inappropriate behavior, you are expected to comply immediately. The SMASH organizers reserve the right to take any necessary action in response to violations, including but not limited to:
+
+Issuing warnings (formal or informal)
+
+Revoking conference access without refund
+
+Banning future participation
+
+Reporting the incident to relevant institutions or authorities
+
+“Just joking” is not an acceptable defense; the impact of your behavior matters more than your intent. An appeals process will be made available if disciplinary action is taken.
+
+#### Reporting Issues
+If you experience or witness behavior that violates this Code of Conduct, or if you have concerns about inclusion or safety, please reach out to the SMASH conference chairs. All reports will be handled with discretion and care.
