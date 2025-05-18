@@ -1,0 +1,10 @@
+<h2>Program Committee</h2>
+{{ $programCommittee := site.Data.programCommittee }}
+<ul class="not-prose space-y-4">
+  {{ range $programCommittee }}
+  <li>
+    <h4 class="font-bold leading-[23px]">{{ .name }}</h4>
+    <p class="whitespace-pre-line text-sm/[19px]">{{ .title }}</p>
+  </li>
+  {{ end }}
+</ul>

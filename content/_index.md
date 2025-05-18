@@ -2,10 +2,10 @@
 title = ''
 +++
 ## Symposium on Model Accountability, Sustainability and Healthcare
-**November 4-5 2025**  
-  [Mila](https://mila.quebec/en)  
+**November 4-5 2025**
+  [Mila](https://mila.quebec/en)
   6666 Rue Saint-Urbain, Montréal, QC H2S 3H1
-  
+
 The Symposium on Model Accountability, Sustainability and Healthcare (SMASH) is an interdisciplinary gathering focused on operationalizing AI safely and responsibly. The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability. This symposium will explore these research topics through the lens of healthcare and sustainability.
 
 
@@ -19,7 +19,7 @@ We invite researchers to submit 4 page extended abstracts under the research are
 - Applications of privacy enhancing technologies (PETs): differential privacy, federated learning, etc.
 - ML performance and benchmarking methods
 - Mechanisms for ML provenance tracking and watermarking
-- Safety use cases for advanced AI systems 
+- Safety use cases for advanced AI systems
 
 #### Interdisciplinary Submissions from Law and Social Sciences:
 - Acceptance of ML technologies by clinicians, patients, and administrators
@@ -39,11 +39,3 @@ Contributions to SMASH that are of an applied nature are also welcome, such as c
 - Case studies and applications of sustainability in ML
 - Sustainable computing and system design
 - Environmental accounting methods for ML
-
-## Organizing Team:
-- Jonathan Lebensold, Mila, Akinox
-- Shahrad Mohammadzadeh, Mila, McGill
-- Abdullah Norozi Iranzad
-- Doina Precup,  Google Deepmind, Mila, McGill
-- Scott Schaffter, Google Sustainability
-- Keyu Wang, Harvard
