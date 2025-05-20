@@ -1,0 +1,7 @@
+<h2>Organizing Team:</h2>
+{{ $orgTeam := site.Data.orgTeam }}
+<ul>
+  {{ range $orgTeam }}
+  <li>{{ .member }}</li>
+  {{ end }}
+</ul>

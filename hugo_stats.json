@@ -3,7 +3,6 @@
     "tags": [
       "a",
       "body",
-      "br",
       "div",
       "g",
       "h1",
@@ -33,14 +32,17 @@
       "flex",
       "flex-wrap",
       "font-black",
+      "font-bold",
       "gap-8",
       "h-15",
       "hover:text-blue-600",
       "items-center",
       "justify-between",
+      "leading-[23px]",
       "max-w-5xl",
       "md:block",
       "md:flex",
+      "md:flex-wrap",
       "md:h-25",
       "md:pb-30",
       "md:pr-4",
@@ -48,6 +50,7 @@
       "md:px-10",
       "md:space-x-0",
       "md:space-y-2",
+      "md:w-1/2",
       "md:w-3xs",
       "mx-auto",
       "not-prose",
@@ -58,25 +61,27 @@
       "pt-10",
       "px-5",
       "space-x-2",
+      "space-y-4",
       "text-2xl",
       "text-blue-600",
       "text-blue-950",
       "text-center",
+      "text-sm/[19px]",
       "tracking-wider",
       "w-30",
-      "w-full"
+      "w-full",
+      "whitespace-pre-line"
     ],
     "ids": [
+      "consequences-of-violations",
       "healthcare-applications",
       "interdisciplinary-submissions-from-law-and-social-sciences",
       "methods-for-ml-sustainability",
       "ml-safety-privacy-model-accountability-and-alignment",
-      "organizing-team",
-      "outcomes",
-      "reporting",
-      "scope",
+      "reporting-issues",
+      "scope-of-the-code",
       "symposium-on-model-accountability-sustainability-and-healthcare",
-      "who"
+      "who-this-applies-to"
     ]
   }
 }

@@ -1,0 +1,11 @@
+<h2>Program Committee:</h2>
+{{ $programCommittee := site.Data.programCommittee }}
+{{ $sortedProgramCommittee := sort site.Data.programCommittee "lastname" }}
+<ul class="not-prose space-y-4 md:flex md:flex-wrap">
+  {{ range $sortedProgramCommittee }}
+  <li class="md:w-1/2">
+    <h4 class="font-bold leading-[23px]">{{ .firstname }} {{ .lastname }}</h4>
+    <p class="whitespace-pre-line text-sm/[19px]">{{ .title }}</p>
+  </li>
+  {{ end }}
+</ul>
