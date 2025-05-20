@@ -1,30 +1,70 @@
 [
   {
-    "name": "Maroussia Lévesque",
-    "title": "Doctoral candidate, Harvard Law School\nCIGI Senior Fellow\nWeatherhead Center for International Affairs Fellow\nAbundant Intelligences Collaborator\nBerkman Klein Affiliate"
+    "name": "Audrey Durand",
+    "title": "Université Laval"
   },
   {
-    "name": "Martin Cousineau",
-    "title": "Obvia, HEC Montréal"
+    "name": "Benjamin Lee",
+    "title": "University of Pennsylvania, Google"
   },
   {
-    "name": "Prof. Marie-Pierre Gagnon, PhD",
-    "title": "Full Professor, Faculty of Nursing Sciences, Université Laval"
-  },
-  {
-    "name": "Syed Sibte Raza Abidi",
-    "title": "NICHE Research Group, Faculty of Computer Science, Dalhousie University"
-  },
-  {
-    "name": "Sumanth Ratna",
-    "title": "Coalition for Health AI\nYale University"
+    "name": "Bettina Kemme",
+    "title": "McGill University"
   },
   {
     "name": "Brian Anderson",
-    "title": "Coalition for Health AI"
+    "title": "CHAI"
+  },
+  {
+    "name": "Carole-Jean Wu",
+    "title": "FAIR, Meta"
+  },
+  {
+    "name": "Charbel-Raphaël Segerie",
+    "title": "CeSIA, ML4Good"
+  },
+  {
+    "name": "Cooper Elsworth",
+    "title": "Google"
   },
   {
     "name": "Eric Kolaczyk",
-    "title": "Director of Computational and Data Systems Initiative (CDSI), McGill\nAssociate Academic Member, Mila"
+    "title": "McGill, Mila"
+  },
+  {
+    "name": "Golnoosh Farnadi",
+    "title": "McGill University, CIFAR, Mila"
+  },
+  {
+    "name": "Jin L.C. Guo",
+    "title": "McGill University, Mila"
+  },
+  {
+    "name": "Lyse Langlois",
+    "title": "Obvia, Université Laval"
+  },
+  {
+    "name": "Marie-Pierre Gagnon",
+    "title": "Université Laval"
+  },
+  {
+    "name": "Maroussia Lévesque",
+    "title": "Harvard, CIGI"
+  },
+  {
+    "name": "Martin Cousineau",
+    "title": "Obvia, HEC"
+  },
+  {
+    "name": "Omar Benjelloun",
+    "title": "Google"
+  },
+  {
+    "name": "Sumanth Ratna",
+    "title": "CHAI, Yale University"
+  },
+  {
+    "name": "Syed Sibte Raza Abidi",
+    "title": "Dalhousie University"
   }
 ]

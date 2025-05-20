@@ -730,9 +730,19 @@
       height: calc(var(--spacing) * 25);
     }
   }
+  .md\:w-1\/2 {
+    @media (width >= 48rem) {
+      width: calc(1/2 * 100%);
+    }
+  }
   .md\:w-3xs {
     @media (width >= 48rem) {
       width: var(--container-3xs);
+    }
+  }
+  .md\:flex-wrap {
+    @media (width >= 48rem) {
+      flex-wrap: wrap;
     }
   }
   .md\:space-y-2 {
