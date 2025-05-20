@@ -1,70 +1,87 @@
 [
   {
-    "name": "Audrey Durand",
+    "firstname": "Audrey",
+    "lastname": "Durand",
     "title": "Université Laval"
   },
   {
-    "name": "Benjamin Lee",
+    "firstname": "Benjamin",
+    "lastname": "Lee",
     "title": "University of Pennsylvania, Google"
   },
   {
-    "name": "Bettina Kemme",
+    "firstname": "Bettina",
+    "lastname": "Kemme",
     "title": "McGill University"
   },
   {
-    "name": "Brian Anderson",
+    "firstname": "Brian",
+    "lastname": "Anderson",
     "title": "CHAI"
   },
   {
-    "name": "Carole-Jean Wu",
+    "firstname": "Carole-Jean",
+    "lastname": "Wu",
     "title": "FAIR, Meta"
   },
   {
-    "name": "Charbel-Raphaël Segerie",
+    "firstname": "Charbel-Raphaël",
+    "lastname": "Segerie",
     "title": "CeSIA, ML4Good"
   },
   {
-    "name": "Cooper Elsworth",
+    "firstname": "Cooper",
+    "lastname": "Elsworth",
     "title": "Google"
   },
   {
-    "name": "Eric Kolaczyk",
+    "firstname": "Eric",
+    "lastname": "Kolaczyk",
     "title": "McGill, Mila"
   },
   {
-    "name": "Golnoosh Farnadi",
+    "firstname": "Golnoosh",
+    "lastname": "Farnadi",
     "title": "McGill University, CIFAR, Mila"
   },
   {
-    "name": "Jin L.C. Guo",
+    "firstname": "Jin L.C.",
+    "lastname": "Guo",
     "title": "McGill University, Mila"
   },
   {
-    "name": "Lyse Langlois",
+    "firstname": "Lyse",
+    "lastname": "Langlois",
     "title": "Obvia, Université Laval"
   },
   {
-    "name": "Marie-Pierre Gagnon",
+    "firstname": "Marie-Pierre",
+    "lastname": "Gagnon",
     "title": "Université Laval"
   },
   {
-    "name": "Maroussia Lévesque",
+    "firstname": "Maroussia",
+    "lastname": "Lévesque",
     "title": "Harvard, CIGI"
   },
   {
-    "name": "Martin Cousineau",
+    "firstname": "Martin",
+    "lastname": "Cousineau",
     "title": "Obvia, HEC"
   },
   {
-    "name": "Omar Benjelloun",
+    "firstname": "Omar",
+    "lastname": "Benjelloun",
     "title": "Google"
   },
   {
-    "name": "Sumanth Ratna",
+    "firstname": "Sumanth",
+    "lastname": "Ratna",
     "title": "CHAI, Yale University"
   },
   {
-    "name": "Syed Sibte Raza Abidi",
+    "firstname": "Syed Sibte Raza",
+    "lastname": "Abidi",
     "title": "Dalhousie University"
   }
 ]
