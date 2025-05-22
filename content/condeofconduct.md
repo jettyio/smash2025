@@ -1,5 +1,5 @@
 +++
-title = "Code of Conduct" 
+title = "Code of Conduct"
 +++
 
 At SMASH, we believe that open exchange, critical inquiry, and respectful dialogue are the cornerstones of scientific progress in machine learning and related fields. We are committed to fostering an environment where everyone—regardless of background—feels welcomed, valued, and safe.
