@@ -43,3 +43,8 @@ description = 'The goal of this event is to identify challenges and propose tech
     url = '/condeofconduct'
     pageRef = '/condeofconduct'
     weight = 40
+  [[menu.main]]
+    name = 'Organizing team'
+    url = '/organizingteam'
+    pageRef = '/organizingteam'
+    weight = 50
