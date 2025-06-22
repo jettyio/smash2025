@@ -34,17 +34,17 @@ description = 'The goal of this event is to identify challenges and propose tech
     pageRef = '/schedule'
     weight = 20
   [[menu.main]]
-    name = 'Notable papers'
+    name = 'Notable Papers'
     url = '/notablepapers'
     pageRef = '/notablepapers'
     weight = 30
   [[menu.main]]
-    name = 'Code of conduct'
+    name = 'Code of Conduct'
     url = '/condeofconduct'
     pageRef = '/condeofconduct'
     weight = 40
   [[menu.main]]
-    name = 'Organizing team'
+    name = 'Organizing Team'
     url = '/organizingteam'
     pageRef = '/organizingteam'
     weight = 50
