@@ -1,5 +1,5 @@
 +++
-title = 'Organizing team'
+title = 'Organizing Team'
 +++
 - Rawan Hakeem, Google
 - Jonathan Lebensold, Mila, Akinox
