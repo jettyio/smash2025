@@ -1,5 +1,5 @@
 +++
-title = 'Notable papers'
+title = 'Notable Papers'
 +++
 Here are examples of the kind of work we would expect might influence participants in our call for papers. 
 
