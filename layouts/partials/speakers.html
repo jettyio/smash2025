@@ -1,0 +1,8 @@
+<h2>Invited Speakers:</h2>
+{{ $speakers := site.Data.speakers }}
+{{ $sortedSpeakers := sort site.Data.speakers "lastname" }}
+<ul>
+  {{ range $sortedSpeakers }}
+  <li><span class="font-bold">{{ .firstname }} {{ .lastname }}</span>, {{ .title }}</li>
+  {{ end }}
+</ul>

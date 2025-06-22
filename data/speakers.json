@@ -1,0 +1,22 @@
+[
+  {
+    "firstname": "Brian",
+    "lastname": "Anderson",
+    "title": "CHAI"
+  },
+  {
+    "firstname": "Vrushali",
+    "lastname": "Gaud",
+    "title": "Google"
+  },
+  {
+    "firstname": "Maroussia",
+    "lastname": "Lévesque",
+    "title": "Harvard, CIGI"
+  },
+  {
+    "firstname": "Joëlle",
+    "lastname": "Pineau",
+    "title": "Mila, McGill"
+  }
+]

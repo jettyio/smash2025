@@ -1,36 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SMASH 2025: The Symposium on Model Accountability, Sustainability and Healthcare</title><link>http://localhost:1313/</link><description>Recent content on SMASH 2025: The Symposium on Model Accountability, Sustainability and Healthcare</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://localhost:1313/committees/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/committees/</guid><description/></item><item><title>Code of Conduct</title><link>http://localhost:1313/condeofconduct/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/condeofconduct/</guid><description>&lt;p>At SMASH, we believe that open exchange, critical inquiry, and respectful dialogue are the cornerstones of scientific progress in machine learning and related fields. We are committed to fostering an environment where everyone—regardless of background—feels welcomed, valued, and safe.&lt;/p>
-&lt;h4 id="who-this-applies-to">Who This Applies To&lt;/h4>
-&lt;p>This Code of Conduct applies to all participants at SMASH events: attendees, speakers, organizers, reviewers, sponsors, and volunteers. It extends to official activities, including workshops, poster sessions, and SMASH-sponsored social events, as well as communication on official channels and social media. All participants are expected to adhere to this code throughout the event. The SMASH organizing team will enforce these guidelines, and we ask for your full cooperation in upholding a respectful and inclusive space.&lt;/p></description></item><item><title>Notable papers</title><link>http://localhost:1313/notablepapers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/notablepapers/</guid><description>&lt;p>Here are examples of the kind of work we would expect might influence participants in our call for papers.&lt;/p>
-&lt;ul>
-&lt;li>Mitchell, Margaret, et al. &amp;ldquo;Model cards for model reporting.&amp;rdquo; Proceedings of the conference on fairness, accountability, and transparency. 2019.&lt;/li>
-&lt;li>Chiang, Wei-Lin, et al. &amp;ldquo;Chatbot arena: An open platform for evaluating llms by human preference.&amp;rdquo; Forty-first International Conference on Machine Learning. 2024.&lt;/li>
-&lt;li>Report Cards: Qualitative Evaluation of LLMs Using Natural Language Summariespdf icon&lt;/li>
-&lt;li>Blair Yang, Fuyang Cui, Keiran Paster, Jimmy Ba, Pashootan Vaezipoor, Silviu Pitis, Michael R. Zhang&lt;/li>
-&lt;li>Eyring, Veronika, et al. &amp;ldquo;Pushing the frontiers in climate modelling and analysis with machine learning.&amp;rdquo; Nature Climate Change 14.9 (2024): 916-928.&lt;/li>
-&lt;li>An Adversarial Perspective on Machine Unlearning for AI Safety&lt;/li>
-&lt;li>Jakub Łucki, Boyi Wei, Yangsibo Huang, Peter Henderson, Florian Tramèr, Javier Rando&lt;/li>
-&lt;li>Bommasani, Rishi, et al. &amp;ldquo;On the opportunities and risks of foundation models.&amp;rdquo; arXiv preprint arXiv:2108.07258 (2021).&lt;/li>
-&lt;li>Liang, Percy, et al. &amp;ldquo;Holistic evaluation of language models.&amp;rdquo; arXiv preprint arXiv:2211.09110 (2022).&lt;/li>
-&lt;li>Kapoor, Sayash, et al. &amp;ldquo;On the societal impact of open foundation models.&amp;rdquo; arXiv preprint arXiv:2403.07918 (2024).&lt;/li>
-&lt;li>Schneider, Ian, et al. &amp;ldquo;Life-Cycle Emissions of AI Hardware: A Cradle-To-Grave Approach and Generational Trends.&amp;rdquo; arXiv preprint arXiv:2502.01671 (2025).&lt;/li>
-&lt;li>Wu, Carole-Jean, et al. &amp;ldquo;Sustainable ai: Environmental implications, challenges and opportunities.&amp;rdquo; Proceedings of Machine Learning and Systems 4 (2022): 795-813.&lt;/li>
-&lt;li>Reddi, Vijay Janapa, et al. &amp;ldquo;Mlperf inference benchmark.&amp;rdquo; 2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA). IEEE, 2020.&lt;/li>
-&lt;li>Wang, Keyu, et al. &amp;ldquo;Mitigating Downstream Model Risks via Model Provenance.&amp;rdquo; arXiv preprint arXiv:2410.02230 (2024).&lt;/li>
-&lt;li>Rolnick, David, et al. &amp;ldquo;Tackling climate change with machine learning.&amp;rdquo; ACM Computing Surveys (CSUR) 55.2 (2022): 1-96.&lt;/li>
-&lt;li>Lacoste, Alexandre, et al. &amp;ldquo;Quantifying the carbon emissions of machine learning.&amp;rdquo; arXiv preprint arXiv:1910.09700 (2019).&lt;/li>
-&lt;li>Henderson, Peter, et al. &amp;ldquo;Towards the systematic reporting of the energy and carbon footprints of machine learning.&amp;rdquo; Journal of Machine Learning Research 21.248 (2020): 1-43.&lt;/li>
-&lt;li>Brownlee, Alexander EI, et al. &amp;ldquo;Exploring the accuracy–energy trade-off in machine learning.&amp;rdquo; 2021 IEEE/ACM International Workshop on Genetic Improvement (GI). IEEE, 2021.&lt;/li>
-&lt;li>Oala, Luis, et al. &amp;ldquo;DMLR: Data-centric Machine Learning Research&amp;ndash;Past, Present and Future.&amp;rdquo; arXiv preprint arXiv:2311.13028 (2023).&lt;/li>
-&lt;li>Carlini, Nicolas, et al. &amp;ldquo;Extracting training data from diffusion models.&amp;rdquo; 32nd USENIX Security Symposium (USENIX Security 23). 2023.&lt;/li>
-&lt;li>Weidinger, Laura, et al. &amp;ldquo;Taxonomy of risks posed by language models.&amp;rdquo; Proceedings of the 2022 ACM conference on fairness, accountability, and transparency. 2022.&lt;/li>
-&lt;/ul></description></item><item><title>Organizing team</title><link>http://localhost:1313/organizingteam/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/organizingteam/</guid><description>&lt;ul>
-&lt;li>Rawan Hakeem, Google&lt;/li>
-&lt;li>Jonathan Lebensold, Mila, Akinox&lt;/li>
-&lt;li>Shahrad Mohammadzadeh, Mila, McGill University&lt;/li>
-&lt;li>Abdullah Norozi Iranzad&lt;/li>
-&lt;li>Doina Precup, Google Deepmind, Mila, McGill University&lt;/li>
-&lt;li>Maya Razon, The Google School for Leaders&lt;/li>
-&lt;li>Scott Schaffter, Google Sustainability&lt;/li>
-&lt;li>Keyu Wang, Harvard&lt;/li>
-&lt;/ul>
-&lt;p>If you have any questions contact the SMASH organizing team at contact&amp;lt;@&amp;gt;smashcon.org.&lt;/p></description></item><item><title>Schedule</title><link>http://localhost:1313/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/schedule/</guid><description>&lt;p>Coming soon&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SMASH 2025: The Symposium on Model Accountability, Sustainability and Healthcare</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on SMASH 2025: The Symposium on Model Accountability, Sustainability and Healthcare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/committees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/committees/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code of Conduct</title>
+      <link>http://localhost:1313/condeofconduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/condeofconduct/</guid>
+      <description>&lt;p&gt;At SMASH, we believe that open exchange, critical inquiry, and respectful dialogue are the cornerstones of scientific progress in machine learning and related fields. We are committed to fostering an environment where everyone—regardless of background—feels welcomed, valued, and safe.&lt;/p&gt;&#xA;&lt;h4 id=&#34;who-this-applies-to&#34;&gt;Who This Applies To&lt;/h4&gt;&#xA;&lt;p&gt;This Code of Conduct applies to all participants at SMASH events: attendees, speakers, organizers, reviewers, sponsors, and volunteers. It extends to official activities, including workshops, poster sessions, and SMASH-sponsored social events, as well as communication on official channels and social media. All participants are expected to adhere to this code throughout the event. The SMASH organizing team will enforce these guidelines, and we ask for your full cooperation in upholding a respectful and inclusive space.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Notable Papers</title>
+      <link>http://localhost:1313/notablepapers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notablepapers/</guid>
+      <description>&lt;p&gt;Here are examples of the kind of work we would expect might influence participants in our call for papers.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mitchell, Margaret, et al. &amp;ldquo;Model cards for model reporting.&amp;rdquo; Proceedings of the conference on fairness, accountability, and transparency. 2019.&lt;/li&gt;&#xA;&lt;li&gt;Chiang, Wei-Lin, et al. &amp;ldquo;Chatbot arena: An open platform for evaluating llms by human preference.&amp;rdquo; Forty-first International Conference on Machine Learning. 2024.&lt;/li&gt;&#xA;&lt;li&gt;Report Cards: Qualitative Evaluation of LLMs Using Natural Language Summariespdf icon&lt;/li&gt;&#xA;&lt;li&gt;Blair Yang, Fuyang Cui, Keiran Paster, Jimmy Ba, Pashootan Vaezipoor, Silviu Pitis, Michael R. Zhang&lt;/li&gt;&#xA;&lt;li&gt;Eyring, Veronika, et al. &amp;ldquo;Pushing the frontiers in climate modelling and analysis with machine learning.&amp;rdquo; Nature Climate Change 14.9 (2024): 916-928.&lt;/li&gt;&#xA;&lt;li&gt;An Adversarial Perspective on Machine Unlearning for AI Safety&lt;/li&gt;&#xA;&lt;li&gt;Jakub Łucki, Boyi Wei, Yangsibo Huang, Peter Henderson, Florian Tramèr, Javier Rando&lt;/li&gt;&#xA;&lt;li&gt;Bommasani, Rishi, et al. &amp;ldquo;On the opportunities and risks of foundation models.&amp;rdquo; arXiv preprint arXiv:2108.07258 (2021).&lt;/li&gt;&#xA;&lt;li&gt;Liang, Percy, et al. &amp;ldquo;Holistic evaluation of language models.&amp;rdquo; arXiv preprint arXiv:2211.09110 (2022).&lt;/li&gt;&#xA;&lt;li&gt;Kapoor, Sayash, et al. &amp;ldquo;On the societal impact of open foundation models.&amp;rdquo; arXiv preprint arXiv:2403.07918 (2024).&lt;/li&gt;&#xA;&lt;li&gt;Schneider, Ian, et al. &amp;ldquo;Life-Cycle Emissions of AI Hardware: A Cradle-To-Grave Approach and Generational Trends.&amp;rdquo; arXiv preprint arXiv:2502.01671 (2025).&lt;/li&gt;&#xA;&lt;li&gt;Wu, Carole-Jean, et al. &amp;ldquo;Sustainable ai: Environmental implications, challenges and opportunities.&amp;rdquo; Proceedings of Machine Learning and Systems 4 (2022): 795-813.&lt;/li&gt;&#xA;&lt;li&gt;Reddi, Vijay Janapa, et al. &amp;ldquo;Mlperf inference benchmark.&amp;rdquo; 2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA). IEEE, 2020.&lt;/li&gt;&#xA;&lt;li&gt;Wang, Keyu, et al. &amp;ldquo;Mitigating Downstream Model Risks via Model Provenance.&amp;rdquo; arXiv preprint arXiv:2410.02230 (2024).&lt;/li&gt;&#xA;&lt;li&gt;Rolnick, David, et al. &amp;ldquo;Tackling climate change with machine learning.&amp;rdquo; ACM Computing Surveys (CSUR) 55.2 (2022): 1-96.&lt;/li&gt;&#xA;&lt;li&gt;Lacoste, Alexandre, et al. &amp;ldquo;Quantifying the carbon emissions of machine learning.&amp;rdquo; arXiv preprint arXiv:1910.09700 (2019).&lt;/li&gt;&#xA;&lt;li&gt;Henderson, Peter, et al. &amp;ldquo;Towards the systematic reporting of the energy and carbon footprints of machine learning.&amp;rdquo; Journal of Machine Learning Research 21.248 (2020): 1-43.&lt;/li&gt;&#xA;&lt;li&gt;Brownlee, Alexander EI, et al. &amp;ldquo;Exploring the accuracy–energy trade-off in machine learning.&amp;rdquo; 2021 IEEE/ACM International Workshop on Genetic Improvement (GI). IEEE, 2021.&lt;/li&gt;&#xA;&lt;li&gt;Oala, Luis, et al. &amp;ldquo;DMLR: Data-centric Machine Learning Research&amp;ndash;Past, Present and Future.&amp;rdquo; arXiv preprint arXiv:2311.13028 (2023).&lt;/li&gt;&#xA;&lt;li&gt;Carlini, Nicolas, et al. &amp;ldquo;Extracting training data from diffusion models.&amp;rdquo; 32nd USENIX Security Symposium (USENIX Security 23). 2023.&lt;/li&gt;&#xA;&lt;li&gt;Weidinger, Laura, et al. &amp;ldquo;Taxonomy of risks posed by language models.&amp;rdquo; Proceedings of the 2022 ACM conference on fairness, accountability, and transparency. 2022.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Organizing Team</title>
+      <link>http://localhost:1313/organizingteam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/organizingteam/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Rawan Hakeem, Google&lt;/li&gt;&#xA;&lt;li&gt;Jonathan Lebensold, Mila, Akinox&lt;/li&gt;&#xA;&lt;li&gt;Shahrad Mohammadzadeh, Mila, McGill University&lt;/li&gt;&#xA;&lt;li&gt;Abdullah Norozi Iranzad&lt;/li&gt;&#xA;&lt;li&gt;Doina Precup, Google Deepmind, Mila, McGill University&lt;/li&gt;&#xA;&lt;li&gt;Maya Razon, The Google School for Leaders&lt;/li&gt;&#xA;&lt;li&gt;Scott Schaffter, Google Sustainability&lt;/li&gt;&#xA;&lt;li&gt;Keyu Wang, Harvard&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If you have any questions contact the SMASH organizing team at contact&amp;lt;@&amp;gt;smashcon.org.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Schedule</title>
+      <link>http://localhost:1313/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/schedule/</guid>
+      <description>&lt;p&gt;Coming soon&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
