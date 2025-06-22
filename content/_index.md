@@ -11,11 +11,6 @@ The healthcare sector is rapidly embracing AI, and the insights gained are likel
 
 We invite researchers to submit 4 page extended abstracts under the research areas defined below.
 
-#### Sustainability, Healthcare and Safety, that's a bit of an odd mix - what's the deal?
-You’re not wrong. But that's kind of the point! We’re firm believers that creating spaces that cut across academic boundaries yields compelling insights. 
-
-This event explores how AI in Sustainability and Healthcare are on parallel regulatory and operational trajectories and that they might benefit from a mutual exchange of ideas, governance and tooling.
-
 #### ML Safety, Privacy, Model Accountability and Alignment:
 - Safety, robustness and alignment of ML systems
 - ML systems and software traceability
@@ -42,3 +37,8 @@ Contributions to SMASH that are of an applied nature are also welcome, such as c
 - Case studies and applications of sustainability in ML
 - Sustainable computing and system design
 - Environmental accounting methods for ML
+
+##### Sustainability, Healthcare and Safety, that's a bit of an odd mix - what's the deal?
+You’re not wrong. But that's kind of the point! We’re firm believers that creating spaces that cut across academic boundaries yields compelling insights. 
+
+This event explores how AI in Sustainability and Healthcare are on parallel regulatory and operational trajectories and that they might benefit from a mutual exchange of ideas, governance and tooling.
