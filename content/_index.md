@@ -14,9 +14,7 @@ We invite researchers to submit 4 page extended abstracts under the research are
 #### Sustainability, Healthcare and Safety, that's a bit of an odd mix - what's the deal?
 You’re not wrong. But that's kind of the point! We’re firm believers that creating spaces that cut across academic boundaries yields compelling insights. 
 
-Specifically - our thesis is that AI in Sustainability and Healthcare are on parallel regulatory and operational trajectories and that they might benefit from a mutual exchange of ideas, governance and tooling.
-
-Plus keeping academia slightly weird is fun right?
+This event explores how AI in Sustainability and Healthcare are on parallel regulatory and operational trajectories and that they might benefit from a mutual exchange of ideas, governance and tooling.
 
 #### ML Safety, Privacy, Model Accountability and Alignment:
 - Safety, robustness and alignment of ML systems
