@@ -8,6 +8,6 @@ title = 'Organizing Team'
 - Doina Precup, Google Deepmind, Mila, McGill University
 - Maya Razon, The Google School for Leaders
 - Scott Schaffter, Google Sustainability
-- Keyu Wang, Harvard
+- Keyu Wang, Harvard University
 
 If you have any questions contact the SMASH organizing team at contact&lt;@&gt;smashcon.org.
