@@ -5,7 +5,7 @@ Here are examples of the kind of work we would expect might influence participan
 
 - Mitchell, Margaret, et al. "Model cards for model reporting." Proceedings of the conference on fairness, accountability, and transparency. 2019.
 - Chiang, Wei-Lin, et al. "Chatbot arena: An open platform for evaluating llms by human preference." Forty-first International Conference on Machine Learning. 2024.
-- Report Cards: Qualitative Evaluation of LLMs Using Natural Language Summariespdf icon
+- Report Cards: Qualitative Evaluation of LLMs Using Natural Language Summaries
 - Blair Yang, Fuyang Cui, Keiran Paster, Jimmy Ba, Pashootan Vaezipoor, Silviu Pitis, Michael R. Zhang
 - Eyring, Veronika, et al. "Pushing the frontiers in climate modelling and analysis with machine learning." Nature Climate Change 14.9 (2024): 916-928.
 - An Adversarial Perspective on Machine Unlearning for AI Safety
