@@ -10,13 +10,18 @@
     "title": "Google"
   },
   {
+    "firstname": "Christian",
+    "lastname": "Kästner",
+    "title": "Carnegie Mellon University"
+  }
+  {
     "firstname": "Maroussia",
     "lastname": "Lévesque",
-    "title": "Harvard, CIGI"
+    "title": "Harvard University, CIGI"
   },
   {
     "firstname": "Joëlle",
     "lastname": "Pineau",
-    "title": "Mila, McGill"
+    "title": "Mila, McGill University"
   }
 ]
