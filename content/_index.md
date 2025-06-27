@@ -9,6 +9,17 @@ The Symposium on Model Accountability, Sustainability and Healthcare (SMASH) is 
 
 The healthcare sector is rapidly embracing AI, and the insights gained are likely to inform future sustainability research. These disciplines operate within interconnected ecosystems of stakeholders, technologies, and datasets, sharing both the potential benefits and inherent risks.
 
+## Important Dates
+
+- **Aug 1, 2025:** Submission opens 
+
+- **Aug 18, 2025:** Paper submission deadline 
+
+- **Sep 25, 2025:** Announcement of decisions shared with Committee members. 
+
+- **Oct 15, 2025:** Camera-ready submissions deadline
+
+
 We invite researchers to submit 4 page extended abstracts under the research areas defined below.
 
 #### ML Safety, Privacy, Model Accountability and Alignment:
