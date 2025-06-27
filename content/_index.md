@@ -9,7 +9,7 @@ The Symposium on Model Accountability, Sustainability and Healthcare (SMASH) is 
 
 The healthcare sector is rapidly embracing AI, and the insights gained are likely to inform future sustainability research. These disciplines operate within interconnected ecosystems of stakeholders, technologies, and datasets, sharing both the potential benefits and inherent risks.
 
-## Important Dates
+## Important Dates:
 
 - **Aug 1, 2025:** Submission opens 
 
