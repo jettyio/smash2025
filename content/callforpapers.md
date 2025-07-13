@@ -15,7 +15,7 @@ title = 'Abstract Submission'
 
 Please click on the following to access the OpenReview Submission Portal:
 
-#### [OpenReview Submission](https://openreview.net/group?id=smashcon.org/SMASH/2025/Symposium&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)
+#### [OpenReview Submission](https://openreview.net/group?id=smashcon.org/SMASH/2025/Symposium&referrer=%5BHomepage%5D(%2F)#tab-your-consoles).
 
 All authors must complete a form to confirm their OpenReview profile is complete and any qualified author may be assigned to review. 
 
