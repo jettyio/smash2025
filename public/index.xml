@@ -15,6 +15,13 @@
       <description></description>
     </item>
     <item>
+      <title>Abstract Submission</title>
+      <link>http://localhost:1313/callforpapers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/callforpapers/</guid>
+      <description>&lt;h2 id=&#34;key-dates&#34;&gt;Key Dates&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Jul 12, 2025:&lt;/strong&gt; Submission opens&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Aug 18, 2025:&lt;/strong&gt; Paper submission deadline&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sep 25, 2025:&lt;/strong&gt; Announcement of decisions shared with Committee members&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Oct 15, 2025:&lt;/strong&gt; Camera-ready submissions deadline&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-to-submit&#34;&gt;How to Submit&lt;/h2&gt;&#xA;&lt;p&gt;Please click on the following to access the OpenReview Submission Portal:&lt;/p&gt;&#xA;&lt;h4 id=&#34;openreview-submission&#34;&gt;&lt;a href=&#34;https://openreview.net/group?id=smashcon.org/SMASH/2025/Symposium&amp;amp;referrer=%5BHomepage%5D(%2F)#tab-your-consoles&#34;&gt;OpenReview Submission&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;All authors must complete a form to confirm their OpenReview profile is complete and any qualified author may be assigned to review.&lt;/p&gt;&#xA;&lt;h2 id=&#34;submission-details&#34;&gt;Submission Details&lt;/h2&gt;&#xA;&lt;p&gt;Submissions should consist of a summary, and an extended abstract of between one and four pages (including figures and references). We invite you to use a single column LaTeX or RTF template and recommend the &lt;a href=&#34;https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt&#34;&gt;ICLR 2025 OpenReview Conference Submission&lt;/a&gt; template.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Code of Conduct</title>
       <link>http://localhost:1313/condeofconduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

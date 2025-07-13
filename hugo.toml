@@ -29,6 +29,11 @@ description = 'The goal of this event is to identify challenges and propose tech
     pageRef = '/'
     weight = 10
   [[menu.main]]
+    name = 'Call for Papers'
+    url = '/callforpapers'
+    pageRef = '/call-for-papers'
+    weight = 15
+  [[menu.main]]
     name = 'Schedule'
     url = '/schedule'
     pageRef = '/schedule'

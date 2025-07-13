@@ -6,6 +6,8 @@
   </url><url>
     <loc>http://localhost:1313/committees/</loc>
   </url><url>
+    <loc>http://localhost:1313/callforpapers/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/condeofconduct/</loc>
