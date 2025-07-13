@@ -5,6 +5,8 @@ title = 'SMASH 2025: The Symposium on Model Accountability, Sustainability and H
 [params]
 shorttitle =  'SMASH 2025'
 description = 'The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability.'
+[markup.goldmark.renderer]
+unsafe= true
 [build]
   [build.buildStats]
     enable = true
@@ -33,6 +35,11 @@ description = 'The goal of this event is to identify challenges and propose tech
     url = '/callforpapers'
     pageRef = '/call-for-papers'
     weight = 15
+  [[menu.main]]
+    name = 'Register'
+    url = '/register'
+    pageRef = '/register'
+    weight = 17
   [[menu.main]]
     name = 'Schedule'
     url = '/schedule'
