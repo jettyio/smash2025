@@ -13,7 +13,7 @@ The healthcare sector is rapidly embracing AI, and the insights gained are likel
 
 - **Jul 12, 2025:** [Submission opens](/callforpapers)
 
-- **Aug 18, 2025:** Paper submission deadline 
+- **Aug 31, 2025:** EXTENDED! Paper submission deadline 
 
 - **Sep 25, 2025:** Announcement of decisions shared with Committee members
 
