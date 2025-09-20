@@ -347,7 +347,7 @@
 
         </main>
         <footer class="text-center py-10">
-            <p><a href="/condeofconduct" class="text-sm underline">Code of Conduct</a></p>
+            <p class="text-sm">&copy; 2025 SMASH&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/condeofconduct" class="underline">Code of Conduct</a></p>
         </footer>
         <script data-goatcounter="https://smashcon.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
         <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
@@ -373,6 +373,8 @@
                 menuIconOpenElement.classList.toggle('hidden');
                 menuIconCloseElement.classList.toggle('hidden');
             })
+            function onKonamiCode(cb) {var input = '';var key = '38384040373937396665';document.addEventListener('keydown', function (e) {input += ("" + e.keyCode);if (input === key) {return cb();}if (!key.indexOf(input)) return;input = ("" + e.keyCode);})}
+            onKonamiCode(function () {window.open('https://www.jetty.io/pelly'), _blank})
         </script>
     </body>
 </html>
