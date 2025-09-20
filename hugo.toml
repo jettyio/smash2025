@@ -14,9 +14,6 @@ defaultContentLanguageInSubdir = true
     languageName = 'Français'
     title = 'SMASH 2025: Symposium sur la responsabilisation des modèles, la durabilité et les soins de santé'
     weight = 2
-[params]
-shorttitle =  'SMASH 2025'
-description = 'The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability.'
 [markup.goldmark.renderer]
 unsafe= true
 [build]

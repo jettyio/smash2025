@@ -1,2 +1,4 @@
-conf_full_name = 'Symposium sur la responsabilisation des modèles, la durabilité et les soins de santé'
-conf_date = '4 au 5 novembre 2025'
+conf_full_name = "Symposium sur la responsabilisation des modèles, la durabilité et les soins de santé"
+conf_date = "4 au 5 novembre 2025"
+shorttitle = "SMASH 2025"
+sitedescription = "L'objectif de cet événement est d'identifier les défis et de proposer des solutions techniques, éthiques et réglementaires en matière de sécurité de l'IA, de confidentialité des données, d'interopérabilité des modèles et de responsabilité."
