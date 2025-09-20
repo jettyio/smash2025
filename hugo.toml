@@ -33,29 +33,55 @@ unsafe= true
     disableWatch = true
     source = 'hugo_stats.json'
     target = 'assets/notwatching/hugo_stats.json'
-[menu]
-  [[menu.main]]
+[languages.en.menus]
+  [[languages.en.menus.main]]
     name = 'Call for Papers'
     url = '/callforpapers'
     pageRef = '/call-for-papers'
     weight = 15
-  [[menu.main]]
+  [[languages.en.menus.main]]
     name = 'Register'
     url = '/register'
     pageRef = '/register'
     weight = 17
-  [[menu.main]]
+  [[languages.en.menus.main]]
     name = 'Schedule'
     url = '/schedule'
     pageRef = '/schedule'
     weight = 20
-  [[menu.main]]
+  [[languages.en.menus.main]]
     name = 'Notable Papers'
     url = '/notablepapers'
     pageRef = '/notablepapers'
     weight = 30
-  [[menu.main]]
+  [[languages.en.menus.main]]
     name = 'Organizing Team'
+    url = '/organizingteam'
+    pageRef = '/organizingteam'
+    weight = 40
+[languages.fr.menus]
+  [[languages.fr.menus.main]]
+    name = 'Appel de contributions'
+    url = '/callforpapers'
+    pageRef = '/call-for-papers'
+    weight = 15
+  [[languages.fr.menus.main]]
+    name = "S'inscrire"
+    url = '/register'
+    pageRef = '/register'
+    weight = 17
+  [[languages.fr.menus.main]]
+    name = 'Calendrier'
+    url = '/schedule'
+    pageRef = '/schedule'
+    weight = 20
+  [[languages.fr.menus.main]]
+    name = 'Articles marquants'
+    url = '/notablepapers'
+    pageRef = '/notablepapers'
+    weight = 30
+  [[languages.fr.menus.main]]
+    name = 'Équipe organisatrice'
     url = '/organizingteam'
     pageRef = '/organizingteam'
     weight = 40

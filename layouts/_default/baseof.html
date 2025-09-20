@@ -10,27 +10,27 @@
         <!-- Primary Meta Tags -->
         <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
         <meta name="title" content="{{ .Site.Title }}" />
-        <meta name="description" content='{{ T "sitedescription" }}' />
+        <meta name="description" content='{{ T "site_description" }}' />
 
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="website" />
         <meta property="og:url" content="{{ .Site.BaseURL }}" />
         <meta property="og:title" content="{{ .Site.Title }}" />
-        <meta property="og:description" content='{{ T "sitedescription" }}' />
+        <meta property="og:description" content='{{ T "site_description" }}' />
         <meta property="og:image" content="/meta_image.jpg" />
 
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="{{ .Site.BaseURL }}" />
         <meta property="twitter:title" content="{{ .Site.Title }}" />
-        <meta property="twitter:description" content='{{ T "sitedescription" }}' />
+        <meta property="twitter:description" content='{{ T "site_description" }}' />
         <meta property="twitter:image" content="/meta_image.jpg" />
 
         <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <link rel="shortcut icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-        <meta name="apple-mobile-web-app-title" content='{{ T "shorttitle" }}' />
+        <meta name="apple-mobile-web-app-title" content='{{ T "short_title" }}' />
         <link rel="manifest" href="/site.webmanifest" />
         <style>
             h5 { font-style: italic; font-weight: 200; }
@@ -41,7 +41,7 @@
             <div class="flex flex-row items-center justify-between">
                 <a href="/" class="flex flex-row items-center">
                     <img src="/logo.svg" class="h-10 w-auto mr-2" />
-                    <span class="font-black text-xl tracking-wider">{{ T "shorttitle" }}</span>
+                    <span class="font-black text-xl tracking-wider">{{ T "short_title" }}</span>
                 </a>
                 <nav>
                     <ul class="flex flex-row text-sm space-x-4">
@@ -63,7 +63,7 @@
             <div class="flex flex-row items-center justify-between">
                 <a href="/" class="flex flex-row items-center">
                     <img src="/logo.svg" class="h-10 w-auto mr-2" />
-                    <span class="font-black text-xl tracking-wider">{{ T "shorttitle" }}</span>
+                    <span class="font-black text-xl tracking-wider">{{ T "short_title" }}</span>
                 </a>
                 <button id="navbar-toggle" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-black rounded-lg cursor-pointer hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-gray-800">
                     <svg class="w-5 h-5" id="menu-icon-open" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
