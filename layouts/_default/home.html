@@ -1,11 +1,11 @@
 {{ define "main" }}
   <section class="bg-cover bg-no-repeat bg-fixed bg-[url('/home_header_bg.svg')] bg-gray-700 bg-blend-multiply">
     <div class="max-w-4xl m-auto py-14 md:py-40 px-4">
-      <h2 class="text-base !m-0 pl-2 pb-10 text-white">Symposium on Model Accountability, Sustainability and Healthcare</h2>
+      <h2 class="text-base !m-0 pl-2 pb-10 text-white">{{ T "conf_full_name" }}</h2>
       <div class="flex flex-col gap-y-10 md:gap-0 md:flex-row md:justify-between md:items-center">
         <h1 class="text-7xl md:text-9xl !m-0 max-w-lg font-black text-white">{{ .Site.Params.Shorttitle }}</h1>
         <div class="flex flex-col gap-y-4 text-center">
-          <p class="text-lg text-white !m-0">November 4-5 2025</p>
+          <p class="text-lg text-white !m-0">{{ T "conf_date" }}</p>
           <p class="text-lg !m-0"><a href="https://mila.quebec/en" target="_blank" class="text-white">Mila</a></p>
           <p class="text-sm text-white !m-0">6666 Rue Saint-Urbain,<br>Montréal, QC H2S 3H1</p>
           <p class="!m-0"><a href="/register" class="inline-block no-underline text-white bg-teal-600 hover:bg-teal-800 focus:ring-4 focus:ring-teal-300 font-medium rounded-sm px-12 md:px-5 py-5 md:py-2.5 transition-colors">Register Now</a></p>

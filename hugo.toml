@@ -1,7 +1,19 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://smash.org/'
 languageCode = 'en-us'
 disableHugoGeneratorInject = true
-title = 'SMASH 2025: The Symposium on Model Accountability, Sustainability and Healthcare'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageName = 'English'
+    title = 'SMASH 2025: The Symposium on Model Accountability, Sustainability and Healthcare'
+    weight = 1
+  [languages.fr]
+    contentDir = 'content/fr'
+    languageName = 'Français'
+    title = 'SMASH 2025: Symposium sur la responsabilisation des modèles, la durabilité et les soins de santé'
+    weight = 2
 [params]
 shorttitle =  'SMASH 2025'
 description = 'The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability.'
