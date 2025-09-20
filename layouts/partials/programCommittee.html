@@ -1,8 +1,0 @@
-<h2>Program Committee:</h2>
-{{ $programCommittee := site.Data.programCommittee }}
-{{ $sortedProgramCommittee := sort site.Data.programCommittee "lastname" }}
-<ul>
-  {{ range $sortedProgramCommittee }}
-  <li><span class="font-bold">{{ .firstname }} {{ .lastname }}</span>, {{ .title }}</li>
-  {{ end }}
-</ul>

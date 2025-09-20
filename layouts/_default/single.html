@@ -1,4 +1,8 @@
 {{ define "main" }}
-  <h2>{{ .Params.Title }}</h2>
-  {{ .Content }}
+  <section class="">
+    <div class="max-w-4xl m-auto pt-10 md:pt-20 pb-5 md:pb-10 px-4">
+      <h1 class="text-4xl md:text-7xl !m-0 pb-5 md:pb-10 text-teal-500">{{ .Params.Title }}</h1>
+      {{ .Content }}
+    </div>
+  </section>
 {{ end }}

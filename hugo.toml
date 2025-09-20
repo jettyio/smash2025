@@ -26,11 +26,6 @@ unsafe= true
     target = 'assets/notwatching/hugo_stats.json'
 [menu]
   [[menu.main]]
-    name = 'Home'
-    url = '/'
-    pageRef = '/'
-    weight = 10
-  [[menu.main]]
     name = 'Call for Papers'
     url = '/callforpapers'
     pageRef = '/call-for-papers'
@@ -51,12 +46,7 @@ unsafe= true
     pageRef = '/notablepapers'
     weight = 30
   [[menu.main]]
-    name = 'Code of Conduct'
-    url = '/condeofconduct'
-    pageRef = '/condeofconduct'
-    weight = 40
-  [[menu.main]]
     name = 'Organizing Team'
     url = '/organizingteam'
     pageRef = '/organizingteam'
-    weight = 50
+    weight = 40
