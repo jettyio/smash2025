@@ -1,10 +1,5 @@
 [
   {
-    "firstname": "Brian",
-    "lastname": "Anderson",
-    "title": "CHAI"
-  },
-  {
     "firstname": "Vrushali",
     "lastname": "Gaud",
     "title": "Google"
@@ -23,5 +18,10 @@
     "firstname": "Joëlle",
     "lastname": "Pineau",
     "title": "Mila, McGill University"
+  },
+  {
+    "firstname": "Sumanth",
+    "lastname": "Ratna",
+    "title": "CHAI"
   }
 ]
