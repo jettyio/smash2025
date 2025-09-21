@@ -1,4 +1,4 @@
 +++
-title = 'Schedule'
+title = 'Calendrier'
 +++
-Coming soon
+À venir

@@ -20,13 +20,10 @@ This code covers all SMASH venues and affiliated spaces. While SMASH cannot cont
 #### Consequences of Violations
 If you are asked to stop inappropriate behavior, you are expected to comply immediately. The SMASH organizers reserve the right to take any necessary action in response to violations, including but not limited to:
 
-Issuing warnings (formal or informal)
-
-Revoking conference access without refund
-
-Banning future participation
-
-Reporting the incident to relevant institutions or authorities
+- Issuing warnings (formal or informal)
+- Revoking conference access without refund
+- Banning future participation
+- Reporting the incident to relevant institutions or authorities
 
 “Just joking” is not an acceptable defense; the impact of your behavior matters more than your intent. An appeals process will be made available if disciplinary action is taken.
 

@@ -4,11 +4,8 @@ title = 'Abstract Submission'
 
 ## Key Dates
 - **Jul 12, 2025:** Submission opens
-
 - **Aug 31, 2025:** Paper submission deadline
-
 - **Sep 25, 2025:** Announcement of decisions shared with Committee members
-
 - **Oct 15, 2025:** Camera-ready submissions deadline
 
 ## How to Submit

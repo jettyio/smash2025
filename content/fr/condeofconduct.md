@@ -1,34 +1,31 @@
 +++
-title = "Code of Conduct"
+title = "Code de conduite"
 +++
 
-At SMASH, we believe that open exchange, critical inquiry, and respectful dialogue are the cornerstones of scientific progress in machine learning and related fields. We are committed to fostering an environment where everyone—regardless of background—feels welcomed, valued, and safe.
+Chez SMASH, nous croyons que l'échange ouvert, la recherche critique et le dialogue respectueux sont les pierres angulaires du progrès scientifique en apprentissage machine et dans les domaines connexes. Nous nous engageons à favoriser un environnement où chacun, quel que soit son milieu, se sent accueilli, valorisé et en sécurité.
 
-#### Who This Applies To
-This Code of Conduct applies to all participants at SMASH events: attendees, speakers, organizers, reviewers, sponsors, and volunteers. It extends to official activities, including workshops, poster sessions, and SMASH-sponsored social events, as well as communication on official channels and social media. All participants are expected to adhere to this code throughout the event. The SMASH organizing team will enforce these guidelines, and we ask for your full cooperation in upholding a respectful and inclusive space.
+#### À qui ça s'applique
+Ce code de conduite s'applique à tous les participants aux événements SMASH : participants, conférenciers, organisateurs, évaluateurs, commanditaires et bénévoles. Il s'applique aux activités officielles, y compris les ateliers, les présentations d'affiches et les événements sociaux commandités par SMASH, ainsi qu'à la communication sur les canaux officiels et les médias sociaux. Tous les participants doivent respecter ce code tout au long de l'événement. L'équipe organisatrice de SMASH veillera à l'application de ces lignes directrices et nous vous demandons votre entière collaboration pour maintenir un espace respectueux et inclusif.
 
-#### Scope of the Code
-SMASH is dedicated to providing a harassment-free and inclusive experience for everyone. Harassment, discrimination, bullying, and retaliation are strictly prohibited. This includes but is not limited to:
+#### Portée du code
+SMASH s'engage à offrir une expérience inclusive et sans harcèlement à tous. Le harcèlement, la discrimination, l'intimidation et les représailles sont strictement interdits. Cela inclut, sans toutefois s'y limiter :
 
-- Offensive comments or behavior related to gender, gender identity or expression, sexual orientation, disability, age, physical appearance, body size, race, ethnicity, religion (or lack thereof), political beliefs, or technology choices.
-- Intimidation, stalking, sustained disruption of sessions, unwelcome sexual attention, or any form of harassment, whether verbal, physical, or visual.
-- Inappropriate physical contact, harassing photography or recording, vulgar exchanges, or belittling remarks.
-- Creating or contributing to a sexualized environment through language, attire, or visuals.
+- Les commentaires ou comportements offensants liés au genre, à l'identité ou à l'expression de genre, à l'orientation sexuelle, au handicap, à l'âge, à l'apparence physique, à la corpulence, à l'origine ethnique, à la religion (ou à son absence), aux convictions politiques ou aux choix technologiques.
+- L'intimidation, le harcèlement, la perturbation prolongée des séances, les attentions sexuelles importunes ou toute forme de harcèlement, qu'il soit verbal, physique ou visuel.
+- Les contacts physiques inappropriés, les photographies ou les enregistrements harcelants, les échanges vulgaires ou les remarques dénigrantes.
+- La création ou la contribution à un environnement sexualisé par le langage, la tenue vestimentaire ou les éléments visuels.
 
-This code covers all SMASH venues and affiliated spaces. While SMASH cannot control behavior in non-sponsored locations (e.g., hotels, restaurants), we expect participants to carry the spirit of this code beyond official events. Sponsors are also expected to uphold these standards and must avoid using materials or engaging in activities that could be considered offensive, demeaning, or inappropriate.
+Ce code s'applique à tous les lieux SMASH et à ses espaces affiliés. Bien que SMASH ne puisse pas contrôler les comportements dans les lieux non sponsorisés (par exemple, les hôtels, les restaurants), nous attendons des participants qu'ils appliquent l'esprit de ce code au-delà des événements officiels. Les commanditaires sont également tenus de respecter ces normes et doivent éviter d'utiliser du matériel ou de participer à des activités qui pourraient être considérées comme offensantes, dégradantes ou inappropriés.
 
-#### Consequences of Violations
-If you are asked to stop inappropriate behavior, you are expected to comply immediately. The SMASH organizers reserve the right to take any necessary action in response to violations, including but not limited to:
+#### Conséquences des infractions
+Si on vous demande de cesser un comportement inapproprié, vous êtes tenu de vous y conformer immédiatement. Les organisateurs de SMASH se réservent le droit de prendre toutes les mesures nécessaires en cas d'infraction, y compris, mais sans s'y limiter :
 
-Issuing warnings (formal or informal)
+- Avertissements (formels ou informels)
+- Révocation de l'accès à la conférence sans remboursement
+- Interdiction de toute participation future
+- Signalement de l'incident aux institutions ou aux autorités compétentes
 
-Revoking conference access without refund
+« Une simple blague » n'est pas une défense acceptable ; l'impact de votre comportement compte plus que votre intention. Une procédure d'appel sera mise en place si des mesures disciplinaires sont prises.
 
-Banning future participation
-
-Reporting the incident to relevant institutions or authorities
-
-“Just joking” is not an acceptable defense; the impact of your behavior matters more than your intent. An appeals process will be made available if disciplinary action is taken.
-
-#### Reporting Issues
-If you experience or witness behavior that violates this Code of Conduct, or if you have concerns about inclusion or safety, please reach out to the SMASH conference chairs. All reports will be handled with discretion and care.
+#### Signalement des problèmes
+Si vous êtes témoin ou victime d'un comportement contraire au présent Code de conduite, ou si vous avez des inquiétudes concernant l'inclusion ou la sécurité, veuillez communiquer avec les responsables de la conférence SMASH. Tous les signalements seront traités avec discrétion et diligence.

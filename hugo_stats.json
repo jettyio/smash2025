@@ -149,7 +149,11 @@
       "w-full"
     ],
     "ids": [
+      "comment-soumettre",
       "consequences-of-violations",
+      "conséquences-des-infractions",
+      "dates-clés",
+      "détails-de-la-soumission",
       "eventbrite-widget-container-1486745468719",
       "how-to-submit",
       "key-dates",
@@ -158,10 +162,14 @@
       "navbar",
       "navbar-toggle",
       "openreview-submission",
+      "portée-du-code",
       "reporting-issues",
       "scope-of-the-code",
+      "signalement-des-problèmes",
+      "soumission-openreview",
       "submission-details",
-      "who-this-applies-to"
+      "who-this-applies-to",
+      "à-qui-ça-sapplique"
     ]
   }
 }

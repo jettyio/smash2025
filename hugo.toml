@@ -36,52 +36,52 @@ unsafe= true
 [languages.en.menus]
   [[languages.en.menus.main]]
     name = 'Call for Papers'
-    url = '/callforpapers'
+    url = '/en/callforpapers'
     pageRef = '/call-for-papers'
     weight = 15
   [[languages.en.menus.main]]
     name = 'Register'
-    url = '/register'
+    url = '/en/register'
     pageRef = '/register'
     weight = 17
   [[languages.en.menus.main]]
     name = 'Schedule'
-    url = '/schedule'
+    url = '/en/schedule'
     pageRef = '/schedule'
     weight = 20
   [[languages.en.menus.main]]
     name = 'Notable Papers'
-    url = '/notablepapers'
+    url = '/en/notablepapers'
     pageRef = '/notablepapers'
     weight = 30
   [[languages.en.menus.main]]
     name = 'Organizing Team'
-    url = '/organizingteam'
+    url = '/en/organizingteam'
     pageRef = '/organizingteam'
     weight = 40
 [languages.fr.menus]
   [[languages.fr.menus.main]]
     name = 'Appel de contributions'
-    url = '/callforpapers'
+    url = '/fr/callforpapers'
     pageRef = '/call-for-papers'
     weight = 15
   [[languages.fr.menus.main]]
     name = "S'inscrire"
-    url = '/register'
+    url = '/fr/register'
     pageRef = '/register'
     weight = 17
   [[languages.fr.menus.main]]
     name = 'Calendrier'
-    url = '/schedule'
+    url = '/fr/schedule'
     pageRef = '/schedule'
     weight = 20
   [[languages.fr.menus.main]]
     name = 'Articles marquants'
-    url = '/notablepapers'
+    url = '/fr/notablepapers'
     pageRef = '/notablepapers'
     weight = 30
   [[languages.fr.menus.main]]
     name = 'Équipe organisatrice'
-    url = '/organizingteam'
+    url = '/fr/organizingteam'
     pageRef = '/organizingteam'
     weight = 40
