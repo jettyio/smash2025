@@ -55,6 +55,13 @@
                                 {{ end }}
                             </li>
                         {{ end }}
+                        {{ if .IsTranslated }}
+                            {{ range .AllTranslations }}
+                                {{ if ne .Lang $.Lang }}
+                                    <li><a class="block text-blue-950 hover:text-blue-600" href="{{ .Permalink }}">{{ upper .Lang }}</a></li>
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
                     </ul>
                 </nav>
             </div>
