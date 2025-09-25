@@ -1,7 +1,7 @@
 +++
-title = 'Articles marquants'
+title = 'Articles à noter'
 +++
-Cette liste met en lumière des œuvres qui pourraient inspirer les participants à notre appel à contributions.
+Cette liste présente une sélection de travaux qui pourraient inspirer les participants pour notre appel à communications.
 
 - Bommasani, Rishi, et al. "On the opportunities and risks of foundation models." arXiv preprint arXiv:2108.07258 (2021).
 - Brownlee, Alexander EI, et al. "Exploring the accuracy–energy trade-off in machine learning." 2021 IEEE/ACM International Workshop on Genetic Improvement (GI). IEEE, 2021.
