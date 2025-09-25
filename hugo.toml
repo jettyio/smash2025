@@ -12,7 +12,7 @@ defaultContentLanguageInSubdir = true
   [languages.fr]
     contentDir = 'content/fr'
     languageName = 'Français'
-    title = 'SMASH 2025: Symposium sur la responsabilisation des modèles, la durabilité et les soins de santé'
+    title = 'SMASH 2025: Symposium sur  Responsabilité des Modèles, la Durabilité et la Santé'
     weight = 2
 [markup.goldmark.renderer]
 unsafe= true

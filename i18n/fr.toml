@@ -1,71 +1,71 @@
-conf_full_name = "Symposium sur la responsabilisation des modèles, la durabilité et les soins de santé"
+conf_full_name = "Symposium sur  Responsabilité des Modèles, la Durabilité et la Santé"
 conf_date = "4 au 5 novembre 2025"
 short_title = "SMASH 2025"
 site_description = "L'objectif de cet événement est d'identifier les défis et de proposer des solutions techniques, éthiques et réglementaires en matière de sécurité de l'IA, de confidentialité des données, d'interopérabilité des modèles et de responsabilité."
 register_now = "Inscrivez-vous maintenant"
 title_about = "À propos"
-about_para_1 = "Le Symposium sur la responsabilisation des modèles, la durabilité et la santé (SMASH) est un rassemblement interdisciplinaire axé sur l'opérationnalisation sécuritaire et responsable de l'IA. L'objectif de cet événement est d'identifier les défis et de proposer des solutions techniques, éthiques et réglementaires pour la sécurité de l'IA, la confidentialité des données, l'interopérabilité des modèles et la responsabilité. Ce symposium explorera ces sujets de recherche sous l'angle de la santé et de la durabilité."
-about_para_2 = "Le secteur de la santé adopte rapidement l'IA, et les connaissances acquises sont susceptibles d'éclairer les futures recherches en matière de développement durable. Ces disciplines évoluent au sein d'écosystèmes interconnectés d'acteurs, de technologies et de jeux de données, partageant à la fois les avantages potentiels et les risques inhérents."
+about_para_1 = "Le Symposium sur la Responsabilité des Modèles, la Durabilité et la Santé (SMASH) est un événement interdisciplinaire axé sur l'opérationnalisation de l'IA de manière sûre et responsable. L'objectif de cet événement est d'identifier les défis et de proposer des solutions techniques, éthiques et réglementaires pour la sécurité de l'IA, la confidentialité des données, l'interopérabilité des modèles et leurs responsabilités. Ce symposium explorera ces thèmes de recherche à travers le prisme de la santé et de la durabilité."
+about_para_2 = "Le secteur de la santé adopte rapidement l'IA, et les connaissances acquises sont susceptibles d'éclairer les futures recherches en matière de développement durable."
 about_img_alt = "Image montrant des personnes autour d'une table discutant de quelque chose"
 title_important_dates = "Dates importantes"
 important_dates_list = """
   <ul>
     <li><strong>12 juillet 2025:</strong> <a href="/fr/callforpapers">Ouverture des soumissions</a></li>
-    <li><strong>31 août 2025:</strong> PROLONGÉE! Date limite de soumission des articles</li>
-    <li><strong>25 septembre 2025:</strong> Annonce des décisions partagées avec les membres du Comité</li>
-    <li><strong>15 octobre 2025:</strong> Date limite de soumissions prêtes à la caméra</li>
+    <li><strong>31 août 2025:</strong> Date limite de soumission des articles</li>
+    <li><strong>25 septembre 2025:</strong> Notification des décisions aux auteurs</li>
+    <li><strong>15 octobre 2025:</strong> Date limite pour la version finale des articles</li>
   </ul>
   """
-title_invite_for_papers = "Inviter pour les papiers"
+title_invite_for_papers = "Appel à contributions"
 invite_for_papers_content = """
-  <p>Nous invitons les chercheurs à soumettre des résumés étendus de 4 pages dans les domaines de recherche définis ci-dessous.</p>
+  <p>Nous invitons les chercheur·se·s à soumettre des résumés étendus de 4 pages dans les domaines de recherche définis ci-dessous.</p>
 
-  <h4>Sécurité ML, confidentialité, responsabilité et alignement du modèle:</h4>
+  <h4>Sécurité du ML, confidentialité, responsabilité des modèles et alignement:</h4>
   <ul>
-    <li>Sécurité, robustesse et alignement des systèmes ML</li>
-    <li>Systèmes ML et traçabilité des logiciels</li>
-    <li>Applications des technologies d'amélioration de la vie privée (animaux de compagnie): confidentialité différentielle, apprentissage fédéré, etc.</li>
-    <li>Performances ML et méthodes d'analyse comparative</li>
-    <li>Mécanismes de suivi et de filigrane de la provenance ML</li>
+    <li>Sécurité, et alignement des systèmes de ML</li>
+    <li>Traçabilité des systèmes de ML et des logiciels</li>
+    <li>Applications des technologies de protection de la vie privée: confidentialité différentielle, apprentissage fédéré, etc.</li>
+    <li>Performances du ML et méthodes d'évaluation comparative</li>
+    <li>La provenance des systèmes de ML</li>
     <li>Cas d'utilisation de la sécurité pour les systèmes d'IA avancés</li>
   </ul>
 
-  <h4>Soumissions interdisciplinaires du droit et des sciences sociales:</h4>
+  <h4>Soumissions interdisciplinaires en droit et sciences sociales:</h4>
   <ul>
     <li>Acceptation des technologies de la ML par les cliniciens, les patients et les administrateurs</li>
-    <li>Évaluations et divulgations des risques ML</li>
+    <li>Évaluations et communications  des risques liés au ML</li>
     <li>Considérations éthiques lors du déploiement des systèmes ML</li>
-    <li>Régulation de la technologie ML</li>
+    <li>Réglementation des technologies de ML</li>
   </ul>
 
-  <p>Les contributions à SMASH qui sont de nature appliquée sont également les bienvenues, telles que les études de cas déployant la ML avec des données sensibles.</p>
+  <p>Les contributions à SMASH de nature appliquée sont également les bienvenues, telles que les études de cas sur le déploiement de ML avec des données sensibles.</p>
 
-  <h4>Applications de soins de santé:</h4>
+  <h4>Applications dans le domaine de la  santé:</h4>
   <ul>
-    <li>Applications de l'IA dans les soins de santé (administration, médecine de précision, soins aux patients, diagnostics)</li>
-    <li>Utilisation des données des patients dans la recherche ML</li>
-    <li>Métriques de la santé des soins de santé, surveillance et comparaison de l'analyse comparative</li>
+    <li>Applications de l'IA dans la santé (administration, médecine de précision, soins aux patients, diagnostics)</li>
+    <li>Utilisation des données de patients dans la recherche en ML</li>
+    <li>Métrique, suivi (monitoring) et évaluation comparative (benchmarking) du ML en santé</li>
   </ul>
 
-  <h4>Méthodes de durabilité ML:</h4>
+  <h4>Méthodes pour la durabilité du ML: </h4>
   <ul>
-    <li>ML Émissions Comptabilité Métriques</li>
-    <li>Études de cas et applications de la durabilité dans ML</li>
-    <li>Informatique durable et conception du système</li>
-    <li>Méthodes de comptabilité environnementale pour ML</li>
+    <li>Métrique de comptabilisation des émissions du ML</li>
+    <li>Études de cas et applications de la durabilité en ML</li>
+    <li>Informatique durable et conception de systèmes</li>
+    <li>Méthodes de comptabilité environnementale pour le ML</li>
   </ul>
 
-  <h5>Durabilité, soins de santé et sécurité, c'est un peu un mélange étrange - quel est le problème?</h5>
-  <p>Vous ne vous trompez pas. Mais c'est en quelque sorte le point! Nous sommes fermement croyants que la création d’espaces qui traversent les frontières académiques donne des informations convaincantes.</p>
+  <h5>« Durabilité, Santé et Sécurité... voilà une combinaison surprenante. Quelle est l'idée ? »</h5>
+  <p>Vous n'avez pas tort.  Mais c'est en quelque sorte le point! Nous sommes fermement convaincus que la création d’espaces qui traversent les frontières académiques  génère des perspectives enrichissantes.</p>
 
-  <p>Cet événement explore comment l'IA dans la durabilité et les soins de santé sont sur les trajectoires réglementaires et opérationnelles parallèles et qu'ils pourraient bénéficier d'un échange mutuel d'idées, de gouvernance et d'outillage.</p>
+  <p>Cet événement explore la manière dont l'IA dans les domaines de la durabilité et de la santé suit des trajectoires réglementaires et opérationnelles parallèles, et comment ces domaines pourraient bénéficier d'un échange mutuel d'idées, de gouvernance et d'outils.</p>
 """
-title_invited_speakers = "Conférenciers invités"
+title_invited_speakers = "Conférencier·ère.s invités"
 invited_speakers_content = """
   <p>Il reste quelques places pour des conférenciers invités. Si vos travaux sont d'application générale et que vous êtes prêt à présenter en personne, nous vous invitons à soumettre un titre et une brève description à l'attention des organisateurs de la conférence: <a href="mailto:contact@smashcon.org">contact@smashcon.org</a>.</p>
 """
 title_program_committee = "Comité de programme"
-title_sponsors = "Commanditaires"
+title_sponsors = "Partenaires"
 title_venue = "Lieu"
 code_of_conduct = """
   <a href="/fr/condeofconduct" class="underline">Code de conduite</a>
