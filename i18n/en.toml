@@ -1,0 +1,72 @@
+conf_full_name = "Symposium on Model Accountability, Sustainability and Healthcare"
+conf_date = "November 4-5 2025"
+short_title = "SMASH 2025"
+site_description = "The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability."
+register_now = "Register Now"
+title_about = "About"
+about_para_1 = "The Symposium on Model Accountability, Sustainability and Healthcare (SMASH) is an interdisciplinary gathering focused on operationalizing AI safely and responsibly. The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability. This symposium will explore these research topics through the lens of healthcare and sustainability."
+about_para_2 = "The healthcare sector is rapidly embracing AI, and the insights gained are likely to inform future sustainability research. These disciplines operate within interconnected ecosystems of stakeholders, technologies, and datasets, sharing both the potential benefits and inherent risks."
+about_img_alt = "Image showing people around a table discussing something"
+title_important_dates = "Important Dates"
+important_dates_list = """
+  <ul>
+    <li><strong>Jul 12, 2025:</strong> <a href="/en/callforpapers">Submission opens</a></li>
+    <li><strong>Aug 31, 2025:</strong> EXTENDED! Paper submission deadline</li>
+    <li><strong>Sep 25, 2025:</strong> Announcement of decisions shared with Committee members</li>
+    <li><strong>Oct 15, 2025:</strong> Camera-ready submissions deadline</li>
+  </ul>
+  """
+title_invite_for_papers = "Invite for Papers"
+invite_for_papers_content = """
+  <p>We invite researchers to submit 4 page extended abstracts under the research areas defined below.</p>
+
+  <h4>ML Safety, Privacy, Model Accountability and Alignment:</h4>
+  <ul>
+    <li>Safety, robustness and alignment of ML systems</li>
+    <li>ML systems and software traceability</li>
+    <li>Applications of privacy enhancing technologies (PETs): differential privacy, federated learning, etc.</li>
+    <li>ML performance and benchmarking methods</li>
+    <li>Mechanisms for ML provenance tracking and watermarking</li>
+    <li>Safety use cases for advanced AI systems</li>
+  </ul>
+
+  <h4>Interdisciplinary Submissions from Law and Social Sciences:</h4>
+  <ul>
+    <li>Acceptance of ML technologies by clinicians, patients, and administrators</li>
+    <li>ML risk assessments and disclosures</li>
+    <li>Ethical considerations when deploying ML systems</li>
+    <li>Regulation of ML technology</li>
+  </ul>
+
+  <p>Contributions to SMASH that are of an applied nature are also welcome, such as case studies deploying ML with sensitive data.</p>
+
+  <h4>Healthcare Applications:</h4>
+  <ul>
+    <li>Applications of AI in healthcare (administration, precision medicine, patient care, diagnostics)</li>
+    <li>Using patient data in ML research</li>
+    <li>Healthcare ML metrics, monitoring and benchmarking</li>
+  </ul>
+
+  <h4>Methods for ML Sustainability:</h4>
+  <ul>
+    <li>ML emissions accounting metrics</li>
+    <li>Case studies and applications of sustainability in ML</li>
+    <li>Sustainable computing and system design</li>
+    <li>Environmental accounting methods for ML</li>
+  </ul>
+
+  <h5>Sustainability, Healthcare and Safety, that's a bit of an odd mix - what's the deal?</h5>
+  <p>You’re not wrong. But that's kind of the point! We’re firm believers that creating spaces that cut across academic boundaries yields compelling insights.</p>
+
+  <p>This event explores how AI in Sustainability and Healthcare are on parallel regulatory and operational trajectories and that they might benefit from a mutual exchange of ideas, governance and tooling.</p>
+  """
+title_invited_speakers = "Invited Speakers"
+invited_speakers_content = """
+  <p>We still have a few openings for invited speakers. If your work is broadly applicable, and you are willing to present in person, we invite you to submit a title for a talk and a brief description to the conference organizers: <a href="mailto:contact@smashcon.org">contact@smashcon.org</a>.</p>
+"""
+title_program_committee = "Program Committee"
+title_sponsors = "Sponsors"
+title_venue = "Venue"
+code_of_conduct = """
+  <a href="/en/condeofconduct" class="underline">Code of Conduct</a>
+"""

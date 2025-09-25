@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ .Lang }}">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -10,27 +10,27 @@
         <!-- Primary Meta Tags -->
         <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
         <meta name="title" content="{{ .Site.Title }}" />
-        <meta name="description" content="{{ .Site.Params.Description }}" />
+        <meta name="description" content='{{ T "site_description" }}' />
 
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="website" />
         <meta property="og:url" content="{{ .Site.BaseURL }}" />
         <meta property="og:title" content="{{ .Site.Title }}" />
-        <meta property="og:description" content="{{ .Site.Params.Description }}" />
+        <meta property="og:description" content='{{ T "site_description" }}' />
         <meta property="og:image" content="/meta_image.jpg" />
 
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="{{ .Site.BaseURL }}" />
         <meta property="twitter:title" content="{{ .Site.Title }}" />
-        <meta property="twitter:description" content="{{ .Site.Params.Description }}" />
+        <meta property="twitter:description" content='{{ T "site_description" }}' />
         <meta property="twitter:image" content="/meta_image.jpg" />
 
         <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <link rel="shortcut icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-        <meta name="apple-mobile-web-app-title" content="{{ .Site.Params.Shorttitle }}" />
+        <meta name="apple-mobile-web-app-title" content='{{ T "short_title" }}' />
         <link rel="manifest" href="/site.webmanifest" />
         <style>
             h5 { font-style: italic; font-weight: 200; }
@@ -39,12 +39,12 @@
     <body class="bg-sky-50">
         <header class="w-full p-4 fixed bg-sky-50 hidden md:block">
             <div class="flex flex-row items-center justify-between">
-                <a href="/" class="flex flex-row items-center">
+                <a href="/{{ .Lang }}" class="flex flex-row items-center">
                     <img src="/logo.svg" class="h-10 w-auto mr-2" />
-                    <span class="font-black text-xl tracking-wider">{{ .Site.Params.Shorttitle }}</span>
+                    <span class="font-black text-xl tracking-wider">{{ T "short_title" }}</span>
                 </a>
                 <nav>
-                    <ul class="flex flex-row text-sm space-x-4">
+                    <ul class="flex flex-row text-sm space-x-4 items-center">
                         {{ $currentPage := . }}
                         {{ range site.Menus.main }}
                             <li>
@@ -55,17 +55,33 @@
                                 {{ end }}
                             </li>
                         {{ end }}
+                        {{ if .IsTranslated }}
+                            {{ range .AllTranslations }}
+                                {{ if ne .Lang $.Lang }}
+                                    <li>
+                                        <a class="block px-2 pt-2 pb-2.5 text-sm text-blue-950 rounded-lg ring-1 ring-blue-800 leading-none hover:bg-gray-200" href="{{ .Permalink }}">{{ upper .Lang }}</a>
+                                    </li>
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
                     </ul>
                 </nav>
             </div>
         </header>
         <header class="w-full p-4 fixed bg-sky-50 md:hidden">
-            <div class="flex flex-row items-center justify-between">
+            <div class="flex flex-row items-center">
                 <a href="/" class="flex flex-row items-center">
                     <img src="/logo.svg" class="h-10 w-auto mr-2" />
-                    <span class="font-black text-xl tracking-wider">{{ .Site.Params.Shorttitle }}</span>
+                    <span class="font-black text-xl tracking-wider">{{ T "short_title" }}</span>
                 </a>
-                <button id="navbar-toggle" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-black rounded-lg cursor-pointer hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-gray-800">
+                {{ if .IsTranslated }}
+                    {{ range .AllTranslations }}
+                        {{ if ne .Lang $.Lang }}
+                            <a class="inline-flex items-center justify-center ml-auto mr-4 p-2 pb-2.5 w-10 h-10 text-sm text-blue-950 rounded-lg ring-1 ring-blue-800 leading-none hover:bg-gray-200" href="{{ .Permalink }}">{{ upper .Lang }}</a>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+                <button id="navbar-toggle" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-black rounded-lg cursor-pointer hover:bg-gray-200 focus:outline-none ring-1 ring-blue-800">
                     <svg class="w-5 h-5" id="menu-icon-open" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15"/>
                     </svg>
@@ -94,7 +110,7 @@
             {{ block "main" . }}{{ end }}
         </main>
         <footer class="text-center py-10">
-            <p class="text-sm">&copy; 2025 SMASH&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/condeofconduct" class="underline">Code of Conduct</a></p>
+            <p class="text-sm">&copy; 2025 SMASH&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;{{ T "code_of_conduct" | safeHTML }}</p>
         </footer>
         <script data-goatcounter="https://smashcon.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
         <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
