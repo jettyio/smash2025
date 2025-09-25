@@ -2,7 +2,6 @@ baseURL = 'https://smash.org/'
 languageCode = 'en-us'
 disableHugoGeneratorInject = true
 defaultContentLanguage = 'en'
-defaultContentLanguageInSubdir = true
 [languages]
   [languages.en]
     contentDir = 'content/en'
