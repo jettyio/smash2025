@@ -10,4 +10,4 @@ title = 'Organizing Team'
 - **Scott Schaffter**, Google Sustainability
 - **Keyu Wang**, Harvard University
 
-If you have any questions contact the SMASH organizing team at contact&lt;@&gt;smashcon.org.
+If you have any questions contact the SMASH organizing team at contact@smashcon.org.

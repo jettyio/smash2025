@@ -1,6 +1,7 @@
 +++
-title = 'Équipe organisatrice'
+title = "Équipe d'organisation"
 +++
+
 - **Rawan Hakeem**, Google
 - **Jonathan Lebensold**, Mila, Akinox
 - **Shahrad Mohammadzadeh**, Mila, McGill University
@@ -10,4 +11,4 @@ title = 'Équipe organisatrice'
 - **Scott Schaffter**, Google Sustainability
 - **Keyu Wang**, Harvard University
 
-Si vous avez des questions, contactez l'équipe organisatrice de SMASH à contact&lt;@&gt;smashcon.org.
+Si vous avez des questions, contactez l'équipe organisatrice de SMASH à contact@smashcon.org.
