@@ -45,11 +45,6 @@ unsafe= true
     pageRef = '/register'
     weight = 17
   [[languages.en.menus.main]]
-    name = 'Schedule'
-    url = '/schedule'
-    pageRef = '/schedule'
-    weight = 20
-  [[languages.en.menus.main]]
     name = 'Notable Papers'
     url = '/notablepapers'
     pageRef = '/notablepapers'
@@ -70,11 +65,6 @@ unsafe= true
     url = '/register'
     pageRef = '/register'
     weight = 17
-  [[languages.fr.menus.main]]
-    name = 'Calendrier'
-    url = '/schedule'
-    pageRef = '/schedule'
-    weight = 20
   [[languages.fr.menus.main]]
     name = 'Articles marquants'
     url = '/notablepapers'
