@@ -1,8 +1,23 @@
 [
   {
-    "firstname": "Vrushali",
-    "lastname": "Gaud",
-    "title": "Google"
+    "firstname": "Adriana",
+    "lastname": "Romero Soriano",
+    "title": "Meta AI, CIFAR, Mila"
+  },
+  {
+    "firstname": "Audrey",
+    "lastname": "Durand",
+    "title": "Université Laval, CIFAR"
+  },
+  {
+    "firstname": "Ayse",
+    "lastname": "Coskun",
+    "title": "Boston University"
+  },
+  {
+    "firstname": "Blake",
+    "lastname": "Richards",
+    "title": "Mila, Montreal Neuro"
   },
   {
     "firstname": "Christian",
@@ -10,13 +25,43 @@
     "title": "Carnegie Mellon University"
   },
   {
+    "firstname": "Doina",
+    "lastname": "Precup",
+    "title": "Google DeepMind, Mila"
+  },
+  {
+    "firstname": "Goktug",
+    "lastname": "Bender",
+    "title": "McGill University"
+  },
+  {
+    "firstname": "Mark",
+    "lastname": "Casselman",
+    "title": "Akinox"
+  },
+  {
     "firstname": "Maroussia",
     "lastname": "Lévesque",
     "title": "Harvard University, CIGI"
   },
   {
-    "firstname": "Sumanth",
-    "lastname": "Ratna",
-    "title": "CHAI"
+    "firstname": "Matt",
+    "lastname": "Kusner",
+    "title": "McGill University"
+  },
+  {
+    "firstname": "Oana",
+    "lastname": "Balmau",
+    "title": "McGill University"
+  },
+  {
+    "firstname": "Omar",
+    "lastname": "Benjelloun",
+    "title": "Google DeepMind"
+  },
+  {
+    "firstname": "Vrushali",
+    "lastname": "Gaud",
+    "title": "Google Sustainability"
   }
 ]
