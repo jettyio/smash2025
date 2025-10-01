@@ -3,6 +3,7 @@ title = 'Programme de la conférence'
 +++
 
 {{< rawhtml >}}
+<h4>Remarque : l'agenda ci-dessous est encore sujet à de légers changements avant l'événement.</h4>
 <div class="flex flex-col gap-8">
   <!-- Jour 1 -->
   <section>
