@@ -162,7 +162,6 @@
       "text-blue-950",
       "text-center",
       "text-gray-700",
-      "text-left",
       "text-lg",
       "text-right",
       "text-sm",
@@ -173,12 +172,13 @@
       "tracking-wider",
       "transition-colors",
       "underline",
+      "w-1/5",
       "w-10",
       "w-36",
+      "w-4/5",
       "w-5",
       "w-auto",
-      "w-full",
-      "whitespace-nowrap"
+      "w-full"
     ],
     "ids": [
       "comment-soumettre",
