@@ -50,9 +50,9 @@ unsafe= true
     pageRef = '/agenda'
     weight = 18
   [[languages.en.menus.main]]
-    name = 'Notable Papers'
-    url = '/notablepapers'
-    pageRef = '/notablepapers'
+    name = 'Accepted Papers'
+    url = '/acceptedpapers'
+    pageRef = '/acceptedpapers'
     weight = 30
   [[languages.en.menus.main]]
     name = 'Organizing Team'
@@ -76,9 +76,9 @@ unsafe= true
     pageRef = '/agenda'
     weight = 18
   [[languages.fr.menus.main]]
-    name = 'Articles à noter'
-    url = '/notablepapers'
-    pageRef = '/notablepapers'
+    name = 'Soumissions Acceptées'
+    url = '/acceptedpapers'
+    pageRef = '/acceptedpapers'
     weight = 30
   [[languages.fr.menus.main]]
     name = 'Équipe organisatrice'

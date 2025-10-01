@@ -70,3 +70,7 @@ title_venue = "Lieu"
 code_of_conduct = """
   <a href="/fr/condeofconduct" class="underline">Code de conduite</a>
 """
+title_accepted_papers = "Soumissions Acceptées"
+accepted_papers_para_1 = """
+  <p>Congratulations to all the accepted papers! You can see them and the spotlight papers on the <a href="/en/acceptedpapers">accepted papers</a> page.</p>
+"""
