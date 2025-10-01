@@ -72,5 +72,5 @@ code_of_conduct = """
 """
 title_accepted_papers = "Soumissions Acceptées"
 accepted_papers_para_1 = """
-  <p>Congratulations to all the accepted papers! You can see them and the spotlight papers on the <a href="/en/acceptedpapers">accepted papers</a> page.</p>
+  <p>Congratulations to all the accepted papers! You can see them and the spotlight papers on the <a href="/fr/acceptedpapers">accepted papers</a> page.</p>
 """
