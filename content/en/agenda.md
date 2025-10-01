@@ -1,0 +1,128 @@
++++
+title = 'Conference Agenda'
++++
+
+<div class="max-w-6xl mx-auto px-4 py-8">
+  <!-- Day 1 -->
+  <div class="mb-12">
+    <h2 class="text-3xl font-bold text-blue-600 mb-2">Day 1 (Morning @ Mila Agora)</h2>
+    <p class="text-lg text-gray-700 mb-6">9:30am-5:00pm</p>
+    
+    <div class="overflow-x-auto">
+      <table class="w-full border-collapse border border-gray-300 bg-white shadow-lg">
+        <thead>
+          <tr class="bg-blue-600 text-white">
+            <th class="border border-gray-300 px-4 py-3 text-left font-semibold">Section</th>
+            <th class="border border-gray-300 px-4 py-3 text-right font-semibold">Time in ET</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Check-in, registration, snacks & coffee</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">8:15-9:15</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Welcome and Agenda</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">9:30-9:40</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Keynote (Responsible AI & Evaluation)</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">9:40-11:50</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Break</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">10:25-11:05</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Keynote (AI Safety & Benchmarking)</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">11:05-11:50</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Lunch + Interactive Installation</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">11:50-1:30</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Keynote (Sustainability)</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">1:30-2:15</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Invited Speakers (Accountability & AI Ethics)</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">2:15-3:15</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Break</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">3:15-3:45</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Invited Speakers (Sustainability & Model Benchmarking - Healthcare focus)</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">3:45-4:45</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Close</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">4:45-5:00</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Day 2 -->
+  <div class="mb-12">
+    <h2 class="text-3xl font-bold text-blue-600 mb-2">Day 2 (Morning @ Mila Agora)</h2>
+    <p class="text-lg text-gray-700 mb-6">9:30am-5:00pm</p>
+    
+    <div class="overflow-x-auto">
+      <table class="w-full border-collapse border border-gray-300 bg-white shadow-lg">
+        <thead>
+          <tr class="bg-blue-600 text-white">
+            <th class="border border-gray-300 px-4 py-3 text-left font-semibold">Section</th>
+            <th class="border border-gray-300 px-4 py-3 text-right font-semibold">Time in ET</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Welcome and Agenda</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">9:30-9:40</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Panel Discussion around key complexities in AI deployment in an increasingly legislated & dynamic environment</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">9:40-10:40</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Break</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">10:40-11:10</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Industrial Highlight (Healthcare)</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">11:10-12:00</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Lunch & poster session</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">12:00-2:00</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Spotlight talks (4)</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">2:00-2:45</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Break</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">2:45-3:15</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Spotlight talks (5)</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">3:15-4:15</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Interactive Capstone Dialog <span class="underline">(mini-unconference)</span></td>
+            <td class="border border-gray-300 px-4 py-3 text-right">4:15-5:30</td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="border border-gray-300 px-4 py-3">Close</td>
+            <td class="border border-gray-300 px-4 py-3 text-right">5:30</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
