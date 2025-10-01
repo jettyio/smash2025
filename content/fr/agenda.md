@@ -7,7 +7,7 @@ title = 'Programme de la conférence'
   <!-- Jour 1 -->
   <section>
     <h2 class="!m-0">Jour 1 (Matin @ Mila Agora)</h2>
-    <time class="!m-0">9h30-17h00</time>
+    <time class="!m-0">9h30-17h30</time>
     <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
       <table class="w-full border-collapse bg-white !m-0">
         <thead>
@@ -59,7 +59,7 @@ title = 'Programme de la conférence'
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
             <td class="px-6 py-4">Clôture</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm"><time>16h45-17h00</time></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm"><time>16h45-17h30</time></td>
           </tr>
         </tbody>
       </table>
@@ -69,7 +69,7 @@ title = 'Programme de la conférence'
   <!-- Jour 2 -->
   <section>
     <h2 class="!m-0">Jour 2 (Matin @ Mila Agora)</h2>
-    <time class="!m-0">9h30-17h00</time>
+    <time class="!m-0">9h30-17h30</time>
     <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
       <table class="w-full border-collapse bg-white !m-0">
         <thead>
@@ -113,11 +113,11 @@ title = 'Programme de la conférence'
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
             <td class="px-6 py-4">Dialogue interactif Capstone (<a href="https://fr.wikipedia.org/wiki/Non-conf%C3%A9rence" class="text-blue-600 font-normal">mini-unconférence</a>)</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm"><time>16h15-17h30</time></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm"><time>16h15-17h15</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
             <td class="px-6 py-4">Clôture</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm"><time>17h30</time></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm"><time>17h15-17h30</time></td>
           </tr>
         </tbody>
       </table>

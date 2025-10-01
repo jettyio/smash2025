@@ -7,7 +7,7 @@ title = 'Conference Agenda'
   <!-- Day 1 -->
   <section>
     <h2 class="!m-0">Day 1 (Morning @ Mila Agora)</h2>
-    <time class="!m-0">9:30am-5:00pm</time>
+    <time class="!m-0">9:30am-5:30pm</time>
     <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
       <table class="w-full border-collapse bg-white !m-0">
         <thead>
@@ -59,7 +59,7 @@ title = 'Conference Agenda'
           </tr>
           <tr class="hover:bg-gray-50">
             <td class="px-6 py-4">Close</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm"><time>16:45-17:00</time></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm"><time>16:45-17:30</time></td>
           </tr>
         </tbody>
       </table>
@@ -69,7 +69,7 @@ title = 'Conference Agenda'
   <!-- Day 2 -->
   <section>
     <h2 class="!m-0">Day 2 (Morning @ Mila Agora)</h2>
-    <time class="!m-0">9:30am-5:00pm</time>
+    <time class="!m-0">9:30am-5:30pm</time>
     <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
       <table class="w-full border-collapse bg-white !m-0">
         <thead>
@@ -113,11 +113,11 @@ title = 'Conference Agenda'
           </tr>
           <tr class="hover:bg-gray-50">
             <td class="px-6 py-4">Interactive Capstone Dialog (<a href="https://en.wikipedia.org/wiki/Unconference" class="text-blue-600 font-normal">mini-unconference</a>)</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm"><time>16:15-17:30</time></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm"><time>16:15-17:15</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
             <td class="px-6 py-4">Close</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm"><time>17:30</time></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm"><time>17:15-17:30</time></td>
           </tr>
         </tbody>
       </table>
