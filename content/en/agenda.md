@@ -3,6 +3,7 @@ title = 'Conference Agenda'
 +++
 
 {{< rawhtml >}}
+<h4>Note: the below agenda is still subject to some minor changes prior to the event.</h4>
 <div class="flex flex-col gap-8">
   <!-- Day 1 -->
   <section>
