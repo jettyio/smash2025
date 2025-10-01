@@ -30,3 +30,6 @@ HUGO_VERSION = "0.147.2"
 [[redirects]]
   from = '/organizingteam'
   to = '/en/organizingteam'
+[[redirects]]
+  from = '/en/notablepapers'
+  to = '/en/acceptedpapers'
