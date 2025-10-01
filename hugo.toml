@@ -35,6 +35,11 @@ unsafe= true
     target = 'assets/notwatching/hugo_stats.json'
 [languages.en.menus]
   [[languages.en.menus.main]]
+    name = 'Accepted Papers'
+    url = '/acceptedpapers'
+    pageRef = '/acceptedpapers'
+    weight = 10
+  [[languages.en.menus.main]]
     name = 'Call for Papers'
     url = '/callforpapers'
     pageRef = '/callforpapers'
@@ -50,16 +55,16 @@ unsafe= true
     pageRef = '/agenda'
     weight = 18
   [[languages.en.menus.main]]
-    name = 'Accepted Papers'
-    url = '/acceptedpapers'
-    pageRef = '/acceptedpapers'
-    weight = 30
-  [[languages.en.menus.main]]
     name = 'Organizing Team'
     url = '/organizingteam'
     pageRef = '/organizingteam'
     weight = 40
 [languages.fr.menus]
+  [[languages.fr.menus.main]]
+    name = 'Soumissions Acceptées'
+    url = '/acceptedpapers'
+    pageRef = '/acceptedpapers'
+    weight = 10
   [[languages.fr.menus.main]]
     name = 'Appel de contributions'
     url = '/callforpapers'
@@ -75,11 +80,6 @@ unsafe= true
     url = '/agenda'
     pageRef = '/agenda'
     weight = 18
-  [[languages.fr.menus.main]]
-    name = 'Soumissions Acceptées'
-    url = '/acceptedpapers'
-    pageRef = '/acceptedpapers'
-    weight = 30
   [[languages.fr.menus.main]]
     name = 'Équipe organisatrice'
     url = '/organizingteam'
