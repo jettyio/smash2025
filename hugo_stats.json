@@ -48,6 +48,8 @@
       "!mb-0",
       "!mt-0",
       "-mb-50",
+      "bg-[#232f44]",
+      "bg-[#364153]",
       "bg-[url('/home_header_bg.svg')]",
       "bg-blend-multiply",
       "bg-blue-600",

@@ -12,7 +12,7 @@ title = 'Conference Agenda'
     <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
       <table class="w-full border-collapse bg-white !m-0">
         <thead>
-          <tr class="bg-blue-600">
+          <tr class="bg-[#232f44]">
             <th class="px-6 py-4 text-left font-semibold text-white">Section</th>
             <th class="border-l border-gray-200 px-6 py-4 text-right font-semibold text-white">Time in ET</th>
           </tr>
@@ -74,7 +74,7 @@ title = 'Conference Agenda'
     <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
       <table class="w-full border-collapse bg-white !m-0">
         <thead>
-          <tr class="bg-blue-600">
+          <tr class="bg-[#232f44]">
             <th class="px-6 py-4 text-left font-semibold text-white">Section</th>
             <th class="border-l border-gray-200 px-6 py-4 text-right font-semibold text-white">Time in ET</th>
           </tr>
