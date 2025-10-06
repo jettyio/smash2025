@@ -13,6 +13,7 @@ title = 'Organizing Team'
 - **Jonathan Lebensold**, Mila, Akinox
 - **Shahrad Mohammadzadeh**, Mila, McGill University
 - **Abdullah Norozi Iranzad**
+- **Doina Precup**, Google Deepmind, Mila, McGill University
 - **Maya Razon**, The Google School for Leaders
 - **Scott Schaffter**, Google Sustainability
 - **Keyu Wang**, Harvard University
