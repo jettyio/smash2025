@@ -1,6 +1,14 @@
 +++
 title = 'Organizing Team'
 +++
+
+### Executive Steering Committee
+
+- **Vrushali Gaud**, Google Sustainability
+- **Doina Precup**, Google Deepmind, Mila, McGill University
+
+### Core Organizing Committee
+
 - **Rawan Hakeem**, Google
 - **Jonathan Lebensold**, Mila, Akinox
 - **Shahrad Mohammadzadeh**, Mila, McGill University
