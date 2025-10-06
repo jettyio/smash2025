@@ -14,15 +14,7 @@
     </div>
   </section>
   <section>
-    <div class="max-w-4xl m-auto pt-10 md:pt-20 pb-5 md:py-10 px-4">
-      <h3 class="text-4xl md:text-7xl !m-0 pb-5 md:pb-10 text-teal-500">{{ T "title_accepted_papers" }}</h3>
-      <div class="">
-        <p class="!m-0">{{ T "accepted_papers_para_1" | safeHTML }}</p>
-      </div>
-    </div>
-  </section>
-  <section class="-mb-50">
-    <div class="max-w-4xl m-auto pt-10 pb-5 md:pb-10 px-4">
+    <div class="max-w-4xl m-auto pt-10 pb-5 md:pt-20 md:pb-10 px-4">
       <h3 class="text-4xl md:text-7xl !m-0 pb-5 md:pb-10 text-teal-500">{{ T "title_about" }}</h3>
       <div class="grid gap-6 md:grid-cols-2 md:gap-12">
         <p class="!m-0">{{ T "about_para_1" }}</p>
@@ -31,14 +23,18 @@
       <figure class="!mb-0"><img src="/about.jpg" alt='{{ T "about_img_alt" }}'></figure>
     </div>
   </section>
-  <div class="bg-gradient-to-br from-green-200 to-sky-100 pt-50 pb-10 md:pb-20">
+  <section>
+    <div class="max-w-4xl m-auto pt-10 pb-5 md:pb-10 px-4">
+      <h3 class="text-4xl md:text-7xl !m-0 pb-5 md:pb-10 text-teal-500">{{ T "title_accepted_papers" }}</h3>
+      <div class="">
+        <p class="!m-0">{{ T "accepted_papers_para_1" | safeHTML }}</p>
+      </div>
+    </div>
+  </section>
+  <div class="bg-gradient-to-br from-green-200 to-sky-100 pt-10 pb-10 md:pb-20">
     <section class="max-w-4xl m-auto py-5 md:py-10 px-4">
       <h3 class="text-4xl md:text-7xl !m-0 pb-5 md:pb-10 text-teal-500">{{ T "title_important_dates" }}</h3>
       {{ T "important_dates_list" | safeHTML }}
-    </section>
-    <section class="max-w-4xl m-auto py-5 md:py-10 px-4">
-      <h3 class="text-4xl md:text-7xl !m-0 pb-5 md:pb-10 text-teal-500">{{ T "title_invite_for_papers" }}</h3>
-      {{ T "invite_for_papers_content" | safeHTML }}
     </section>
     <section class="max-w-4xl m-auto py-5 md:py-10 px-4">
       <h3 class="text-4xl md:text-7xl !m-0 pb-5 md:pb-10 text-teal-500">{{ T "title_invited_speakers" }}</h3>
