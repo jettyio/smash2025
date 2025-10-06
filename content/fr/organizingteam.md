@@ -2,13 +2,6 @@
 title = "Équipe d'organisation"
 +++
 
-### Comité de Direction Exécutif
-
-- **Vrushali Gaud**, Google Sustainability
-- **Doina Precup**, Google Deepmind, Mila, McGill University
-
-### Comité d'Organisation Principal
-
 - **Rawan Hakeem**, Google
 - **Jonathan Lebensold**, Mila, Akinox
 - **Shahrad Mohammadzadeh**, Mila, McGill University
