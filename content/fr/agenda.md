@@ -23,11 +23,11 @@ title = 'Programme de la conférence'
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>8h15-9h15</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
-            <td class="px-6 py-4 w-4/5">Bienvenue et ordre du jour</td>
+            <td class="px-6 py-4 w-4/5">Bienvenue et ordre du jour<br><em>Doina Precup</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9h30-9h40</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
-            <td class="px-6 py-4 w-4/5">Conférence principale (IA responsable et évaluation)</td>
+            <td class="px-6 py-4 w-4/5">Conférence principale (IA responsable et évaluation)<br><em>Milind Tambe</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9h40-11h50</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
@@ -35,7 +35,7 @@ title = 'Programme de la conférence'
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10h25-11h05</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
-            <td class="px-6 py-4 w-4/5">Conférence principale (Sécurité de l'IA)</td>
+            <td class="px-6 py-4 w-4/5">Conférence principale (Sécurité de l'IA)<br><em>Adriana Romero</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h05-11h50</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
@@ -43,11 +43,11 @@ title = 'Programme de la conférence'
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h50-13h30</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
-            <td class="px-6 py-4 w-4/5">Conférence principale (Durabilité)</td>
+            <td class="px-6 py-4 w-4/5">Conférence principale (Durabilité)<br><em>Vrushali Gaud</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>13h30-14h15</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
-            <td class="px-6 py-4 w-4/5">Conférenciers invités (Responsabilité et éthique de l'IA)</td>
+            <td class="px-6 py-4 w-4/5">Conférenciers invités (Responsabilité et éthique de l'IA)<br><em>Maroussia Lévesque, Christian Kästner</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14h15-15h15</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
@@ -55,7 +55,7 @@ title = 'Programme de la conférence'
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15h15-15h45</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
-            <td class="px-6 py-4 w-4/5">Conférenciers invités<br>(Durabilité et analyse comparative des modèles - accent sur le santé)</td>
+            <td class="px-6 py-4 w-4/5">Conférenciers invités<br>(Durabilité et analyse comparative des modèles - accent sur le santé)<br><em>Omar Benjelloun, Ayse Coskun</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15h45-16h45</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
@@ -85,7 +85,7 @@ title = 'Programme de la conférence'
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9h30-9h40</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
-            <td class="px-6 py-4 w-4/5">Table ronde sur les principales complexités du déploiement de l'IA dans un<br>environnement de plus en plus législatif et dynamique</td>
+            <td class="px-6 py-4 w-4/5">Table ronde sur les principales complexités du déploiement de l'IA dans un<br>environnement de plus en plus législatif et dynamique<br><em>Vrushali Gaud, Doina Precup, Blake Richards, Audrey Durand</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9h40-10h40</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
@@ -93,7 +93,7 @@ title = 'Programme de la conférence'
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10h40-11h10</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
-            <td class="px-6 py-4 w-4/5">Faits saillants de l'industrie (santé)</td>
+            <td class="px-6 py-4 w-4/5">Faits saillants de l'industrie (santé)<br><em>Akinox (Mark Casselman), CHAI (Sumanth Ratna)</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h10-12h00</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">

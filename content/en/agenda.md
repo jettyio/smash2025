@@ -23,11 +23,11 @@ title = 'Conference Agenda'
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>8:15-9:15</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Welcome and Agenda</td>
+            <td class="px-6 py-4 w-4/5">Welcome and Agenda<br><em>Doina Precup</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9:30-9:40</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Keynote (Responsible AI & Evaluation)</td>
+            <td class="px-6 py-4 w-4/5">Keynote (Responsible AI & Evaluation)<br><em>Milind Tambe</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9:40-11:50</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
@@ -35,7 +35,7 @@ title = 'Conference Agenda'
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10:25-11:05</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Keynote (AI Safety & Benchmarking)</td>
+            <td class="px-6 py-4 w-4/5">Keynote (AI Safety & Benchmarking)<br><em>Adriana Romero</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11:05-11:50</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
@@ -43,11 +43,11 @@ title = 'Conference Agenda'
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11:50-13:30</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Keynote (Sustainability)</td>
+            <td class="px-6 py-4 w-4/5">Keynote (Sustainability)<br><em>Vrushali Gaud</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>13:30-14:15</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Invited Speakers (Accountability & AI Ethics)</td>
+            <td class="px-6 py-4 w-4/5">Invited Speakers (Accountability & AI Ethics)<br><em>Maroussia Lévesque, Christian Kästner</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14:15-15:15</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
@@ -55,7 +55,7 @@ title = 'Conference Agenda'
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15:15-15:45</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Invited Speakers (Sustainability & Model Benchmarking - Healthcare focus)</td>
+            <td class="px-6 py-4 w-4/5">Invited Speakers (Sustainability & Model Benchmarking - Healthcare focus)<br><em>Omar Benjelloun, Ayse Coskun</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15:45-16:45</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
@@ -85,7 +85,7 @@ title = 'Conference Agenda'
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9:30-9:40</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Panel Discussion around key complexities in AI deployment in an increasingly legislated & dynamic environment</td>
+            <td class="px-6 py-4 w-4/5">Panel Discussion around key complexities in AI deployment in an increasingly legislated & dynamic environment<br><em>Vrushali Gaud, Doina Precup, Blake Richards, Audrey Durand</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9:40-10:40</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
@@ -93,7 +93,7 @@ title = 'Conference Agenda'
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10:40-11:10</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Industrial Highlight (Healthcare)</td>
+            <td class="px-6 py-4 w-4/5">Industrial Highlight (Healthcare)<br><em>Akinox (Mark Casselman), CHAI (Sumanth Ratna)</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11:10-12:00</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
