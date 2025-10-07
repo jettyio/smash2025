@@ -7,15 +7,6 @@ title_about = "À propos"
 about_para_1 = "Le Symposium sur la Responsabilité des Modèles, la Durabilité et la Santé (SMASH) est un événement interdisciplinaire axé sur l'opérationnalisation de l'IA de manière sûre et responsable. L'objectif de cet événement est d'identifier les défis et de proposer des solutions techniques, éthiques et réglementaires pour la sécurité de l'IA, la confidentialité des données, l'interopérabilité des modèles et leurs responsabilités. Ce symposium explorera ces thèmes de recherche à travers le prisme de la santé et de la durabilité."
 about_para_2 = "Le secteur de la santé adopte rapidement l'IA, et les connaissances acquises sont susceptibles d'éclairer les futures recherches en matière de développement durable."
 about_img_alt = "Image montrant des personnes autour d'une table discutant de quelque chose"
-title_important_dates = "Dates importantes"
-important_dates_list = """
-  <ul>
-    <li><strong>12 juillet 2025:</strong> <a href="/fr/callforpapers">Ouverture des soumissions</a></li>
-    <li><strong>31 août 2025:</strong> Date limite de soumission des articles</li>
-    <li><strong>25 septembre 2025:</strong> Notification des décisions aux auteurs</li>
-    <li><strong>15 octobre 2025:</strong> Date limite pour la version finale des articles</li>
-  </ul>
-  """
 title_invite_for_papers = "Appel à contributions"
 invite_for_papers_content = """
   <p>Nous invitons les chercheur·se·s à soumettre des résumés étendus de 4 pages dans les domaines de recherche définis ci-dessous.</p>
@@ -72,5 +63,5 @@ code_of_conduct = """
 """
 title_accepted_papers = "Soumissions Acceptées"
 accepted_papers_para_1 = """
-  <p>Congratulations to all the accepted papers! You can see them and the spotlight papers on the <a href="/fr/acceptedpapers">accepted papers</a> page.</p>
+  <p>Félicitations à tous les articles acceptés ! Vous pouvez les consulter, ainsi que les articles phares, <a href="/fr/acceptedpapers">sur la page des articles acceptés</a>.</p>
 """

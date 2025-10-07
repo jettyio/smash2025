@@ -7,15 +7,6 @@ title_about = "About"
 about_para_1 = "The Symposium on Model Accountability, Sustainability and Healthcare (SMASH) is an interdisciplinary gathering focused on operationalizing AI safely and responsibly. The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability. This symposium will explore these research topics through the lens of healthcare and sustainability."
 about_para_2 = "The healthcare sector is rapidly embracing AI, and the insights gained are likely to inform future sustainability research. These disciplines operate within interconnected ecosystems of stakeholders, technologies, and datasets, sharing both the potential benefits and inherent risks."
 about_img_alt = "Image showing people around a table discussing something"
-title_important_dates = "Important Dates"
-important_dates_list = """
-  <ul>
-    <li><strong>Jul 12, 2025:</strong> <a href="/en/callforpapers">Submission opens</a></li>
-    <li><strong>Aug 31, 2025:</strong> EXTENDED! Paper submission deadline</li>
-    <li><strong>Sep 25, 2025:</strong> Announcement of decisions shared with Committee members</li>
-    <li><strong>Oct 15, 2025:</strong> Camera-ready submissions deadline</li>
-  </ul>
-  """
 title_invite_for_papers = "Invite for Papers"
 invite_for_papers_content = """
   <p>We invite researchers to submit 4 page extended abstracts under the research areas defined below.</p>
@@ -72,5 +63,5 @@ code_of_conduct = """
 """
 title_accepted_papers = "Accepted Papers"
 accepted_papers_para_1 = """
-  <p>Congratulations to all the accepted papers! You can see them and the spotlight papers on the <a href="/en/acceptedpapers">accepted papers</a> page.</p>
+  <p>Congratulations to all the accepted papers! You can see them and the spotlight papers on the <a href="/en/acceptedpapers">accepted papers page</a>.</p>
 """
