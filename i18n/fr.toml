@@ -51,9 +51,9 @@ invite_for_papers_content = """
 
   <p>Cet événement explore la manière dont l'IA dans les domaines de la durabilité et de la santé suit des trajectoires réglementaires et opérationnelles parallèles, et comment ces domaines pourraient bénéficier d'un échange mutuel d'idées, de gouvernance et d'outils.</p>
 """
-title_invited_speakers = "Conférencier·ère.s invités"
+title_invited_speakers = "Haut-parleurs"
 invited_speakers_content = """
-  <p>Il reste quelques places pour des conférenciers invités. Si vos travaux sont d'application générale et que vous êtes prêt à présenter en personne, nous vous invitons à soumettre un titre et une brève description à l'attention des organisateurs de la conférence: <a href="mailto:contact@smashcon.org">contact@smashcon.org</a>.</p>
+  <p>Il reste quelques places pour des haut-parleurs. Si vos travaux sont d'application générale et que vous êtes prêt à présenter en personne, nous vous invitons à soumettre un titre et une brève description à l'attention des organisateurs de la conférence: <a href="mailto:contact@smashcon.org">contact@smashcon.org</a>.</p>
 """
 title_program_committee = "Comité de programme"
 title_sponsors = "Partenaires"
