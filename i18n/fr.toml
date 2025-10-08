@@ -119,7 +119,7 @@ agenda_content = """
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15h15-15h45</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
-            <td class="px-6 py-4 w-4/5">Conférenciers invités<br>(Durabilité et analyse comparative des modèles - accent sur le santé)<br><em>Omar Benjelloun, Ayse Coskun</em></td>
+            <td class="px-6 py-4 w-4/5">Conférenciers invités (Durabilité et écosystèmes de données pour une ML durable)<br><em>Omar Benjelloun, Ayse Coskun</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15h45-16h45</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
