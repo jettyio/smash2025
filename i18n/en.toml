@@ -7,15 +7,6 @@ title_about = "About"
 about_para_1 = "The Symposium on Model Accountability, Sustainability and Healthcare (SMASH) is an interdisciplinary gathering focused on operationalizing AI safely and responsibly. The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability. This symposium will explore these research topics through the lens of healthcare and sustainability."
 about_para_2 = "The healthcare sector is rapidly embracing AI, and the insights gained are likely to inform future sustainability research. These disciplines operate within interconnected ecosystems of stakeholders, technologies, and datasets, sharing both the potential benefits and inherent risks."
 about_img_alt = "Image showing people around a table discussing something"
-title_important_dates = "Important Dates"
-important_dates_list = """
-  <ul>
-    <li><strong>Jul 12, 2025:</strong> <a href="/en/callforpapers">Submission opens</a></li>
-    <li><strong>Aug 31, 2025:</strong> EXTENDED! Paper submission deadline</li>
-    <li><strong>Sep 25, 2025:</strong> Announcement of decisions shared with Committee members</li>
-    <li><strong>Oct 15, 2025:</strong> Camera-ready submissions deadline</li>
-  </ul>
-  """
 title_invite_for_papers = "Invite for Papers"
 invite_for_papers_content = """
   <p>We invite researchers to submit 4 page extended abstracts under the research areas defined below.</p>
@@ -60,9 +51,9 @@ invite_for_papers_content = """
 
   <p>This event explores how AI in Sustainability and Healthcare are on parallel regulatory and operational trajectories and that they might benefit from a mutual exchange of ideas, governance and tooling.</p>
   """
-title_invited_speakers = "Invited Speakers"
+title_invited_speakers = "Speakers"
 invited_speakers_content = """
-  <p>We still have a few openings for invited speakers. If your work is broadly applicable, and you are willing to present in person, we invite you to submit a title for a talk and a brief description to the conference organizers: <a href="mailto:contact@smashcon.org">contact@smashcon.org</a>.</p>
+  <p>We still have a few openings for speakers. If your work is broadly applicable, and you are willing to present in person, we invite you to submit a title for a talk and a brief description to the conference organizers: <a href="mailto:contact@smashcon.org">contact@smashcon.org</a>.</p>
 """
 title_program_committee = "Program Committee"
 title_sponsors = "Sponsors"
@@ -72,5 +63,130 @@ code_of_conduct = """
 """
 title_accepted_papers = "Accepted Papers"
 accepted_papers_para_1 = """
-  <p>Congratulations to all the accepted papers! You can see them and the spotlight papers on the <a href="/en/acceptedpapers">accepted papers</a> page.</p>
+  <p>Congratulations to all the accepted papers! You can see them and the spotlight papers on the <a href="/en/acceptedpapers">accepted papers page</a>.</p>
+"""
+title_agenda = "Conference Agenda"
+agenda_content = """
+<h4>Note: the below agenda is still subject to some minor changes prior to the event.</h4>
+<div class="flex flex-col gap-8">
+  <!-- Day 1 -->
+  <section>
+    <h2 class="!m-0">Day 1 (Morning @ Mila Agora)</h2>
+    <time class="!m-0">9:30am-5:30pm</time>
+    <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
+      <table class="w-full border-collapse bg-white !m-0">
+        <thead>
+          <tr class="bg-[#232f44]">
+            <th class="px-6 py-4 text-left font-semibold text-white">Section</th>
+            <th class="border-l border-gray-200 px-6 py-4 text-right font-semibold text-white">Time in ET</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Check-in, registration, snacks & coffee</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>8:15-9:15</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Welcome and Agenda<br><em>Doina Precup</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9:30-9:40</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Keynote (Responsible AI & Evaluation)<br><em>Milind Tambe</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9:40-11:50</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Break</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10:25-11:05</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Keynote (AI Safety & Benchmarking)<br><em>Adriana Romero</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11:05-11:50</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Lunch + Interactive Installation</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11:50-13:30</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Keynote (Sustainability)<br><em>Vrushali Gaud</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>13:30-14:15</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Invited Speakers (Accountability & AI Ethics)<br><em>Maroussia Lévesque, Christian Kästner</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14:15-15:15</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Break</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15:15-15:45</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Invited Speakers (Sustainability & Data Ecosystems for Sustainable ML)<br><em>Omar Benjelloun, Ayse Coskun</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15:45-16:45</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Close</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16:45-17:30</time></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- Day 2 -->
+  <section>
+    <h2 class="!m-0">Day 2 (Morning @ Mila Agora)</h2>
+    <time class="!m-0">9:30am-5:30pm</time>
+    <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
+      <table class="w-full border-collapse bg-white !m-0">
+        <thead>
+          <tr class="bg-[#232f44]">
+            <th class="px-6 py-4 text-left font-semibold text-white">Section</th>
+            <th class="border-l border-gray-200 px-6 py-4 text-right font-semibold text-white">Time in ET</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Welcome and Agenda</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9:30-9:40</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Panel Discussion around key complexities in AI deployment in an increasingly legislated & dynamic environment<br><em>Vrushali Gaud, Doina Precup, Blake Richards, Audrey Durand</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9:40-10:40</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Break</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10:40-11:10</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Industrial Highlight (Healthcare)<br><em>Akinox (Mark Casselman), CHAI (Sumanth Ratna)</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11:10-12:00</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Lunch & poster session</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>12:00-14:00</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Spotlight talks (4)</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14:00-14:45</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Break</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14:45-15:15</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Spotlight talks (5)</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15:15-16:15</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Interactive Capstone Dialog (<a href="https://en.wikipedia.org/wiki/Unconference" class="text-blue-600 font-normal">mini-unconference</a>)</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16:15-17:15</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50">
+            <td class="px-6 py-4 w-4/5">Close</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>17:15-17:30</time></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+</div>
 """

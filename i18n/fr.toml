@@ -7,15 +7,6 @@ title_about = "À propos"
 about_para_1 = "Le Symposium sur la Responsabilité des Modèles, la Durabilité et la Santé (SMASH) est un événement interdisciplinaire axé sur l'opérationnalisation de l'IA de manière sûre et responsable. L'objectif de cet événement est d'identifier les défis et de proposer des solutions techniques, éthiques et réglementaires pour la sécurité de l'IA, la confidentialité des données, l'interopérabilité des modèles et leurs responsabilités. Ce symposium explorera ces thèmes de recherche à travers le prisme de la santé et de la durabilité."
 about_para_2 = "Le secteur de la santé adopte rapidement l'IA, et les connaissances acquises sont susceptibles d'éclairer les futures recherches en matière de développement durable."
 about_img_alt = "Image montrant des personnes autour d'une table discutant de quelque chose"
-title_important_dates = "Dates importantes"
-important_dates_list = """
-  <ul>
-    <li><strong>12 juillet 2025:</strong> <a href="/fr/callforpapers">Ouverture des soumissions</a></li>
-    <li><strong>31 août 2025:</strong> Date limite de soumission des articles</li>
-    <li><strong>25 septembre 2025:</strong> Notification des décisions aux auteurs</li>
-    <li><strong>15 octobre 2025:</strong> Date limite pour la version finale des articles</li>
-  </ul>
-  """
 title_invite_for_papers = "Appel à contributions"
 invite_for_papers_content = """
   <p>Nous invitons les chercheur·se·s à soumettre des résumés étendus de 4 pages dans les domaines de recherche définis ci-dessous.</p>
@@ -60,9 +51,9 @@ invite_for_papers_content = """
 
   <p>Cet événement explore la manière dont l'IA dans les domaines de la durabilité et de la santé suit des trajectoires réglementaires et opérationnelles parallèles, et comment ces domaines pourraient bénéficier d'un échange mutuel d'idées, de gouvernance et d'outils.</p>
 """
-title_invited_speakers = "Conférencier·ère.s invités"
+title_invited_speakers = "Haut-parleurs"
 invited_speakers_content = """
-  <p>Il reste quelques places pour des conférenciers invités. Si vos travaux sont d'application générale et que vous êtes prêt à présenter en personne, nous vous invitons à soumettre un titre et une brève description à l'attention des organisateurs de la conférence: <a href="mailto:contact@smashcon.org">contact@smashcon.org</a>.</p>
+  <p>Il reste quelques places pour des haut-parleurs. Si vos travaux sont d'application générale et que vous êtes prêt à présenter en personne, nous vous invitons à soumettre un titre et une brève description à l'attention des organisateurs de la conférence: <a href="mailto:contact@smashcon.org">contact@smashcon.org</a>.</p>
 """
 title_program_committee = "Comité de programme"
 title_sponsors = "Partenaires"
@@ -72,5 +63,130 @@ code_of_conduct = """
 """
 title_accepted_papers = "Soumissions Acceptées"
 accepted_papers_para_1 = """
-  <p>Congratulations to all the accepted papers! You can see them and the spotlight papers on the <a href="/fr/acceptedpapers">accepted papers</a> page.</p>
+  <p>Félicitations à tous les articles acceptés ! Vous pouvez les consulter, ainsi que les articles phares, <a href="/fr/acceptedpapers">sur la page des articles acceptés</a>.</p>
+"""
+title_agenda = "Programme de la conférence"
+agenda_content = """
+<h4>Remarque : l'agenda ci-dessous est encore sujet à de légers changements avant l'événement.</h4>
+<div class="flex flex-col gap-8">
+  <!-- Jour 1 -->
+  <section>
+    <h2 class="!m-0">Jour 1 (Matin @ Mila Agora)</h2>
+    <time class="!m-0">9h30-17h30</time>
+    <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
+      <table class="w-full border-collapse bg-white !m-0">
+        <thead>
+          <tr class="bg-[#232f44]">
+            <th class="px-6 py-4 text-left font-semibold text-white">Section</th>
+            <th class="border-l border-gray-200 px-6 py-4 text-right font-semibold text-white">Heure (HE)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Enregistrement, collation et café</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>8h15-9h15</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Bienvenue et ordre du jour<br><em>Doina Precup</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9h30-9h40</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Conférence principale (IA responsable et évaluation)<br><em>Milind Tambe</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9h40-11h50</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Pause</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10h25-11h05</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Conférence principale (Sécurité de l'IA)<br><em>Adriana Romero</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h05-11h50</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Déjeuner + installation interactive</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h50-13h30</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Conférence principale (Durabilité)<br><em>Vrushali Gaud</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>13h30-14h15</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Conférenciers invités (Responsabilité et éthique de l'IA)<br><em>Maroussia Lévesque, Christian Kästner</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14h15-15h15</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Pause</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15h15-15h45</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Conférenciers invités (Durabilité et écosystèmes de données pour une ML durable)<br><em>Omar Benjelloun, Ayse Coskun</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15h45-16h45</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Clôture</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16h45-17h30</time></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- Jour 2 -->
+  <section>
+    <h2 class="!m-0">Jour 2 (Matin @ Mila Agora)</h2>
+    <time class="!m-0">9h30-17h30</time>
+    <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
+      <table class="w-full border-collapse bg-white !m-0">
+        <thead>
+          <tr class="bg-[#232f44]">
+            <th class="px-6 py-4 text-left font-semibold text-white">Section</th>
+            <th class="border-l border-gray-200 px-6 py-4 text-right font-semibold text-white">Heure (HE)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Bienvenue et ordre du jour</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9h30-9h40</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Table ronde sur les principales complexités du déploiement de l'IA dans un<br>environnement de plus en plus législatif et dynamique<br><em>Vrushali Gaud, Doina Precup, Blake Richards, Audrey Durand</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9h40-10h40</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Pause</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10h40-11h10</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Faits saillants de l'industrie (santé)<br><em>Akinox (Mark Casselman), CHAI (Sumanth Ratna)</em></td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h10-12h00</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Déjeuner et séance d'affiches</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>12h00-14h00</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Discussions éclairs (4)</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14h00-14h45</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Pause</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14h45-15h15</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Discussions éclairs (5)</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15h15-16h15</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Dialogue interactif Capstone (<a href="https://fr.wikipedia.org/wiki/Non-conf%C3%A9rence" class="text-blue-600 font-normal">mini-unconférence</a>)</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16h15-17h15</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Clôture</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>17h15-17h30</time></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+</div>
 """

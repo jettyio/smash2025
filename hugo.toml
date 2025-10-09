@@ -40,6 +40,11 @@ unsafe= true
     pageRef = '/acceptedpapers'
     weight = 10
   [[languages.en.menus.main]]
+    name = 'Agenda'
+    url = '/agenda'
+    pageRef = '/agenda'
+    weight = 12
+  [[languages.en.menus.main]]
     name = 'Call for Papers'
     url = '/callforpapers'
     pageRef = '/callforpapers'
@@ -49,11 +54,6 @@ unsafe= true
     url = '/register'
     pageRef = '/register'
     weight = 17
-  [[languages.en.menus.main]]
-    name = 'Agenda'
-    url = '/agenda'
-    pageRef = '/agenda'
-    weight = 18
   [[languages.en.menus.main]]
     name = 'Organizing Team'
     url = '/organizingteam'
@@ -66,6 +66,11 @@ unsafe= true
     pageRef = '/acceptedpapers'
     weight = 10
   [[languages.fr.menus.main]]
+    name = 'Programme'
+    url = '/agenda'
+    pageRef = '/agenda'
+    weight = 12
+  [[languages.fr.menus.main]]
     name = 'Appel de contributions'
     url = '/callforpapers'
     pageRef = '/callforpapers'
@@ -75,11 +80,6 @@ unsafe= true
     url = '/register'
     pageRef = '/register'
     weight = 17
-  [[languages.fr.menus.main]]
-    name = 'Programme'
-    url = '/agenda'
-    pageRef = '/agenda'
-    weight = 18
   [[languages.fr.menus.main]]
     name = 'Équipe organisatrice'
     url = '/organizingteam'
