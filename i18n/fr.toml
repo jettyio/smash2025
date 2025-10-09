@@ -165,7 +165,7 @@ agenda_content = """
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>12h00-14h00</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
-            <td class="px-6 py-4 w-4/5">Discussions éclairs (4)</td>
+            <td class="px-6 py-4 w-4/5">Conférenciers invités (3)<br><em>Oana Balmau, Matt Kusner, Göktuğ Bender</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14h00-14h45</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
@@ -173,12 +173,16 @@ agenda_content = """
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14h45-15h15</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
-            <td class="px-6 py-4 w-4/5">Discussions éclairs (5)</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15h15-16h15</time></td>
+            <td class="px-6 py-4 w-4/5">Discussions éclairs (3)</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15h15-16h00</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
-            <td class="px-6 py-4 w-4/5">Dialogue interactif Capstone (<a href="https://fr.wikipedia.org/wiki/Non-conf%C3%A9rence" class="text-blue-600 font-normal">mini-unconférence</a>)</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16h15-17h15</time></td>
+            <td class="px-6 py-4 w-4/5">Pause</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16h00-16h30</time></td>
+          </tr>
+          <tr class="hover:bg-gray-50 border-b border-gray-200">
+            <td class="px-6 py-4 w-4/5">Discussions éclairs (3)</td>
+            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16h30-17h15</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
             <td class="px-6 py-4 w-4/5">Clôture</td>
