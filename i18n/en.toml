@@ -53,7 +53,6 @@ invite_for_papers_content = """
   """
 title_invited_speakers = "Speakers"
 invited_speakers_content = """
-  <p>We still have a few openings for speakers. If your work is broadly applicable, and you are willing to present in person, we invite you to submit a title for a talk and a brief description to the conference organizers: <a href="mailto:contact@smashcon.org">contact@smashcon.org</a>.</p>
 """
 title_program_committee = "Program Committee"
 title_sponsors = "Sponsors"

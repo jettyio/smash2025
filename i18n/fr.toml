@@ -53,7 +53,6 @@ invite_for_papers_content = """
 """
 title_invited_speakers = "Haut-parleurs"
 invited_speakers_content = """
-  <p>Il reste quelques places pour des haut-parleurs. Si vos travaux sont d'application générale et que vous êtes prêt à présenter en personne, nous vous invitons à soumettre un titre et une brève description à l'attention des organisateurs de la conférence: <a href="mailto:contact@smashcon.org">contact@smashcon.org</a>.</p>
 """
 title_program_committee = "Comité de programme"
 title_sponsors = "Partenaires"
