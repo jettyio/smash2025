@@ -29,6 +29,7 @@
       "path",
       "script",
       "section",
+      "small",
       "span",
       "strong",
       "style",
@@ -188,8 +189,6 @@
       "-durabilité-santé-et-sécurité-voilà-une-combinaison-surprenante-quelle-est-lidée--",
       "applications-dans-le-domaine-de-la--santé",
       "comment-soumettre",
-      "consequences-of-violations",
-      "conséquences-des-infractions",
       "dates-clés",
       "détails-de-la-soumission",
       "eventbrite-widget-container-1486745468719",
@@ -205,17 +204,11 @@
       "navbar",
       "navbar-toggle",
       "openreview-submission",
-      "portée-du-code",
-      "reporting-issues",
-      "scope-of-the-code",
-      "signalement-des-problèmes",
       "soumission-openreview",
       "soumissions-interdisciplinaires-en-droit-et-sciences-sociales",
       "submission-details",
       "sustainability-healthcare-and-safety-thats-a-bit-of-an-odd-mix---whats-the-deal",
-      "sécurité-du-ml-confidentialité-responsabilité-des-modèles-et-alignement",
-      "who-this-applies-to",
-      "à-qui-ça-sapplique"
+      "sécurité-du-ml-confidentialité-responsabilité-des-modèles-et-alignement"
     ]
   }
 }

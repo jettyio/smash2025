@@ -35,6 +35,11 @@
     "title": "McGill University"
   },
   {
+    "firstname": "Joé T.",
+    "lastname": "Martineau",
+    "title": "Obvia"
+  },
+  {
     "firstname": "Mark",
     "lastname": "Casselman",
     "title": "Akinox"
@@ -58,6 +63,11 @@
     "firstname": "Omar",
     "lastname": "Benjelloun",
     "title": "Google DeepMind"
+  },
+  {
+    "firstname": "Alexandre",
+    "lastname": "Lacoste",
+    "title": "ServiceNow"
   },
   {
     "firstname": "Vrushali",
