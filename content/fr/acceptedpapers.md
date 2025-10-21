@@ -15,7 +15,7 @@ title = 'Soumissions Acceptées'
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">PROTOTYPE FOR LISTEN: TOWARDS PUBLIC HEALTH SURVEILLANCE OF MPOX MISINFORMATION ON X
     <address class="font-normal text-base pt-2">Lisa Y.W. Tang | <a href="https://drive.google.com/file/d/1iIjSXmRkPmqDq0AYxA6Qglg7ziA-RXKw/" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Towards a Holistic Cost-Based Evaluation Metric for Machine Learning
-    <address class="font-normal text-base pt-2">Fatemeh Yaghoubpour, Bettina Kemme | <a href="https://mcgill-my.sharepoint.com/:b:/g/personal/fatemeh_yaghoubpour_mail_mcgill_ca/EehYO1Kg-4BPrT_OK46PhysB7MJ0_jiwZTerjh7makrwuQ?e=pCb4S5" target="_blank" rel="noopener">Paper</a></address></article>
+    <address class="font-normal text-base pt-2">Fatemeh Yaghoubpour, Bettina Kemme | <a href="https://mcgill-my.sharepoint.com/personal/fatemeh_yaghoubpour_mail_mcgill_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffatemeh%5Fyaghoubpour%5Fmail%5Fmcgill%5Fca%2FDocuments%2FPapers%2FYaghoubpour%5FKemme%5FSMASH%5F2025%2Epdf&parent=%2Fpersonal%2Ffatemeh%5Fyaghoubpour%5Fmail%5Fmcgill%5Fca%2FDocuments%2FPapers&ga=1&LOF=1" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Uncovering the Internal Origins of Sycophancy in Large Language Models
     <address class="font-normal text-base pt-2">Keyu Wang, Jin Li, Shu Yang, Zhuoran Zhang, Di Wan | <a href="https://drive.google.com/file/d/1oGYjyLMc8XFOhBjiuCMeySLqyTWGuDkN/view?usp=sharing" target="_blank" rel="noopener">Paper</a></address></article>
   </div>
