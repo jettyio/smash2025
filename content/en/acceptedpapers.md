@@ -35,7 +35,7 @@ title = 'Accepted Papers'
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Implementation of AI In Precision Medicine
     <address class="font-normal text-base pt-2">Goktug Bender, Samer Faraj, Anand Bhardwaj | <a href="https://drive.google.com/file/d/1BMLVlgm7VbsVYUfstQ7QWLeAMcbygpkX/view?usp=sharing" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">MINING MEDICAL NARRATIVES ON GERIATRIC FALLS TO PREDICT EVENT TIMES VIA SURVIVAL MODELS AND LARGE LANGUAGE MODELS
-    <address class="font-normal text-base pt-2">Lisa Y.W. Tang | <a href="https://www.medrxiv.org/content/10.1101/2025.10.15.336949" target="_blank" rel="noopener">Paper</a></address></article>
+    <address class="font-normal text-base pt-2">Lisa Y.W. Tang | <a href="https://www.medrxiv.org/content/10.1101/2025.10.15.25336949v1" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Quantifying the Carbon Footprint of AI in Cardiovascular Care: A Systematic Review to Inform Sustainable and Equitable Deployment
     <address class="font-normal text-base pt-2">Lola Oyefeso | <a href="https://drive.google.com/file/d/1yH-BQ9Mc1HTs3Pc9kzDPEeySUyzLl9Vy/view?usp=sharing" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets
