@@ -3,7 +3,7 @@ title = "Équipe d'organisation"
 +++
 
 - **Rawan Hakeem**, Google
-- **Jonathan Lebensold**, Mila, Akinox
+- **Jonathan Lebensold**, Mila, Jetty, Akinox
 - **Shahrad Mohammadzadeh**, Mila, McGill University
 - **Abdullah Norozi Iranzad**
 - **Doina Precup**, Google Deepmind, Mila, McGill University
