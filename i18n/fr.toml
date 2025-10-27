@@ -51,7 +51,7 @@ invite_for_papers_content = """
 
   <p>Cet événement explore la manière dont l'IA dans les domaines de la durabilité et de la santé suit des trajectoires réglementaires et opérationnelles parallèles, et comment ces domaines pourraient bénéficier d'un échange mutuel d'idées, de gouvernance et d'outils.</p>
 """
-title_invited_speakers = "Haut-parleurs"
+title_invited_speakers = "Conférenciers invités"
 invited_speakers_content = """
 """
 title_program_committee = "Comité de programme"
