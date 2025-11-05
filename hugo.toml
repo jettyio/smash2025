@@ -50,11 +50,6 @@ unsafe= true
     pageRef = '/callforpapers'
     weight = 15
   [[languages.en.menus.main]]
-    name = 'Register'
-    url = '/register'
-    pageRef = '/register'
-    weight = 17
-  [[languages.en.menus.main]]
     name = 'Organizing Team'
     url = '/organizingteam'
     pageRef = '/organizingteam'
@@ -75,11 +70,6 @@ unsafe= true
     url = '/callforpapers'
     pageRef = '/callforpapers'
     weight = 15
-  [[languages.fr.menus.main]]
-    name = "S'inscrire"
-    url = '/register'
-    pageRef = '/register'
-    weight = 17
   [[languages.fr.menus.main]]
     name = 'Équipe organisatrice'
     url = '/organizingteam'

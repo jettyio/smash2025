@@ -181,8 +181,9 @@
       "w-36",
       "w-4/5",
       "w-5",
-      "w-auto",
-      "w-full"
+      "w-[21px]",
+      "w-full",
+      "whitespace-nowrap"
     ],
     "ids": [
       "-durabilité-santé-et-sécurité-voilà-une-combinaison-surprenante-quelle-est-lidée--",
