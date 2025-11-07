@@ -2,7 +2,8 @@ conf_full_name = "Symposium on Model Accountability, Sustainability and Healthca
 conf_date = "November 4-5 2025"
 short_title = "SMASH 2025"
 site_description = "The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability."
-register_now = "Register Now"
+register_now = "Waitlist only"
+leave_feedback = "Leave feedback"
 title_about = "About"
 about_para_1 = "The Symposium on Model Accountability, Sustainability and Healthcare (SMASH) is an interdisciplinary gathering focused on operationalizing AI safely and responsibly. The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability. This symposium will explore these research topics through the lens of healthcare and sustainability."
 about_para_2 = "The healthcare sector is rapidly embracing AI, and the insights gained are likely to inform future sustainability research. These disciplines operate within interconnected ecosystems of stakeholders, technologies, and datasets, sharing both the potential benefits and inherent risks."
@@ -110,7 +111,7 @@ agenda_content = """
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>13:30-14:15</time></td>
           </tr>
           <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Invited Speakers (Accountability & AI Ethics)<br><em>Maroussia Lévesque, Christian Kästner</em></td>
+            <td class="px-6 py-4 w-4/5">Invited Speakers (AI Safety and Security Frameworks)<br><em>Maroussia Lévesque, Christian Kästner</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14:15-15:15</time></td>
           </tr>
           <tr class="hover:bg-gray-50">

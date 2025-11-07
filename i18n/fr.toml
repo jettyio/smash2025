@@ -2,7 +2,8 @@ conf_full_name = "Symposium sur  Responsabilité des Modèles, la Durabilité et
 conf_date = "4 au 5 novembre 2025"
 short_title = "SMASH 2025"
 site_description = "L'objectif de cet événement est d'identifier les défis et de proposer des solutions techniques, éthiques et réglementaires en matière de sécurité de l'IA, de confidentialité des données, d'interopérabilité des modèles et de responsabilité."
-register_now = "Inscrivez-vous maintenant"
+register_now = "Liste d'attente seulement"
+leave_feedback = "Laissez les commentaires"
 title_about = "À propos"
 about_para_1 = "Le Symposium sur la Responsabilité des Modèles, la Durabilité et la Santé (SMASH) est un événement interdisciplinaire axé sur l'opérationnalisation de l'IA de manière sûre et responsable. L'objectif de cet événement est d'identifier les défis et de proposer des solutions techniques, éthiques et réglementaires pour la sécurité de l'IA, la confidentialité des données, l'interopérabilité des modèles et leurs responsabilités. Ce symposium explorera ces thèmes de recherche à travers le prisme de la santé et de la durabilité."
 about_para_2 = "Le secteur de la santé adopte rapidement l'IA, et les connaissances acquises sont susceptibles d'éclairer les futures recherches en matière de développement durable."
@@ -51,7 +52,7 @@ invite_for_papers_content = """
 
   <p>Cet événement explore la manière dont l'IA dans les domaines de la durabilité et de la santé suit des trajectoires réglementaires et opérationnelles parallèles, et comment ces domaines pourraient bénéficier d'un échange mutuel d'idées, de gouvernance et d'outils.</p>
 """
-title_invited_speakers = "Haut-parleurs"
+title_invited_speakers = "Conférenciers invités"
 invited_speakers_content = """
 """
 title_program_committee = "Comité de programme"
@@ -110,7 +111,7 @@ agenda_content = """
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>13h30-14h15</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
-            <td class="px-6 py-4 w-4/5">Conférenciers invités (Responsabilité et éthique de l'IA)<br><em>Maroussia Lévesque, Christian Kästner</em></td>
+            <td class="px-6 py-4 w-4/5">Conférenciers invités (Cadres de sûreté et de sécurité de l'IA)<br><em>Maroussia Lévesque, Christian Kästner</em></td>
             <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14h15-15h15</time></td>
           </tr>
           <tr class="hover:bg-gray-50 border-b border-gray-200">
