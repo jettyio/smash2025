@@ -31,7 +31,7 @@ title = 'Accepted Papers'
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Evaluating Non-English Misinformation Detection using Large Language Models
     <address class="font-normal text-base pt-2">Laurence Liang, Meriem Mehri | <a href="https://drive.google.com/file/d/1Mogn_4Tr0taCr1VUlagQom_ysfU5kDjO/view?usp=sharing" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">GRPO-RAD: GROUP RELATIVE POLICY OPTIMIZATION FOR RADIOLOGY REPORT SUMMARIZATION
-    <address class="font-normal text-base pt-2">Fargol Nassiri, Frank Rudzicz | <a href="https://drive.google.com/file/d/1w9fbORslR6cCvO1qPGhlx5Qw_VxMDphi/view?usp=drive_link" target="_blank" rel="noopener">Paper</a></address></article>
+    <address class="font-normal text-base pt-2">Fargol Nassiri, Frank Rudzicz | <a href="https://zenodo.org/records/17470860" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Implementation of AI In Precision Medicine
     <address class="font-normal text-base pt-2">Goktug Bender, Samer Faraj, Anand Bhardwaj | <a href="https://drive.google.com/file/d/1BMLVlgm7VbsVYUfstQ7QWLeAMcbygpkX/view?usp=sharing" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Mining medical narratives on geriatric falls to predict post-fall hospitalization via survival models and large language models
