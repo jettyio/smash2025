@@ -1,0 +1,32 @@
+{{ $gallery2025 := site.Data.gallery2025 }}
+<ul class="not-prose grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-[12px]">
+  {{ range $gallery2025 }}
+    <li class="block">
+      <button onclick="showImageModal('/gallery2025/{{ .img }}')" class="block rounded-xl overflow-hidden cursor-pointer aspect-square">
+        <img src="/gallery2025/{{ .img }}" alt="{{ .alt }}" class="block w-full h-full object-cover">
+      </button>
+    </li>
+  {{ end }}
+</ul>
+
+<dialog id="modal" class="p-0 m-auto max-w-[90vw] max-h-[90vh] bg-transparent not-prose">
+  <button class="absolute top-[10px] right-[10px] text-white bg-black rounded-full w-[36px] h-[36px] cursor-pointer text-2xl flex justify-center" onclick="closeModal()">×</button>
+  <figure class="rounded-xl overflow-hidden aspect-square">
+    <img id="modalImage" src="" alt="Modal Image" class="block w-full h-full object-cover">
+  </figure>
+</dialog>
+
+<script>
+  const modal = document.querySelector('#modal');
+  const modalImage = document.querySelector('#modalImage')
+
+  function showImageModal(image) {
+    modalImage.src=image;
+    modal.showModal();
+  }
+
+  function closeModal() {
+    modal.close();
+    modalImage.src="";
+  }
+</script>
