@@ -6,8 +6,9 @@
 - Netlify
 
 ### Local install
-1. `brew install hugo`
-2. `hugo server --disableFastRender`
+1. `npm install`
+2. `brew install hugo`
+3. `hugo server --disableFastRender`
 
 ### Adding content
 - Existing pages can be edited under `/content`
