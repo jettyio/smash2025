@@ -1,0 +1,44 @@
+{{ $currentPage := .Page }}
+{{ $in2025 := false }}
+{{ if or (in .Page.RelPermalink "/2025/") (eq .Page.RelPermalink "/2025/") }}
+  {{ $in2025 = true }}
+{{ end }}
+
+<ul class="{{ .ulClass }}">
+  {{ if $in2025 }}
+    {{ $isFr := eq site.Language.Lang "fr" }}
+    {{ $menu2025 := slice
+      (dict "URL" "/2025/acceptedpapers" "Name" (cond $isFr "Soumissions Acceptées" "Accepted Papers"))
+      (dict "URL" "/2025/agenda" "Name" (cond $isFr "Programme" "Agenda"))
+      (dict "URL" "/2025/callforpapers" "Name" (cond $isFr "Appel de contributions" "Call for Papers"))
+      (dict "URL" "/2025/organizingteam" "Name" (cond $isFr "Équipe organisatrice" "Organizing Team"))
+      (dict "URL" "/" "Name" "SMASH 2026")
+    }}
+    {{ range $menu2025 }}
+      {{ $url := .URL | relLangURL }}
+      <li>
+        <a class="block text-blue-950 hover:text-blue-600" href="{{ $url }}">{{ .Name }}</a>
+      </li>
+    {{ end }}
+  {{ else }}
+    {{ range site.Menus.main }}
+      <li>
+        {{ if $currentPage.IsMenuCurrent .Menu . }}
+          <span class="block text-blue-600">{{ .Name }}</span>
+        {{ else }}
+          <a class="block text-blue-950 hover:text-blue-600" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+        {{ end }}
+      </li>
+    {{ end }}
+  {{ end }}
+
+  {{ if .Page.IsTranslated }}
+    {{ range .Page.AllTranslations }}
+      {{ if ne .Lang $.Page.Lang }}
+        <li>
+          <a class="block px-2 pt-2 pb-2.5 text-sm text-blue-950 rounded-lg ring-1 ring-blue-800 leading-none hover:bg-gray-200" href="{{ .Permalink }}">{{ upper .Lang }}</a>
+        </li>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</ul>

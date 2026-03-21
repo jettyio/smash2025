@@ -1,6 +1,6 @@
 conf_full_name = "Symposium sur  Responsabilité des Modèles, la Durabilité et la Santé"
-conf_date = "SMASH 2026 4 au 5 novembre 2025 @ Mila"
-short_title = "SMASH 2025"
+conf_date = "4 au 5 novembre 2025 @ Mila"
+short_title = "SMASH 2026"
 site_description = "L'objectif de cet événement est d'identifier les défis et de proposer des solutions techniques, éthiques et réglementaires en matière de sécurité de l'IA, de confidentialité des données, d'interopérabilité des modèles et de responsabilité."
 register_now = "Liste d'attente seulement"
 leave_feedback = "Laissez les commentaires"
@@ -199,3 +199,5 @@ agenda_content = """
   </section>
 </div>
 """
+back_to_2026 = "SMASH 2026"
+archive_2025 = "Archives 2025"

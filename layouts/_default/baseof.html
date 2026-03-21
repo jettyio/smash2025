@@ -44,27 +44,7 @@
                     <span class="font-black text-xl tracking-wider whitespace-nowrap">{{ T "short_title" }}</span>
                 </a>
                 <nav>
-                    <ul class="flex flex-row text-sm space-x-4 items-center">
-                        {{ $currentPage := . }}
-                        {{ range site.Menus.main }}
-                            <li>
-                                {{ if $currentPage.IsMenuCurrent .Menu . }}
-                                    <span class="block text-blue-600">{{ .Name }}</span>
-                                {{ else }}
-                                    <a class="block text-blue-950 hover:text-blue-600" href="{{ .URL }}">{{ .Name }}</a>
-                                {{ end }}
-                            </li>
-                        {{ end }}
-                        {{ if .IsTranslated }}
-                            {{ range .AllTranslations }}
-                                {{ if ne .Lang $.Lang }}
-                                    <li>
-                                        <a class="block px-2 pt-2 pb-2.5 text-sm text-blue-950 rounded-lg ring-1 ring-blue-800 leading-none hover:bg-gray-200" href="{{ .Permalink }}">{{ upper .Lang }}</a>
-                                    </li>
-                                {{ end }}
-                            {{ end }}
-                        {{ end }}
-                    </ul>
+                    {{ partial "nav.html" (dict "ulClass" "flex flex-row text-sm space-x-4 items-center" "Page" .) }}
                 </nav>
             </div>
         </header>
@@ -92,18 +72,7 @@
                 </button>
             </div>
             <nav class="hidden" id="navbar">
-                <ul class="flex flex-col gap-4 pt-8 pb-4">
-                    {{ $currentPage := . }}
-                    {{ range site.Menus.main }}
-                        <li>
-                            {{ if $currentPage.IsMenuCurrent .Menu . }}
-                                <span class="block text-blue-600">{{ .Name }}</span>
-                            {{ else }}
-                                <a class="block text-blue-950 hover:text-blue-600" href="{{ .URL }}">{{ .Name }}</a>
-                            {{ end }}
-                        </li>
-                    {{ end }}
-                </ul>
+                {{ partial "nav.html" (dict "ulClass" "flex flex-col gap-4 pt-8 pb-4" "Page" .) }}
             </nav>
         </header>
         <main class="prose max-w-full pt-20">
