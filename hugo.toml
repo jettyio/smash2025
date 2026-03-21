@@ -54,6 +54,11 @@ unsafe= true
     url = '/organizingteam'
     pageRef = '/organizingteam'
     weight = 40
+  [[languages.en.menus.main]]
+    name = '2025 Archive'
+    url = '/2025'
+    pageRef = '/2025'
+    weight = 50
 [languages.fr.menus]
   [[languages.fr.menus.main]]
     name = 'Soumissions Acceptées'
@@ -75,3 +80,8 @@ unsafe= true
     url = '/organizingteam'
     pageRef = '/organizingteam'
     weight = 40
+  [[languages.fr.menus.main]]
+    name = 'Archives 2025'
+    url = '/2025'
+    pageRef = '/2025'
+    weight = 50
