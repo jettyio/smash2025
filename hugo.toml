@@ -50,7 +50,7 @@ unsafe= true
     pageRef = '/callforpapers'
     weight = 15
   [[languages.en.menus.main]]
-    name = 'Organizing Team'
+    name = 'Organizing Committee'
     url = '/organizingteam'
     pageRef = '/organizingteam'
     weight = 40
