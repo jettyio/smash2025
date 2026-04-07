@@ -37,7 +37,7 @@
         </style>
     </head>
     <body class="bg-sky-50">
-        <header class="w-full p-4 fixed bg-sky-50 hidden md:block">
+        <header class="w-full p-4 fixed bg-sky-50 hidden md:block z-50">
             <div class="flex flex-row items-center justify-between">
                 <a href="/{{ .Lang }}" class="flex flex-row items-center">
                     <img src="/logo.svg" class="h-10 w-[21px] mr-2" />
@@ -79,22 +79,9 @@
             {{ block "main" . }}{{ end }}
         </main>
         <footer class="text-center py-10">
-            <p class="text-sm">&copy; 2025 SMASH&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;{{ T "code_of_conduct" | safeHTML }}</p>
+            <p class="text-sm">&copy; 2026 SMASH&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;{{ T "code_of_conduct" | safeHTML }}</p>
         </footer>
         <script data-goatcounter="https://smashcon.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-        <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-        <script type="text/javascript">
-            window.EBWidgets.createWidget({
-                // Required
-                widgetType: 'checkout',
-                eventId: '1486745468719',
-                iframeContainerId: 'eventbrite-widget-container-1486745468719',
-
-                // Optional
-                iframeContainerHeight: 600,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-                iframeContainerWidth: 1024,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-            });
-        </script>
         <script>
             const navToggleElement = document.querySelector('#navbar-toggle');
             const navElement = document.querySelector('#navbar');

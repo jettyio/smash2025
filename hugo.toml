@@ -7,12 +7,12 @@ defaultContentLanguageInSubdir = true
   [languages.en]
     contentDir = 'content/en'
     languageName = 'English'
-    title = 'SMASH 2025: The Symposium on Model Accountability, Sustainability and Healthcare'
+    title = 'SMASH 2026: The Symposium on Model Accountability, Sustainability and Healthcare'
     weight = 1
   [languages.fr]
     contentDir = 'content/fr'
     languageName = 'Français'
-    title = 'SMASH 2025: Symposium sur  Responsabilité des Modèles, la Durabilité et la Santé'
+    title = 'SMASH 2026: Symposium sur Responsabilité des Modèles, la Durabilité et la Santé'
     weight = 2
 [markup.goldmark.renderer]
 unsafe= true

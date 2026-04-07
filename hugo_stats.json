@@ -1,6 +1,7 @@
 {
   "htmlElements": {
     "tags": [
+      "<h4",
       "a",
       "address",
       "article",
@@ -213,7 +214,8 @@
       "w-[21px]",
       "w-[36px]",
       "w-full",
-      "whitespace-nowrap"
+      "whitespace-nowrap",
+      "z-50"
     ],
     "ids": [
       "-durabilité-santé-et-sécurité-voilà-une-combinaison-surprenante-quelle-est-lidée--",
