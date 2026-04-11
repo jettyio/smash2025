@@ -7,12 +7,12 @@ defaultContentLanguageInSubdir = true
   [languages.en]
     contentDir = 'content/en'
     languageName = 'English'
-    title = 'SMASH 2025: The Symposium on Model Accountability, Sustainability and Healthcare'
+    title = 'SMASH 2026: The Symposium on Model Accountability, Sustainability and Healthcare'
     weight = 1
   [languages.fr]
     contentDir = 'content/fr'
     languageName = 'Français'
-    title = 'SMASH 2025: Symposium sur  Responsabilité des Modèles, la Durabilité et la Santé'
+    title = 'SMASH 2026: Symposium sur Responsabilité des Modèles, la Durabilité et la Santé'
     weight = 2
 [markup.goldmark.renderer]
 unsafe= true
@@ -44,16 +44,21 @@ unsafe= true
     url = '/agenda'
     pageRef = '/agenda'
     weight = 12
+  #[[languages.en.menus.main]]
+  #  name = 'Call for Papers'
+  #  url = '/callforpapers'
+  #  pageRef = '/callforpapers'
+  #  weight = 15
   [[languages.en.menus.main]]
-    name = 'Call for Papers'
-    url = '/callforpapers'
-    pageRef = '/callforpapers'
-    weight = 15
-  [[languages.en.menus.main]]
-    name = 'Organizing Team'
+    name = 'Organizing Committee'
     url = '/organizingteam'
     pageRef = '/organizingteam'
     weight = 40
+  [[languages.en.menus.main]]
+    name = '2025 Archive'
+    url = '/2025'
+    pageRef = '/2025'
+    weight = 50
 [languages.fr.menus]
   [[languages.fr.menus.main]]
     name = 'Soumissions Acceptées'
@@ -65,13 +70,18 @@ unsafe= true
     url = '/agenda'
     pageRef = '/agenda'
     weight = 12
-  [[languages.fr.menus.main]]
-    name = 'Appel de contributions'
-    url = '/callforpapers'
-    pageRef = '/callforpapers'
-    weight = 15
+  #[[languages.fr.menus.main]]
+  #  name = 'Appel de contributions'
+  #  url = '/callforpapers'
+  #  pageRef = '/callforpapers'
+  #  weight = 15
   [[languages.fr.menus.main]]
     name = 'Équipe organisatrice'
     url = '/organizingteam'
     pageRef = '/organizingteam'
     weight = 40
+  [[languages.fr.menus.main]]
+    name = 'Archives 2025'
+    url = '/2025'
+    pageRef = '/2025'
+    weight = 50

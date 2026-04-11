@@ -38,15 +38,15 @@ Vous n'avez pas tort.  Mais c'est en quelque sorte le point! Nous sommes fermeme
 Cet événement explore la manière dont l'IA dans les domaines de la durabilité et de la santé suit des trajectoires réglementaires et opérationnelles parallèles, et comment ces domaines pourraient bénéficier d'un échange mutuel d'idées, de gouvernance et d'outils.
 
 ## Dates clés
-- **1 juillet 2026**: Ouverture des soumissions
-- **31 août 2026**: Date limite de soumission des articles
-- **25 sept. 2026**: Notification des décisions aux auteurs
-- **15 oct. 2026**: Date limite pour la version finale des articles
+- **12 juillet 2025**: Ouverture des soumissions
+- **31 août 2025**: Date limite de soumission des articles
+- **25 sept. 2025**: Notification des décisions aux auteurs
+- **15 oct. 2025**: Date limite pour la version finale des articles
 
 ## Comment soumettre
 Veuillez cliquer sur le lien suivant pour accéder au portail de soumission OpenReview:
 
-#### [Soumission OpenReview](https://openreview.net/group?id=smashcon.org/SMASH/2026/Symposium&referrer=%5BHomepage%5D(%2F)#tab-your-consoles).
+#### [Soumission OpenReview](https://openreview.net/group?id=smashcon.org/SMASH/2025/Symposium&referrer=%5BHomepage%5D(%2F)#tab-your-consoles).
 
 Tous les auteurs et auteur.e.s doivent remplir un formulaire pour confirmer que leur profil OpenReview est complet et tout auteur qualifié peut se voir assigner des évaluations.
 

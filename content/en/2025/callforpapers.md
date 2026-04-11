@@ -31,28 +31,28 @@ Contributions to SMASH that are of an applied nature are also welcome, such as c
 - Sustainable computing and system design
 - Environmental accounting methods for ML
 
-#### Sustainability, Healthcare and Safety, that’s a bit of an odd mix - what’s the deal?
+#### Sustainability, Healthcare and Safety, that's a bit of an odd mix - what's the deal?
 
-You’re not wrong. But that’s kind of the point! We’re firm believers that creating spaces that cut across academic boundaries yields compelling insights.
+You're not wrong. But that's kind of the point! We're firm believers that creating spaces that cut across academic boundaries yields compelling insights.
 
 This event explores how AI in Sustainability and Healthcare are on parallel regulatory and operational trajectories and that they might benefit from a mutual exchange of ideas, governance and tooling.
 
 ## Key Dates
-- **Jul 1, 2026:** Submission opens
-- **Aug 31, 2026:** Paper submission deadline
-- **Sep 25, 2026:** Announcement of decisions shared with Committee members
-- **Oct 15, 2026:** Camera-ready submissions deadline
+- **Jul 12, 2025:** Submission opens
+- **Aug 31, 2025:** Paper submission deadline
+- **Sep 25, 2025:** Announcement of decisions shared with Committee members
+- **Oct 15, 2025:** Camera-ready submissions deadline
 
 ## How to Submit
 Please click on the following to access the OpenReview Submission Portal:
 
-#### [OpenReview Submission](https://openreview.net/group?id=smashcon.org/SMASH/2026/Symposium&referrer=%5BHomepage%5D(%2F)#tab-your-consoles).
+#### [OpenReview Submission](https://openreview.net/group?id=smashcon.org/SMASH/2025/Symposium&referrer=%5BHomepage%5D(%2F)#tab-your-consoles).
 
 All authors must complete a form to confirm their OpenReview profile is complete and any qualified author may be assigned to review.
 
 ## Submission Details
 Submissions should consist of a summary, and an extended abstract of between one and four pages (including figures and references). We invite you to use a single column LaTeX or RTF template and recommend the [ICLR 2025 OpenReview Conference Submission](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt) template.
 
-All submissions will be evaluated in terms of relevance, impact, community interest, technical quality, and clarity. There will be no rebuttal period. Exceptional abstracts will be selected for oral presentations and all accepted submissions will be invited to contribute a poster presentation.
+All submissions will be evaluated in terms of relevance, impact, community interest, technical quality, and clarity. There will be no rebuttal period.  Exceptional abstracts will be selected for oral presentations and all accepted submissions will be invited to contribute a poster presentation.
 
 Submissions are single blind, so author names should appear on submitted PDFs.
