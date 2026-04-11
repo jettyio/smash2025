@@ -69,9 +69,60 @@ title_venue = "Lieu"
 code_of_conduct = """
   <a href="/fr/condeofconduct" class="underline">Code de conduite</a>
 """
+title_call_for_papers = "Appel à contributions"
+call_for_papers_content = """
+<p>Nous invitons les chercheur·se·s à soumettre des résumés étendus de 4 pages dans les domaines de recherche définis ci-dessous.</p>
+<h3 id="sécurité-du-ml-confidentialité-responsabilité-des-modèles-et-alignement">Sécurité du ML, confidentialité, responsabilité des modèles et alignement:</h3>
+<ul>
+<li>Sécurité, et alignement des systèmes de ML</li>
+<li>Traçabilité des systèmes de ML et des logiciels</li>
+<li>Applications des technologies de protection de la vie privée: confidentialité différentielle, apprentissage fédéré, etc.</li>
+<li>Performances du ML et méthodes d’évaluation comparative</li>
+<li>La provenance des systèmes de ML</li>
+<li>Cas d’utilisation de la sécurité pour les systèmes d’IA avancés</li>
+</ul>
+<h3 id="soumissions-interdisciplinaires-en-droit-et-sciences-sociales">Soumissions interdisciplinaires en droit et sciences sociales:</h3>
+<ul>
+<li>Acceptation des technologies de la ML par les cliniciens, les patients et les administrateurs</li>
+<li>Évaluations et communications  des risques liés au ML</li>
+<li>Considérations éthiques lors du déploiement des systèmes ML</li>
+<li>Réglementation des technologies de ML</li>
+</ul>
+<p>Les contributions à SMASH de nature appliquée sont également les bienvenues, telles que les études de cas sur le déploiement de ML avec des données sensibles.</p>
+<h3 id="applications-dans-le-domaine-de-la--santé">Applications dans le domaine de la  santé:</h3>
+<ul>
+<li>Applications de l’IA dans la santé (administration, médecine de précision, soins aux patients, diagnostics)</li>
+<li>Utilisation des données de patients dans la recherche en ML</li>
+<li>Métrique, suivi (monitoring) et évaluation comparative (benchmarking) du ML en santé</li>
+</ul>
+<h3 id="méthodes-pour-la-durabilité-du-ml">Méthodes pour la durabilité du ML:</h3>
+<ul>
+<li>Métrique de comptabilisation des émissions du ML</li>
+<li>Études de cas et applications de la durabilité en ML</li>
+<li>Informatique durable et conception de systèmes</li>
+<li>Méthodes de comptabilité environnementale pour le ML</li>
+</ul>
+<h4 id="-durabilité-santé-et-sécurité-voilà-une-combinaison-surprenante-quelle-est-lidée--">« Durabilité, Santé et Sécurité… voilà une combinaison surprenante. Quelle est l’idée ? »</h4>
+<p>Vous n’avez pas tort.  Mais c’est en quelque sorte le point! Nous sommes fermement convaincus que la création d’espaces qui traversent les frontières académiques  génère des perspectives enrichissantes.</p>
+<p>Cet événement explore la manière dont l’IA dans les domaines de la durabilité et de la santé suit des trajectoires réglementaires et opérationnelles parallèles, et comment ces domaines pourraient bénéficier d’un échange mutuel d’idées, de gouvernance et d’outils.</p>
+<h2 id="dates-clés">Dates clés</h2>
+<ul>
+<li><strong>1 juillet 2026</strong>: Ouverture des soumissions</li>
+<li><strong>31 août 2026</strong>: Date limite de soumission des articles</li>
+<li><strong>25 sept. 2026</strong>: Notification des décisions aux auteurs</li>
+<li><strong>15 oct. 2026</strong>: Date limite pour la version finale des articles</li>
+</ul>
+<h2 id="comment-soumettre">Comment soumettre</h2>
+<p>Veuillez cliquer sur le lien suivant pour accéder au portail de soumission OpenReview:</p>
+<h4 id="soumission-openreview"><a href="https://openreview.net/group?id=smashcon.org/SMASH/2026/Symposium&amp;referrer=%5BHomepage%5D%28%2F%29#tab-your-consoles">Soumission OpenReview</a>.</h4>
+<p>Tous les auteurs et auteur.e.s doivent remplir un formulaire pour confirmer que leur profil OpenReview est complet et tout auteur qualifié peut se voir assigner des évaluations.</p>
+<h2 id="détails-de-la-soumission">Détails de la soumission</h2>
+<p>Les soumissions doivent comprendre un résumé détaillé d’une à quatre pages. Nous vous invitons à utiliser un modèle LaTeX ou RTF en colonne unique et recommandons le modèle <a href="https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt">ICLR 2025 OpenReview</a>.</p>
+<p>Toutes les soumissions seront évaluées en termes de pertinence, d’impact, d’intérêt pour la communauté, de qualité technique et de clarté. Il n’y aura pas de période de réfutation. Les résumés exceptionnels seront sélectionnés pour des présentations orales et toutes les soumissions acceptées seront invitées à présenter une affiche.</p>
+<p>Les soumissions sont en simple aveugle, les noms des auteurs doivent donc apparaître sur les PDF soumis.</p>
+"""
 title_accepted_papers = "Soumissions Acceptées"
 accepted_papers_para_1 = """
-  <p><a href="/fr/callforpapers/">Cliquez ici pour en savoir plus sur notre appel de contributions pour SMASH 2026.</a></p>
   <p><a href="/fr/2025/acceptedpapers/">Cliquez ici pour voir les articles et les affiches acceptés l'année dernière.</a></p>
 """
 title_agenda = "Programme de la conférence"

@@ -24,18 +24,20 @@
   </section>
   <section>
     <div class="max-w-4xl m-auto pt-10 pb-5 md:pb-10 px-4">
+      <h3 class="text-4xl md:text-7xl !m-0 pb-5 md:pb-10 text-teal-500">{{ T "title_call_for_papers" }}</h3>
+      {{ T "call_for_papers_content" | safeHTML }}
+    </div>
+  </section>
+  <section>
+    <div class="max-w-4xl m-auto pt-10 pb-5 md:pb-10 px-4">
       <h3 class="text-4xl md:text-7xl !m-0 pb-5 md:pb-10 text-teal-500">{{ T "title_accepted_papers" }}</h3>
-      <div class="">
-        <p class="!m-0">{{ T "accepted_papers_para_1" | safeHTML }}</p>
-      </div>
+      {{ T "accepted_papers_para_1" | safeHTML }}
     </div>
   </section>
   <section>
     <div class="max-w-4xl m-auto pt-10 pb-5 md:pb-10 px-4">
       <h3 class="text-4xl md:text-7xl !m-0 pb-5 md:pb-10 text-teal-500">{{ T "title_agenda" }}</h3>
-      <div class="">
-        {{ partial "agenda" }}
-      </div>
+      {{ partial "agenda" }}
     </div>
   </section>
   <div class="bg-gradient-to-br from-green-200 to-sky-100 pt-10 pb-10 md:pb-20">

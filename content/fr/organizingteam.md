@@ -2,13 +2,13 @@
 title = "Équipe d'organisation"
 +++
 
-- **Rawan Hakeem**, Google
-- **Jonathan Lebensold**, Mila, Jetty, Akinox
 - **Goktug Bender**
+- **Rawan Hakeem**
+- **Jonathan Lebensold**
 - **Abdullah Norozi Iranzad**
-- **Doina Precup**, Google Deepmind, Mila, McGill University
-- **Maya Razon**, The Google School for Leaders
-- **Scott Schaffter**, Google Sustainability
+- **Doina Precup**
+- **Maya Razon**
+- **Scott Schaffter**
 - **Adriana Romero Soriano**
 
 Si vous avez des questions, contactez l'équipe organisatrice de SMASH à contact@smashcon.org.
