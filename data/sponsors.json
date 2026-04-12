@@ -1,13 +1,13 @@
 [
     {
-        "name": "MLCommons",
-        "url": "https://mlcommons.org/",
-        "img": "ml-commons-logo.svg"
+        "name": "Institute for Transforming Healthcare, McGill University",
+        "url": "https://www.ithealth.care/",
+        "img": "McGill-_-ITH---Red-and-Black-BL-(on-white).png"
     },
     {
-        "name": "CHAI – Coalition for Health AI",
-        "url": "https://chai.org/",
-        "img": "Chai_Logo-R3-01.png"
+        "name": "Réseau santé numérique",
+        "url": "https://rsn.quebec/",
+        "img": "L_RSN_RGB-scaled.png"
     },
     {
         "name": "Akinox",
@@ -20,14 +20,9 @@
         "img": "google.svg"
     },
     {
-        "name": "Mila",
-        "url": "https://mila.quebec/en",
-        "img": "mila.png"
-    },
-    {
-        "name": "CIFAR",
-        "url": "https://cifar.ca/",
-        "img": "cifar.svg"
+        "name": "Obvia",
+        "url": "https://www.obvia.ca/",
+        "img": "obvia.svg"
     },
     {
         "name": "CDSI",
@@ -35,8 +30,18 @@
         "img": "cdsi.png"
     },
     {
-        "name": "Obvia",
-        "url": "https://www.obvia.ca/",
-        "img": "obvia.svg"
+        "name": "Mila",
+        "url": "https://mila.quebec/en",
+        "img": "mila.png"
+    },
+    {
+        "name": "MLCommons",
+        "url": "https://mlcommons.org/",
+        "img": "ml-commons-logo.svg"
+    },
+    {
+        "name": "Jetty",
+        "url": "https://www.jetty.io/",
+        "img": "jetty.svg"
     }
 ]

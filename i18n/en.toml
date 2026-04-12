@@ -131,3 +131,7 @@ agenda_content = """
 """
 back_to_2026 = "SMASH 2026"
 archive_2025 = "2025 Archive"
+title_whitepaper = "Whitepaper"
+whitepaper_content = """
+  <p><a href="#">Click here to view the 2025 whitepaper.</a></p>
+"""
