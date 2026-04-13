@@ -135,3 +135,13 @@ title_whitepaper = "Livre blanc"
 whitepaper_content = """
   <p><a href="https://drive.google.com/file/d/1fYmpiOESCeu9DMO_Iy7jQllDnUXHSIDB/view" target="_blank">Cliquez ici pour consulter le livre blanc 2025.</a></p>
 """
+title_guiding_principles = "Principes directeurs"
+guiding_principles_content = """
+  <ul>
+    <li>Le partenariat plutôt que la concurrence</li>
+    <li>Un terrain d'entente plutôt que des différences</li>
+    <li>Le pragmatisme plutôt que l'exagération</li>
+    <li>Des questions plutôt que des réponses</li>
+    <li>La nuance plutôt que les platitudes</li>
+  </ul>
+"""

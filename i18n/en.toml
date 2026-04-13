@@ -135,3 +135,13 @@ title_whitepaper = "Whitepaper"
 whitepaper_content = """
   <p><a href="https://drive.google.com/file/d/1fYmpiOESCeu9DMO_Iy7jQllDnUXHSIDB/view" target="_blank">Click here to view the 2025 whitepaper.</a></p>
 """
+title_guiding_principles = "Guiding Principles"
+guiding_principles_content = """
+  <ul>
+    <li>Partnership over competition</li>
+    <li>Common ground over differences</li>
+    <li>Practicality over hyperbole</li>
+    <li>Questions over answers</li>
+    <li>Nuance over platitudes</li>
+  </ul>
+"""
