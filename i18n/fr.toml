@@ -114,7 +114,7 @@ call_for_papers_content = """
 </ul>
 <h2 id="comment-soumettre">Comment soumettre</h2>
 <p>Veuillez cliquer sur le lien suivant pour accéder au portail de soumission OpenReview:</p>
-<h4 id="soumission-openreview"><a href="https://openreview.net/group?id=smashcon.org/SMASH/2026/Symposium&amp;referrer=%5BHomepage%5D%28%2F%29#tab-your-consoles">Soumission OpenReview</a>.</h4>
+<h4 id="soumission-openreview"><a href="https://openreview.net/group?id=smashcon.org/SMASH/2026/Symposium&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">Soumission OpenReview</a>.</h4>
 <p>Tous les auteurs et auteur.e.s doivent remplir un formulaire pour confirmer que leur profil OpenReview est complet et tout auteur qualifié peut se voir assigner des évaluations.</p>
 <h2 id="détails-de-la-soumission">Détails de la soumission</h2>
 <p>Les soumissions doivent comprendre un résumé détaillé d’une à quatre pages. Nous vous invitons à utiliser un modèle LaTeX ou RTF en colonne unique et recommandons le modèle <a href="https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt">ICLR 2025 OpenReview</a>.</p>
