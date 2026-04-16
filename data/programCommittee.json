@@ -1,10 +1,5 @@
 [
   {
-    "firstname": "Audrey",
-    "lastname": "Durand",
-    "title": "Université Laval, CIFAR, Mila"
-  },
-  {
     "firstname": "Jin L.C.",
     "lastname": "Guo",
     "title": "McGill University"
@@ -38,5 +33,10 @@
     "firstname": "Bettina",
     "lastname": "Kemme",
     "title": "McGill University"
+  },
+  {
+    "firstname": "Maroussia",
+    "lastname": "Lévesque",
+    "title": "Harvard Law School, Queen's University"
   }
 ]
