@@ -1,6 +1,6 @@
 conf_full_name = "Symposium on Model Accountability, Sustainability and Healthcare"
-conf_date = "SMASH 2026 November 3-4 2026 @ Mila"
-short_title = "SMASH 2025"
+conf_date = "November 3-4 2026 @ Mila"
+short_title = "SMASH 2026"
 site_description = "The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability."
 register_now = "Waitlist only"
 leave_feedback = "Leave feedback"
@@ -8,12 +8,28 @@ title_about = "About"
 announcement_blurb = "More coming soon!"
 about_para_1 = "The Symposium on Model Accountability, Sustainability and Healthcare (SMASH) is an interdisciplinary gathering focused on operationalizing AI safely and responsibly. The goal of this event is to identify challenges and propose technical, ethical and regulatory solutions to AI safety, data privacy, model interoperability and accountability. This symposium will explore these research topics through the lens of healthcare and sustainability."
 about_para_2 = "The healthcare sector is rapidly embracing AI, and the insights gained are likely to inform future sustainability research. These disciplines operate within interconnected ecosystems of stakeholders, technologies, and datasets, sharing both the potential benefits and inherent risks."
-about_img_alt = "Image showing people around a table discussing something"
-title_invite_for_papers = "Invite for Papers"
-invite_for_papers_content = """
+about_img_alt = "Image showing Montreal skyline"
+title_invited_speakers = "Speakers"
+invited_speakers_content = """
+  <p>2026 speakers to be announced shortly</p>
+"""
+title_program_committee = "Program Committee"
+program_committee_content = """
+  <p>Introducing our 2026 Program Committee shortly</p>
+"""
+title_sponsors = "Partners"
+sponsors_content = """
+  <p>Our 2026 Partners are on the way</p>
+"""
+title_venue = "Venue"
+code_of_conduct = """
+  <a href="/en/condeofconduct" class="underline">Code of Conduct</a>
+"""
+title_call_for_papers = "Call for Papers"
+call_for_papers_content = """
   <p>We invite researchers to submit 4 page extended abstracts under the research areas defined below.</p>
-
   <h4>ML Safety, Privacy, Model Accountability and Alignment:</h4>
+
   <ul>
     <li>Safety, robustness and alignment of ML systems</li>
     <li>ML systems and software traceability</li>
@@ -39,7 +55,7 @@ invite_for_papers_content = """
     <li>Using patient data in ML research</li>
     <li>Healthcare ML metrics, monitoring and benchmarking</li>
   </ul>
-
+ 
   <h4>Methods for ML Sustainability:</h4>
   <ul>
     <li>ML emissions accounting metrics</li>
@@ -47,155 +63,52 @@ invite_for_papers_content = """
     <li>Sustainable computing and system design</li>
     <li>Environmental accounting methods for ML</li>
   </ul>
-
-  <h5>Sustainability, Healthcare and Safety, that's a bit of an odd mix - what's the deal?</h5>
-  <p>You’re not wrong. But that's kind of the point! We’re firm believers that creating spaces that cut across academic boundaries yields compelling insights.</p>
-
+ 
+  <h4>Sustainability, Healthcare and Safety, that’s a bit of an odd mix - what’s the deal?</h4>
+  <p>You’re not wrong. But that’s kind of the point! We’re firm believers that creating spaces that cut across academic boundaries yields compelling insights.</p>
   <p>This event explores how AI in Sustainability and Healthcare are on parallel regulatory and operational trajectories and that they might benefit from a mutual exchange of ideas, governance and tooling.</p>
-  """
-title_invited_speakers = "Speakers"
-invited_speakers_content = """
-"""
-title_program_committee = "Program Committee"
-title_sponsors = "Sponsors"
-title_venue = "Venue"
-code_of_conduct = """
-  <a href="/en/condeofconduct" class="underline">Code of Conduct</a>
+
+  <h3>Key Dates</h3>
+  <ul>
+    <li><strong>Jul 1, 2026:</strong> Submission opens</li>
+    <li><strong>Aug 31, 2026:</strong> Paper submission deadline</li>
+    <li><strong>Sep 25, 2026:</strong> Announcement of decisions shared with Committee members</li>
+    <li><strong>Oct 15, 2026:</strong> Camera-ready submissions deadline</li>
+  </ul>
+
+  <h3>How to Submit</h3>
+  <p>Please click on the following to access the OpenReview Submission Portal:</p>
+
+  <p><a href="https://openreview.net/group?id=smashcon.org/SMASH/2026/Symposium&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">OpenReview Submission</a>.</p>
+ 
+  <p>All authors must complete a form to confirm their OpenReview profile is complete and any qualified author may be assigned to review.</p>
+
+  <h3>Submission Details</h3>
+  <p>Submissions should consist of a summary, and an extended abstract of between one and four pages (including figures and references). We invite you to use a single column LaTeX or RTF template and recommend the <a href="https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt">ICLR 2025 OpenReview Conference Submission</a> template.</p>
+  <p>All submissions will be evaluated in terms of relevance, impact, community interest, technical quality, and clarity. There will be no rebuttal period. Exceptional abstracts will be selected for oral presentations and all accepted submissions will be invited to contribute a poster presentation.</p>
+  <p>Submissions are single blind, so author names should appear on submitted PDFs.</p>
 """
 title_accepted_papers = "Accepted Papers"
 accepted_papers_para_1 = """
-  <p>Congratulations to all the accepted papers! You can see them and the spotlight papers on the <a href="/en/acceptedpapers">accepted papers page</a>.</p>
+  <p><a href="/en/2025/acceptedpapers/">Click here to view last year’s accepted papers and posters.</a></p>
 """
 title_agenda = "Conference Agenda"
 agenda_content = """
-<h4>Note: the below agenda is still subject to some minor changes prior to the event.</h4>
-<div class="flex flex-col gap-8">
-  <!-- Day 1 -->
-  <section>
-    <h2 class="!m-0">Day 1 (Morning @ Mila Agora)</h2>
-    <time class="!m-0">8:15am-5:30pm</time>
-    <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
-      <table class="w-full border-collapse bg-white !m-0">
-        <thead>
-          <tr class="bg-[#232f44]">
-            <th class="px-6 py-4 text-left font-semibold text-white">Section</th>
-            <th class="border-l border-gray-200 px-6 py-4 text-right font-semibold text-white">Time in ET</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Check-in, registration, snacks & coffee</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>8:15-9:15</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Welcome and Agenda<br><em>Doina Precup</em></td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9:30-9:40</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Keynote (Responsible AI & Evaluation)<br><em>Milind Tambe</em></td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9:40-10:25</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Break</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10:25-10:55</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Keynote (AI Safety & Benchmarking)<br><em>Adriana Romero</em></td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10:55-11:40</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Lunch + Interactive Installation</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11:40-13:30</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Keynote (Sustainability)<br><em>Vrushali Gaud</em></td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>13:30-14:15</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Invited Speakers (AI Safety and Security Frameworks)<br><em>Maroussia Lévesque, Christian Kästner</em></td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14:15-15:15</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Break</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15:15-15:45</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Invited Speakers (Sustainability & Data Ecosystems for Sustainable ML)<br><em>Omar Benjelloun, Ayse Coskun</em></td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15:45-16:45</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Close</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16:45-17:30</time></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </section>
-
-  <!-- Day 2 -->
-  <section>
-    <h2 class="!m-0">Day 2 (Morning @ Mila Agora)</h2>
-    <time class="!m-0">9:30am-5:30pm</time>
-    <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
-      <table class="w-full border-collapse bg-white !m-0">
-        <thead>
-          <tr class="bg-[#232f44]">
-            <th class="px-6 py-4 text-left font-semibold text-white">Section</th>
-            <th class="border-l border-gray-200 px-6 py-4 text-right font-semibold text-white">Time in ET</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Welcome and Agenda<br><em>Coffee and snacks available</em></td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9:30-9:40</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Panel Discussion around key complexities in AI deployment in an increasingly legislated & dynamic environment<br><em>Vrushali Gaud, Doina Precup, Blake Richards, Audrey Durand, Joé T. Martineau</em></td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9:40-10:40</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Break</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10:40-11:10</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Industrial Highlight (Healthcare)<br><em>Akinox (Mark Casselman), CHAI (Sumanth Ratna)</em></td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11:10-12:00</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Lunch & poster session</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>12:00-14:00</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Industrial Highlight (Sustainability)<br><em>Alexandre Lacoste</em></td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14:00-14:30</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Invited Speakers (3)<br><em>Oana Balmau, Matt Kusner, Göktuğ Bender</em></td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14:30-15:15</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Break</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15:15-15:45</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Spotlight talks (3)</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15:45-16:30</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Break</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16:30-16:45</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Spotlight talks (2)</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16:45-17:15</time></td>
-          </tr>
-          <tr class="hover:bg-gray-50">
-            <td class="px-6 py-4 w-4/5">Close</td>
-            <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>17:15-17:30</time></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </section>
-</div>
+  <p>Stay Tuned for the 2026 Agenda</p>
+"""
+back_to_2026 = "SMASH 2026"
+archive_2025 = "2025 Archive"
+title_whitepaper = "Whitepaper"
+whitepaper_content = """
+  <p><a href="https://drive.google.com/file/d/1fYmpiOESCeu9DMO_Iy7jQllDnUXHSIDB/view" target="_blank">Click here to view the 2025 whitepaper.</a></p>
+"""
+title_guiding_principles = "Guiding Principles"
+guiding_principles_content = """
+  <ul>
+    <li>Partnership over competition</li>
+    <li>Common ground over differences</li>
+    <li>Practicality over hyperbole</li>
+    <li>Questions over answers</li>
+    <li>Nuance over platitudes</li>
+  </ul>
 """

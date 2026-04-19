@@ -1,13 +1,33 @@
 [
   {
-    "firstname": "Audrey",
-    "lastname": "Durand",
-    "title": "Université Laval, CIFAR, Mila"
+    "firstname": "Jin L.C.",
+    "lastname": "Guo",
+    "title": "McGill University"
   },
   {
-    "firstname": "Benjamin",
-    "lastname": "Lee",
-    "title": "University of Pennsylvania, Google"
+    "firstname": "Adriana",
+    "lastname": "Romeo",
+    "title": "FAIR at Meta, Mila, McGill, CIFAR"
+  },
+  {
+    "firstname": "Audrey",
+    "lastname": "Durand",
+    "title": "Université Laval"
+  },
+  {
+    "firstname": "Parthasarathy (Partha)",
+    "lastname": "Ranganathan",
+    "title": "Google"
+  },
+  {
+    "firstname": "Samer",
+    "lastname": "Faraj",
+    "title": "McGill University"
+  },
+  {
+    "firstname": "Doina",
+    "lastname": "Precup",
+    "title": "Google Deepmind, Mila, McGill University"
   },
   {
     "firstname": "Bettina",
@@ -15,63 +35,8 @@
     "title": "McGill University"
   },
   {
-    "firstname": "Carole-Jean",
-    "lastname": "Wu",
-    "title": "FAIR, Meta"
-  },
-  {
-    "firstname": "Charbel-Raphaël",
-    "lastname": "Segerie",
-    "title": "CeSIA, ML4Good"
-  },
-  {
-    "firstname": "Cooper",
-    "lastname": "Elsworth",
-    "title": "Google"
-  },
-  {
-    "firstname": "Eric",
-    "lastname": "Kolaczyk",
-    "title": "McGill University, Mila"
-  },
-  {
-    "firstname": "Golnoosh",
-    "lastname": "Farnadi",
-    "title": "McGill University, CIFAR, Mila"
-  },
-  {
-    "firstname": "Jin L.C.",
-    "lastname": "Guo",
-    "title": "McGill University, Mila"
-  },
-  {
-    "firstname": "Lyse",
-    "lastname": "Langlois",
-    "title": "Obvia, Université Laval"
-  },
-  {
-    "firstname": "Marie-Pierre",
-    "lastname": "Gagnon",
-    "title": "Université Laval"
-  },
-  {
-    "firstname": "Martin",
-    "lastname": "Cousineau",
-    "title": "Obvia, HEC Montréal"
-  },
-  {
-    "firstname": "Omar",
-    "lastname": "Benjelloun",
-    "title": "Google"
-  },
-  {
-    "firstname": "Sumanth",
-    "lastname": "Ratna",
-    "title": "CHAI, Yale University"
-  },
-  {
-    "firstname": "Syed Sibte Raza",
-    "lastname": "Abidi",
-    "title": "Dalhousie University"
+    "firstname": "Maroussia",
+    "lastname": "Lévesque",
+    "title": "Harvard Law School, Queen's University"
   }
 ]

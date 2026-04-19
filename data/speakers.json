@@ -1,82 +1,42 @@
 [
   {
-    "firstname": "Adriana",
-    "lastname": "Romero Soriano",
-    "title": "Meta AI, CIFAR, Mila"
-  },
-  {
-    "firstname": "Audrey",
-    "lastname": "Durand",
-    "title": "Université Laval, CIFAR"
-  },
-  {
-    "firstname": "Ayse",
-    "lastname": "Coskun",
-    "title": "Boston University"
-  },
-  {
-    "firstname": "Blake",
-    "lastname": "Richards",
-    "title": "Mila, Montreal Neuro"
-  },
-  {
-    "firstname": "Christian",
-    "lastname": "Kästner",
-    "title": "Carnegie Mellon University"
-  },
-  {
-    "firstname": "Doina",
-    "lastname": "Precup",
-    "title": "Google DeepMind, Mila"
-  },
-  {
-    "firstname": "Göktuğ",
-    "lastname": "Bender",
-    "title": "McGill University"
-  },
-  {
-    "firstname": "Joé T.",
-    "lastname": "Martineau",
-    "title": "Obvia"
-  },
-  {
-    "firstname": "Mark",
-    "lastname": "Casselman",
-    "title": "Akinox"
-  },
-  {
-    "firstname": "Sumanth",
-    "lastname":"Ratna",
-    "title":"CHAI"
-  },
-  {
-    "firstname": "Maroussia",
-    "lastname": "Lévesque",
-    "title": "Harvard University, CIGI"
-  },
-  {
-    "firstname": "Matt",
-    "lastname": "Kusner",
-    "title": "École Polytechnique de Montrêal, Mila"
-  },
-  {
-    "firstname": "Oana",
-    "lastname": "Balmau",
-    "title": "McGill University"
-  },
-  {
-    "firstname": "Omar",
-    "lastname": "Benjelloun",
-    "title": "Google DeepMind"
-  },
-  {
-    "firstname": "Alexandre",
-    "lastname": "Lacoste",
-    "title": "ServiceNow"
-  },
-  {
     "firstname": "Vrushali",
     "lastname": "Gaud",
     "title": "Google Sustainability"
+  },
+  {
+    "firstname": "Finale",
+    "lastname": "Doshi-Velez",
+    "title": "Harvard University"
+  },
+  {
+      "firstname": "Joaquin",
+      "lastname": "Vanschoren",
+      "title": "TU Eindhoven, AMORE"
+  },
+  {
+      "firstname": "Jesse",
+      "lastname": "Michel",
+      "title": "Tutor Intelligence"
+  },
+  {
+      "firstname": "M. Alejandra",
+      "lastname": "Parra-Orlandoni",
+      "title": "Harvard Kennedy School"
+  },
+  {
+      "firstname": "Lyse",
+      "lastname": "Langlois",
+      "title": "International Observatory on the Societal Impacts of AI and Digital Technology (OBVIA)"
+  },
+  {
+      "firstname": "Hugo",
+      "lastname": "Larochelle",
+      "title": "Mila, McGill University, Université de Montréal"
+  },
+  {
+      "firstname": "Emma",
+      "lastname": "Kondrup",
+      "title": "Mila, McGill University"
   }
 ]
