@@ -5,3 +5,9 @@
 dialog::backdrop {
   background-color: rgba(0, 0, 0, 0.5);
 }
+.prose a {
+  color: #ea580c;
+}
+.prose a:hover {
+  color: #9a3412;
+}
