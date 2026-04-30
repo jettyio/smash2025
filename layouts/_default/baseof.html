@@ -17,14 +17,14 @@
         <meta property="og:url" content="{{ .Site.BaseURL }}" />
         <meta property="og:title" content="{{ .Site.Title }}" />
         <meta property="og:description" content='{{ T "site_description" }}' />
-        <meta property="og:image" content="/meta_image.jpg" />
+        <meta property="og:image" content="{{ .Site.BaseURL }}meta_image.jpg" />
 
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="{{ .Site.BaseURL }}" />
         <meta property="twitter:title" content="{{ .Site.Title }}" />
         <meta property="twitter:description" content='{{ T "site_description" }}' />
-        <meta property="twitter:image" content="/meta_image.jpg" />
+        <meta property="twitter:image" content="{{ .Site.BaseURL }}meta_image.jpg" />
 
         <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
