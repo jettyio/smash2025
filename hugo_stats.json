@@ -135,6 +135,7 @@
       "md:justify-between",
       "md:pb-10",
       "md:pb-20",
+      "md:pb-5",
       "md:pt-20",
       "md:py-10",
       "md:py-40",
@@ -222,11 +223,15 @@
     ],
     "ids": [
       "-durabilité-santé-et-sécurité-voilà-une-combinaison-surprenante-quelle-est-lidée--",
+      "about",
+      "accepted-papers",
       "applications-dans-le-domaine-de-la--santé",
+      "call-for-papers",
       "comment-soumettre",
       "dates-clés",
       "détails-de-la-soumission",
       "eventbrite-widget-container-1486745468719",
+      "guiding-principles",
       "healthcare-applications",
       "how-to-submit",
       "interdisciplinary-submissions-from-law-and-social-sciences",
@@ -241,11 +246,16 @@
       "navbar",
       "navbar-toggle",
       "openreview-submission",
+      "partners",
+      "program-committee",
       "soumission-openreview",
       "soumissions-interdisciplinaires-en-droit-et-sciences-sociales",
+      "speakers",
       "submission-details",
       "sustainability-healthcare-and-safety-thats-a-bit-of-an-odd-mix---whats-the-deal",
-      "sécurité-du-ml-confidentialité-responsabilité-des-modèles-et-alignement"
+      "sécurité-du-ml-confidentialité-responsabilité-des-modèles-et-alignement",
+      "venue",
+      "whitepaper"
     ]
   }
 }
