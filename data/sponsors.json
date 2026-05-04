@@ -43,5 +43,10 @@
         "name": "Jetty",
         "url": "https://www.jetty.io/",
         "img": "jetty.png"
+    },
+    {
+        "name": "CarbonForge",
+        "url": "https://carbonforge.ai/en/",
+        "img": "carbonforge.png"
     }
 ]
