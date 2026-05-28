@@ -38,5 +38,10 @@
       "firstname": "Emma",
       "lastname": "Kondrup",
       "title": "Mila, McGill University"
+  },
+  {
+      "firstname": "Pierre-Luc",
+      "lastname": "Bacon",
+      "title": "Université de Montréal, CIFAR, Mila"
   }
 ]
