@@ -43,5 +43,10 @@
       "firstname": "Pierre-Luc",
       "lastname": "Bacon",
       "title": "Université de Montréal, CIFAR, Mila"
+  },
+  {
+      "firstname": "Khaled",
+      "lastname": "El Emam",
+      "title": "CHEO Research Institute, University of Ottawa"
   }
 ]
