@@ -102,6 +102,35 @@ title_whitepaper = "Whitepaper"
 whitepaper_content = """
   <p><a href="https://drive.google.com/file/d/1fYmpiOESCeu9DMO_Iy7jQllDnUXHSIDB/view" target="_blank">Click here to view the 2025 whitepaper.</a></p>
 """
+title_best_paper_awards = "Best Paper Awards"
+best_paper_awards_content = """
+  <p>The SMASH 2026 Best Paper Awards recognize outstanding research contributions presented at the Symposium on Model Accountability, Sustainability and Healthcare (SMASH).</p>
+  <p>One Best Paper Award will be presented in each of the conference’s five tracks:</p>
+  <ul>
+    <li>ML Safety, Privacy, Model Accountability and Alignment</li>
+    <li>Interdisciplinary Submissions from Law and Social Sciences</li>
+    <li>Healthcare Applications</li>
+    <li>Methods for ML Sustainability</li>
+    <li>Sustainability, Healthcare and Safety</li>
+  </ul>
+  <p>These awards celebrate research that advances the responsible development, evaluation, governance, and deployment of AI systems.</p>
+  <h4>Eligibility</h4>
+  <p>All accepted papers that are registered and presented at SMASH 2026 are automatically eligible for consideration within their respective track.</p>
+  <p>For gift distribution, at least one author of the awarded paper must be studying at a Canadian university.</p>
+  <h4>Selection and Evaluation</h4>
+  <p>Best Paper Awards are selected by members of the SMASH Program Committee. Eligible papers are evaluated based on reviewer assessments, the quality of the written submission, and the conference presentation.</p>
+  <p>Awards are granted to papers that demonstrate exceptional quality, originality, technical rigor, significance, and potential impact. The selection committee considers scientific merit, innovation, clarity, and the potential contribution of the work to advancing responsible AI research, policy, and practice.</p>
+  <p>Given the interdisciplinary nature of SMASH, particular consideration may be given to contributions that foster meaningful connections across technical, healthcare, sustainability, legal, policy, and social science perspectives.</p>
+  <p>The Program Committee reserves the right not to confer an award in a track if no submission is deemed to meet the required standard of excellence.</p>
+  <h4>Announcement</h4>
+  <p>Award recipients will be announced during the closing session of SMASH 2026.</p>
+  <h4>Recognition</h4>
+  <p>Award recipients will receive:</p>
+  <ul>
+    <li>Official recognition as a SMASH 2026 Best Paper Award recipient</li>
+    <li>A certificate for all authors</li>
+  </ul>
+"""
 title_guiding_principles = "Guiding Principles"
 guiding_principles_content = """
   <ul>
