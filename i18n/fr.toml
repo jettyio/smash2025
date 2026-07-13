@@ -102,6 +102,35 @@ title_whitepaper = "Livre blanc"
 whitepaper_content = """
   <p><a href="https://drive.google.com/file/d/1fYmpiOESCeu9DMO_Iy7jQllDnUXHSIDB/view" target="_blank">Cliquez ici pour consulter le livre blanc 2025.</a></p>
 """
+title_best_paper_awards = "Prix des meilleurs articles"
+best_paper_awards_content = """
+  <p>Les <strong>Prix du meilleur article de SMASH 2026</strong> soulignent les contributions de recherche exceptionnelles présentées dans le cadre du <strong>Symposium on Model Accountability, Sustainability and Healthcare (SMASH)</strong>.</p>
+  <p>Un <strong>Prix du meilleur article</strong> sera décerné dans chacun des cinq volets de la conférence :</p>
+  <ul>
+    <li>Sécurité de l’apprentissage automatique, protection de la vie privée, responsabilité et alignement des modèles</li>
+    <li>Soumissions interdisciplinaires en droit et en sciences sociales</li>
+    <li>Applications en santé</li>
+    <li>Méthodes pour un apprentissage automatique durable</li>
+    <li>Durabilité, santé et sécurité</li>
+  </ul>
+  <p>Ces prix récompensent les travaux qui font progresser le développement, l’évaluation, la gouvernance et le déploiement responsables des systèmes d’intelligence artificielle.</p>
+  <h4>Admissibilité</h4>
+  <p>Tous les articles acceptés, inscrits et présentés à SMASH 2026 sont automatiquement admissibles à l'évaluation dans leur volet respectif.</p>
+  <p>Pour être admissible à la remise du prix, au moins un auteur de l'article primé doit être étudiant dans une université canadienne.</p>
+  <h4>Sélection et évaluation</h4>
+  <p>Les Prix du meilleur article sont attribués par les membres du comité de programme de SMASH. Les articles admissibles sont évalués en fonction des commentaires des évaluateurs, de la qualité du manuscrit soumis et de la présentation donnée lors de la conférence.</p>
+  <p>Les prix sont décernés aux articles qui se distinguent par leur qualité exceptionnelle, leur originalité, leur rigueur scientifique, leur importance et leur potentiel d'impact. Le comité de sélection tient compte de la valeur scientifique, du caractère novateur, de la clarté de la présentation ainsi que de la contribution potentielle des travaux à l'avancement de la recherche, des politiques et des pratiques en intelligence artificielle responsable.</p>
+  <p>Compte tenu du caractère interdisciplinaire de SMASH, une attention particulière peut être accordée aux travaux qui favorisent des liens significatifs entre les perspectives techniques, médicales, environnementales, juridiques, politiques et des sciences sociales.</p>
+  <p>Le comité de programme se réserve le droit de ne pas attribuer de prix dans un volet si aucune soumission ne répond au niveau d'excellence attendu.</p>
+  <h4>Annonce</h4>
+  <p>Les lauréats seront annoncés lors de la séance de clôture de SMASH 2026.</p>
+  <h4>Reconnaissance</h4>
+  <p>Les lauréats recevront :</p>
+  <ul>
+    <li>Une reconnaissance officielle à titre de lauréat d'un <strong>Prix du meilleur article de SMASH 2026</strong></li>
+    <li>Un certificat remis à tous les auteurs</li>
+  </ul>
+"""
 title_guiding_principles = "Principes directeurs"
 guiding_principles_content = """
   <ul>
