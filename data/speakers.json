@@ -48,5 +48,15 @@
       "firstname": "Khaled",
       "lastname": "El Emam",
       "title": "CHEO Research Institute, University of Ottawa"
+  },
+  {
+      "firstname": "Michelle",
+      "lastname": "Lin",
+      "title": "Mila, McGill University"
+  },
+  {
+      "firstname": "Amir",
+      "lastname": "Kadivar",
+      "title": "Tali AI"
   }
 ]
