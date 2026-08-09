@@ -27,7 +27,7 @@ code_of_conduct = """
 """
 title_call_for_papers = "Appel à contributions"
 call_for_papers_content = """
-  <p>Nous invitons les chercheur·se·s à soumettre des résumés étendus de 4 pages dans les domaines de recherche définis ci-dessous.</p>
+  <p>Nous invitons les chercheur·se·s à soumettre des résumés détaillés de 4 pages (non destinés à l'archivage) dans les domaines de recherche définis ci-dessous.</p>
 
   <h4>Sécurité du ML, confidentialité, responsabilité des modèles et alignement :</h4>
   <ul>
