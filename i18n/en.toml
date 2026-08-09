@@ -27,7 +27,7 @@ code_of_conduct = """
 """
 title_call_for_papers = "Call for Papers"
 call_for_papers_content = """
-  <p>We invite researchers to submit 4 page extended abstracts under the research areas defined below.</p>
+  <p>We invite researchers to submit 4 page (non-archival) extended abstracts under the research areas defined below.</p>
   <h4>ML Safety, Privacy, Model Accountability and Alignment:</h4>
 
   <ul>
