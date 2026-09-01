@@ -43,10 +43,10 @@ title = 'Appel à contributions'
 <p>Vous n’avez pas tort. Mais c’est en quelque sorte le point ! Nous sommes fermement convaincus que la création d’espaces qui traversent les frontières académiques génère des perspectives enrichissantes.</p>
 <p>Cet événement explore la manière dont l’IA dans les domaines de la durabilité et de la santé suit des trajectoires réglementaires et opérationnelles parallèles, et comment ces domaines pourraient bénéficier d’un échange mutuel d’idées, de pratiques de gouvernance et d’outils.</p>
 
-<h3>Dates clés</h3>
+<h3>Dates clés (Partout sur Terre)</h3>
 <ul>
     <li><strong>1 juillet 2026</strong>: Ouverture des soumissions</li>
-    <li><strong>31 août 2026</strong>: Date limite de soumission des articles</li>
+    <li><strong>7 sept. 2026</strong>: Date limite de soumission des articles</li>
     <li><strong>25 sept. 2026</strong>: Notification des décisions aux auteurs</li>
     <li><strong>15 oct. 2026</strong>: Date limite pour la version finale des articles</li>
 </ul>
