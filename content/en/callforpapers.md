@@ -43,10 +43,10 @@ title = 'Call for Papers'
 <p>You’re not wrong. But that’s kind of the point! We’re firm believers that creating spaces that cut across academic boundaries yields compelling insights.</p>
 <p>This event explores how AI in Sustainability and Healthcare are on parallel regulatory and operational trajectories and that they might benefit from a mutual exchange of ideas, governance and tooling.</p>
 
-<h3>Key Dates (Anywhere on Earth)</h3>
+<h3>Key Dates</h3>
 <ul>
     <li><strong>Jul 1, 2026:</strong> Submission opens</li>
-    <li><strong>Sep 7, 2026:</strong> Paper submission deadline</li>
+    <li><strong>Sep 7, 2026:</strong> Paper submission deadline AoE (Anywhere on Earth)</li>
     <li><strong>Sep 25, 2026:</strong> Announcement of decisions shared with Committee members</li>
     <li><strong>Oct 15, 2026:</strong> Camera-ready submissions deadline</li>
 </ul>
