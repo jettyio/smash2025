@@ -46,7 +46,7 @@ title = 'Appel à contributions'
 <h3>Dates clés</h3>
 <ul>
     <li><strong>1 juillet 2026</strong>: Ouverture des soumissions</li>
-    <li><strong>31 août 2026</strong>: Date limite de soumission des articles</li>
+    <li><strong>7 sept. 2026</strong>: Date limite de soumission des articles PsT (Partout sur Terre)</li>
     <li><strong>25 sept. 2026</strong>: Notification des décisions aux auteurs</li>
     <li><strong>15 oct. 2026</strong>: Date limite pour la version finale des articles</li>
 </ul>
