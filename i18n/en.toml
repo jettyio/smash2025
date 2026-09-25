@@ -116,7 +116,7 @@ best_paper_awards_content = """
   <p>These awards celebrate research that advances the responsible development, evaluation, governance, and deployment of AI systems.</p>
   <h4>Eligibility</h4>
   <p>All accepted papers that are registered and presented at SMASH 2026 are automatically eligible for consideration within their respective track.</p>
-  <p>For gift distribution, at least one author of the awarded paper must be studying at a Canadian university.</p>
+  <p>For gift distribution, at least one author of the awarded paper must be studying at a <strong>Canadian university</strong>.</p>
   <h4>Selection and Evaluation</h4>
   <p>Best Paper Awards are selected by members of the SMASH Program Committee. Eligible papers are evaluated based on reviewer assessments, the quality of the written submission, and the conference presentation.</p>
   <p>Awards are granted to papers that demonstrate exceptional quality, originality, technical rigor, significance, and potential impact. The selection committee considers scientific merit, innovation, clarity, and the potential contribution of the work to advancing responsible AI research, policy, and practice.</p>
@@ -127,7 +127,8 @@ best_paper_awards_content = """
   <h4>Recognition</h4>
   <p>Award recipients will receive:</p>
   <ul>
-    <li>Official recognition as a SMASH 2026 Best Paper Award recipient</li>
+    <li>Official recognition as a <strong>SMASH 2026 Best Paper Award</strong> recipient</li>
+    <li>A Monetary Gift</li>
     <li>A certificate for all authors</li>
   </ul>
 """
