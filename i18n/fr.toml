@@ -94,7 +94,154 @@ accepted_papers_para_1 = """
 """
 title_agenda = "Programme de la conférence"
 agenda_content = """
-  <p>Restez à l'affût pour la programmation de 2026</p>
+  <h4>Remarque : l'agenda ci-dessous est encore sujet à de légers changements avant l'événement.</h4>
+  <div class="flex flex-col gap-8">
+    <!-- Jour 1 -->
+    <section>
+      <h2 class="!m-0">Jour 1 (mardi 2 novembre)</h2>
+      <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
+        <table class="w-full border-collapse bg-white !m-0">
+          <thead>
+            <tr class="bg-[#232f44]">
+              <th class="px-6 py-4 text-left font-semibold text-white">Section</th>
+              <th class="border-l border-gray-200 px-6 py-4 text-right font-semibold text-white">Heure (HE)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Accueil, inscription, collations et café</td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>8h15-9h15</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Mot de bienvenue et ordre du jour<br><em>Hugo Larochelle</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9h30-9h40</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Conférence principale<br><em>Finale Doshi-Velez</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9h40-10h40</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Conférence principale<br><em>Vrushali Gaud</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10h40-11h40</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Aperçu des présentations éclair</td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h40-11h50</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Dîner</td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h50-12h40</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Séance d’affiches</td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>12h40-13h40</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Conférencière invitée<br><em>Emma Kondrup</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>13h40-14h10</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Pause</td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14h10-14h30</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Conférence principale<br><em>Khaled El Emam</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14h30-15h30</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Séances en petits groupes<br>Dialogue et échanges</td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15h30-16h45</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Mot de clôture</td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16h45-17h00</time></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Jour 2 -->
+    <section>
+      <h2 class="!m-0">Jour 2 (mercredi 4 novembre)</h2>
+      <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
+        <table class="w-full border-collapse bg-white !m-0">
+          <thead>
+            <tr class="bg-[#232f44]">
+              <th class="px-6 py-4 text-left font-semibold text-white">Section</th>
+              <th class="border-l border-gray-200 px-6 py-4 text-right font-semibold text-white">Heure (HE)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Accueil, inscription, collations et café</td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>8h15-9h15</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Mot de bienvenue et ordre du jour<br><em>Doina Precup</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9h30-9h40</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Conférence principale<br><em>Joaquin Vanschoren</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9h40-10h40</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Pause</td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10h40-11h00</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Discussion en panel<br><em>Alan Forster, Kathy Malas, Danina Kapetanovic, Samer Faraj</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h00-12h00</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Dîner</td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>12h00-13h00</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Conférencière invitée<br><em>Lyse Langlois</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>13h00-13h30</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Conférencier invité<br><em>Pierre-Luc Bacon</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>13h30-14h00</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Pause</td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14h00-14h20</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Conférencière invitée<br><em>Alejandra Parra-Orlandoni</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14h20-14h50</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Conférencière invitée<br><em>Jesse Michel</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>14h50-15h20</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Pause</td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15h20-15h30</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Conférencière invitée<br><em>Michelle Lin</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>15h30-16h00</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Conférencière invitée<br><em>Amir Kadivar</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16h00-16h30</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Présentations éclair</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16h30-17h10</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50 border-b border-gray-200">
+              <td class="px-6 py-4 w-4/5">Remise de prix/Mot de clôture</td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>17h10-17h30</time></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </div>
 """
 back_to_2026 = "SMASH 2026"
 archive_2025 = "Archives 2025"
