@@ -125,12 +125,8 @@ agenda_content = """
               <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10h40-11h40</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
-              <td class="px-6 py-4 w-4/5">Aperçu des présentations éclair</td>
-              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h40-11h50</time></td>
-            </tr>
-            <tr class="hover:bg-gray-50 border-b border-gray-200">
               <td class="px-6 py-4 w-4/5">Dîner</td>
-              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h50-12h40</time></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h40-12h40</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
               <td class="px-6 py-4 w-4/5">Séance d’affiches</td>
@@ -190,7 +186,7 @@ agenda_content = """
               <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10h40-11h00</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
-              <td class="px-6 py-4 w-4/5">Discussion en panel<br><em>Alan Forster, Kathy Malas, Danina Kapetanovic, Samer Faraj</em></td>
+              <td class="px-6 py-4 w-4/5">Discussion en panel<br><em>Alan Forster, Kathy Malas, Danina Kapetanovic, Samer Faraj (modération)</em></td>
               <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h00-12h00</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
@@ -230,7 +226,7 @@ agenda_content = """
               <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16h00-16h30</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
-              <td class="px-6 py-4 w-4/5">Présentations éclair</em></td>
+              <td class="px-6 py-4 w-4/5">Présentations éclair</td>
               <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16h30-17h10</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
