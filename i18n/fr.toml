@@ -1,5 +1,5 @@
 conf_full_name = "Symposium sur  Responsabilité des Modèles, la Durabilité et la Santé"
-conf_date = "4 au 5 novembre 2025 @ Mila"
+conf_date = "3 au 4 novembre 2026 @ Mila"
 short_title = "SMASH 2026"
 site_description = "L'objectif de cet événement est d'identifier les défis et de proposer des solutions techniques, éthiques et réglementaires en matière de sécurité de l'IA, de confidentialité des données, d'interopérabilité des modèles et de responsabilité."
 register_now = "Inscrivez-vous maintenant"
@@ -98,7 +98,7 @@ agenda_content = """
   <div class="flex flex-col gap-8">
     <!-- Jour 1 -->
     <section>
-      <h2 class="!m-0">Jour 1 (mardi 2 novembre)</h2>
+      <h2 class="!m-0">Jour 1 (mardi 3 novembre)</h2>
       <div class="border border-gray-200 rounded-lg overflow-hidden mt-4">
         <table class="w-full border-collapse bg-white !m-0">
           <thead>
@@ -110,7 +110,7 @@ agenda_content = """
           <tbody>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
               <td class="px-6 py-4 w-4/5">Accueil, inscription, collations et café</td>
-              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>8h15-9h15</time></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>8h15-9h30</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
               <td class="px-6 py-4 w-4/5">Mot de bienvenue et ordre du jour<br><em>Hugo Larochelle</em></td>
@@ -125,12 +125,8 @@ agenda_content = """
               <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10h40-11h40</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
-              <td class="px-6 py-4 w-4/5">Aperçu des présentations éclair</td>
-              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h40-11h50</time></td>
-            </tr>
-            <tr class="hover:bg-gray-50 border-b border-gray-200">
               <td class="px-6 py-4 w-4/5">Dîner</td>
-              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h50-12h40</time></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h40-12h40</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
               <td class="px-6 py-4 w-4/5">Séance d’affiches</td>
@@ -175,7 +171,7 @@ agenda_content = """
           <tbody>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
               <td class="px-6 py-4 w-4/5">Accueil, inscription, collations et café</td>
-              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>8h15-9h15</time></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>8h15-9h30</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
               <td class="px-6 py-4 w-4/5">Mot de bienvenue et ordre du jour<br><em>Doina Precup</em></td>
@@ -190,7 +186,7 @@ agenda_content = """
               <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10h40-11h00</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
-              <td class="px-6 py-4 w-4/5">Discussion en panel<br><em>Alan Forster, Kathy Malas, Danina Kapetanovic, Samer Faraj</em></td>
+              <td class="px-6 py-4 w-4/5">Discussion en panel<br><em>Alan Forster, Kathy Malas, Danina Kapetanovic, Samer Faraj (modération)</em></td>
               <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11h00-12h00</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
@@ -230,7 +226,7 @@ agenda_content = """
               <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16h00-16h30</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
-              <td class="px-6 py-4 w-4/5">Présentations éclair</em></td>
+              <td class="px-6 py-4 w-4/5">Présentations éclair</td>
               <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>16h30-17h10</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
