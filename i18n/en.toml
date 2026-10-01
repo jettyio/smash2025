@@ -122,11 +122,19 @@ agenda_content = """
             </tr>
             <tr class="hover:bg-gray-50">
               <td class="px-6 py-4 w-4/5">Keynote<br><em>Vrushali Gaud</em></td>
-              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10:40-11:40</time></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>10:40-11:10</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50">
+              <td class="px-6 py-4 w-4/5">Keynote<br><em>Sasha Luccioni</em></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11:10-11:40</time></td>
+            </tr>
+            <tr class="hover:bg-gray-50">
+              <td class="px-6 py-4 w-4/5">Spotlight Talk Preview</td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11:40-11:50</time></td>
             </tr>
             <tr class="hover:bg-gray-50">
               <td class="px-6 py-4 w-4/5">Lunch</td>
-              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11:40-12:40</time></td>
+              <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>11:50-12:40</time></td>
             </tr>
             <tr class="hover:bg-gray-50">
               <td class="px-6 py-4 w-4/5">Poster session</td>
