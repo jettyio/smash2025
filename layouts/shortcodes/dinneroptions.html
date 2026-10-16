@@ -1,0 +1,21 @@
+{{- define "dinnerRow" -}}
+<h3 class="text-2xl font-bold mt-0 mb-2"><a class="text-blue-700 underline" href="{{ .nameURL }}" target="_blank" rel="noopener">{{ .name }}</a></h3>
+<p class="text-xl mb-3"><a class="text-blue-700 underline" href="{{ .mapURL }}" target="_blank" rel="noopener">{{ .address }}</a></p>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-2 mb-10">
+  <div>
+    <iframe class="w-full h-64 border-0" loading="lazy" title="Map of {{ .name }}"
+      src="https://maps.google.com/maps?q={{ printf "%s, %s, Montréal" .name .address | urlquery }}&output=embed"></iframe>
+  </div>
+  <div class="space-y-4">
+    <p class="mt-0"><strong>Cuisine</strong>: {{ .cuisine }}</p>
+    {{ with .hours }}<p><strong>Open</strong>: {{ . }}</p>{{ end }}
+    <p>{{ .options }}.</p>
+    <p>Private Room: {{ .privateRoom }}<br>{{ .cost }}</p>
+  </div>
+</div>
+{{- end -}}
+{{ $places := site.Data.dinnerOptions }}
+<h2 class="mt-0!">{{ .Get "both" }}</h2>
+{{ range where (where $places "openT" true) "openW" true }}{{ template "dinnerRow" . }}{{ end }}
+<h2>{{ .Get "wedOnly" }}</h2>
+{{ range where (where $places "openT" false) "openW" true }}{{ template "dinnerRow" . }}{{ end }}
