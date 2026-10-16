@@ -1,0 +1,98 @@
+[
+    {
+        "openT": true,
+        "openW": true,
+        "name": "Estiatorio Milos",
+        "nameURL": "https://www.yelp.ca/biz/estiatorio-milos-montr%C3%A9al?osq=Estiatorio+Milos",
+        "address": "5357 Avenue du Parc",
+        "mapURL": "https://maps.app.goo.gl/jXTBymG1YHnwVeD47",
+        "cuisine": "Greek/Seafood",
+        "options": "Vegetarian Options Available",
+        "privateRoom": "YES",
+        "cost": "$$$"
+    },
+    {
+        "openT": true,
+        "openW": true,
+        "name": "Damas",
+        "nameURL": "https://www.yelp.ca/biz/damas-montr%C3%A9al?osq=Damas+Syrian",
+        "address": "1201 Avenue Van Horne",
+        "mapURL": "https://maps.app.goo.gl/kPadf2ovCFPUXYUc8",
+        "cuisine": "Syrian",
+        "options": "Vegetarian Options Available",
+        "privateRoom": "YES",
+        "cost": "$$$"
+    },
+    {
+        "openT": true,
+        "openW": true,
+        "name": "Graziella",
+        "nameURL": "https://restaurantgraziella.ca/en/",
+        "address": "116 rue McGill",
+        "mapURL": "https://maps.app.goo.gl/YgzrAeo34dg2sVQSA",
+        "cuisine": "Italian",
+        "options": "Vegetarian Options Available",
+        "privateRoom": "YES",
+        "cost": "$$$$"
+    },
+    {
+        "openT": true,
+        "openW": true,
+        "name": "Vin Mon Lapin",
+        "nameURL": "https://vinmonlapin.com/",
+        "address": "15 St. Zotique E.",
+        "mapURL": "https://maps.app.goo.gl/9WAvCBdUMmrst3259",
+        "cuisine": "French/Wine Bar",
+        "options": "Vegetarian Options Upon Request",
+        "privateRoom": "YES",
+        "cost": "$$$"
+    },
+    {
+        "openT": false,
+        "openW": true,
+        "name": "Anemone",
+        "nameURL": "https://anemonemtl.com/",
+        "address": "271 Rue Saint-Zotique O",
+        "mapURL": "https://maps.app.goo.gl/B5aVKPA9nKYPMrri6",
+        "cuisine": "Local/Seafood",
+        "options": "Vegetarian Options Available",
+        "privateRoom": "NO",
+        "cost": "$$$$"
+    },
+    {
+        "openT": false,
+        "openW": true,
+        "name": "Il Bazzali",
+        "nameURL": "",
+        "address": "285 Rue Beaubien E",
+        "mapURL": "https://maps.app.goo.gl/vb7bey4d73Dm1w6BA",
+        "cuisine": "Italian",
+        "options": "Vegetarian Options Available",
+        "privateRoom": "YES",
+        "cost": "$$$"
+    },
+    {
+        "openT": false,
+        "openW": true,
+        "name": "Restaurant Limbo",
+        "nameURL": "https://restaurantlimbo.biz/",
+        "address": "45 Ave Mozart O",
+        "mapURL": "https://maps.app.goo.gl/nDdKv2oZaH6NXDhy8",
+        "cuisine": "Italian",
+        "options": "Vegetarian Options Upon Request",
+        "privateRoom": "NO",
+        "cost": "$$$$"
+    },
+    {
+        "openT": false,
+        "openW": true,
+        "name": "Alep",
+        "nameURL": "https://www.restaurantalep.com/",
+        "address": "199 Rue Jean-Talon E",
+        "mapURL": "https://maps.app.goo.gl/TQzEx2iB1GKptChG7",
+        "cuisine": "Syrian",
+        "options": "Vegetarian & Vegan Options Upon Request",
+        "privateRoom": "NO",
+        "cost": "$$$"
+    }
+]
