@@ -11,7 +11,7 @@ title = 'Accepted Papers'
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Tracing Bias Propagation Across Subgroups in Federated Learning
     <address class="font-normal text-base pt-2">Tirathraj Ramburn, Afaf Taik, Farnoosh Ghadiri | <a href="https://drive.google.com/file/d/1aA6Fac9mYYJa1VoylGh4o3GgjQjDeobk/view?usp=sharing" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Two for One: Privileged Bilateral Learning for Monocular Retinal Disease Classification
-    <address class="font-normal text-base pt-2">Lisa Y.W. Tang<!-- | <a href="https://drive.google.com/file/d/1RKzJvGv1_Avf2kqHYQFnlwnWD78wedUW/" target="_blank" rel="noopener">Paper</a>--></address></article>
+    <address class="font-normal text-base pt-2">Lisa Y.W. Tang | <a href="https://drive.google.com/file/d/1RKzJvGv1_Avf2kqHYQFnlwnWD78wedUW/" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Damned if You Do(n't): How Epistemic Technology Spoils Expertise
     <address class="font-normal text-base pt-2">Ayman Ajaj, Mayur Joshi, Mathieu Bouchard | <a href="https://prefigurationlab.com/docs/SMASH_2026_Spolied_Expertise_CameraReady.pdf" target="_blank" rel="noopener">Paper</a></address></article>
   </div>
