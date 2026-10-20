@@ -90,7 +90,7 @@ call_for_papers_content = """
 """
 title_accepted_papers = "Soumissions Acceptées"
 accepted_papers_para_1 = """
-  <p><a href="/fr/2025/acceptedpapers/">Cliquez ici pour voir les articles et les affiches acceptés l'année dernière.</a></p>
+  <p>Félicitations à tous les articles acceptés ! Vous pouvez les consulter, ainsi que les articles phares, <a href="/fr/acceptedpapers">sur la page des articles acceptés</a>.</p>
 """
 title_agenda = "Programme de la conférence"
 agenda_content = """
