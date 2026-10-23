@@ -11,7 +11,7 @@ title = 'Accepted Papers'
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Tracing Bias Propagation Across Subgroups in Federated Learning
     <address class="font-normal text-base pt-2">Tirathraj Ramburn, Afaf Taik, Farnoosh Ghadiri | <a href="https://drive.google.com/file/d/1aA6Fac9mYYJa1VoylGh4o3GgjQjDeobk/view?usp=sharing" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Two for One: Privileged Bilateral Learning for Monocular Retinal Disease Classification
-    <address class="font-normal text-base pt-2">Lisa Y.W. Tang | <a href="https://drive.google.com/file/d/1RKzJvGv1_Avf2kqHYQFnlwnWD78wedUW/" target="_blank" rel="noopener">Paper</a></address></article>
+    <address class="font-normal text-base pt-2">Lisa Y.W. Tang | <a href="https://arxiv.org/abs/2610.29126" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Damned if You Do(n't): How Epistemic Technology Spoils Expertise
     <address class="font-normal text-base pt-2">Ayman Ajaj, Mayur Joshi, Mathieu Bouchard | <a href="https://prefigurationlab.com/docs/SMASH_2026_Spolied_Expertise_CameraReady.pdf" target="_blank" rel="noopener">Paper</a></address></article>
   </div>
@@ -29,7 +29,7 @@ title = 'Accepted Papers'
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Visual Acuity Improvement Prediction in Neovascular Age-Related Macular Degeneration
     <address class="font-normal text-base pt-2">Hadi Moazen, Melanie Hebert, Alaa Eddine Ayadi, Ali Dirani, Audrey Durand | <a href="https://drive.google.com/file/d/1h81k0dJvGwdnHFxP-kYIcjuwFZgX_n1d/view" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">From Canon to Nikon: Camera Domain Shift and Potential Equity Implications in Retinal AI
-    <address class="font-normal text-base pt-2">Lisa Y.W. Tang | <a href="https://drive.google.com/file/d/1cEMU7Sho9vz6uA6rD2xq78R9KDpaOwuK/view?usp=sharing" target="_blank" rel="noopener">Paper</a></address></article>
+    <address class="font-normal text-base pt-2">Lisa Y.W. Tang | <a href="https://arxiv.org/abs/2610.29104" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Prevalence, Thresholds, and Subgroup Performance Gaps in Clinical Prediction Models Across Five Public Datasets
     <address class="font-normal text-base pt-2">Zavash Ghorbanpourbaboli, Arina Afshar, Elham Jangravi, Mohammed Ayoub Alaoui Mhamdi, Russell Butler | <a href="https://drive.google.com/file/d/1MnK-mFUFDe2Josf706Rgn4RxZMB6df3M/view?usp=sharing" target="_blank" rel="noopener">Paper</a></address></article>
     <article class="border border-gray-300 rounded-md px-4 py-4 font-bold text-lg">Implementing Ambient Artificial Intelligence (AI) Scribes in Hospital-based Specialty Care: A Mixed-Methods Evaluation on Administrative Burden and Clinical Workflows
