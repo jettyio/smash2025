@@ -63,5 +63,20 @@
       "firstname": "Sasha",
       "lastname": "Luccioni",
       "title": "Sustainable AI Group"
+  },
+  {
+      "firstname": "Alam",
+      "lastname": "Forster",
+      "title": "McGill University Health Centre Research Institute"
+  },
+  {
+      "firstname": "Danina",
+      "lastname": "Kapetanovic",
+      "title": "Waterloo Regional Health Network"
+  },
+  {
+      "firstname": "Kathy",
+      "lastname": "Malas",
+      "title": "OROT, Jewish General Hospital"
   }
 ]
