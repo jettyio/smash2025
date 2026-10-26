@@ -55,11 +55,6 @@ unsafe= true
     pageRef = '/organizingteam'
     weight = 40
   [[languages.en.menus.main]]
-    name = 'Dinner Options'
-    url = '/dinnerOptions'
-    pageRef = '/dinnerOptions'
-    weight = 45
-  [[languages.en.menus.main]]
     name = '2025 Archive'
     url = '/2025'
     pageRef = '/2025'
@@ -85,11 +80,6 @@ unsafe= true
     url = '/organizingteam'
     pageRef = '/organizingteam'
     weight = 40
-  [[languages.fr.menus.main]]
-    name = 'Options pour le souper'
-    url = '/dinnerOptions'
-    pageRef = '/dinnerOptions'
-    weight = 45
   [[languages.fr.menus.main]]
     name = 'Archives 2025'
     url = '/2025'

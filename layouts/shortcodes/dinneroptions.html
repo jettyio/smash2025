@@ -9,8 +9,9 @@
   <div class="space-y-4">
     <p class="mt-0"><strong>Cuisine</strong>: {{ .cuisine }}</p>
     {{ with .hours }}<p><strong>Open</strong>: {{ . }}</p>{{ end }}
-    <p>{{ .options }}.</p>
+    {{ with .options }}<p>{{ . }}.</p>{{ end }}
     <p>Private Room: {{ .privateRoom }}<br>{{ .cost }}</p>
+    {{ with .why }}<p><strong>Why</strong>: {{ . }}</p>{{ end }}
   </div>
 </div>
 {{- end -}}
