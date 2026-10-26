@@ -7,11 +7,12 @@
       src="https://maps.google.com/maps?q={{ printf "%s, %s, Montréal" .name .address | urlquery }}&output=embed"></iframe>
   </div>
   <div class="space-y-4">
-    <p class="mt-0"><strong>Cuisine</strong>: {{ .cuisine }}</p>
-    {{ with .hours }}<p><strong>Open</strong>: {{ . }}</p>{{ end }}
-    {{ with .options }}<p>{{ . }}.</p>{{ end }}
-    <p>Private Room: {{ .privateRoom }}<br>{{ .cost }}</p>
-    {{ with .why }}<p><strong>Why</strong>: {{ . }}</p>{{ end }}
+    <p class="mt-0 !mb-0"><strong>Cuisine</strong>: {{ .cuisine }}</p>
+    {{ with .hours }}<p class="mt-0 !mb-0"><strong>Open</strong>: {{ . }}</p>{{ end }}
+    {{ with .options }}<p class="mt-0 !mb-0">{{ . }}.</p>{{ end }}
+    <p class="mt-0 !mb-0"><strong>Private Room</strong>: {{ .privateRoom }}</p>
+    <p class="mt-0 !mb-0"><strong>Cost</strong>: {{ .cost }}</p>
+    {{ with .why }}<p class="mt-0 !mb-0"><strong>Why</strong>: {{ . }}</p>{{ end }}
   </div>
 </div>
 {{- end -}}
