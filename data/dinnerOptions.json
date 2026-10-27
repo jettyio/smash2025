@@ -1,114 +1,270 @@
-[
-    {
-        "openT": true,
-        "openW": true,
-        "name": "Bottega Pizzeria",
-        "nameURL": "http://www.bottega.ca/",
-        "address": "65 Rue Saint-Zotique E",
-        "mapURL": "https://www.google.com/maps/search/?api=1&query=Bottega+Pizzeria+65+Rue+Saint-Zotique+E+Montreal+QC+H2S+1K6",
-        "cuisine": "Neapolitan Pizza",
-        "hours": "Tuesday, Wednesday, and Sunday, 5 to 9 p.m. Thursday to Saturday, 5 to 10 p.m. Closed Monday.",
-        "options": "",
-        "privateRoom": "NO",
-        "cost": "$",
-        "why": "Good for groups, private events, a seasonal terrace, and a wine list heavy on organic Italian producers. It has no private room, but it is the best fit here for a large group."
+{
+    "labels": {
+        "bothDays": {
+            "en": "Open Tuesday & Wednesday",
+            "fr": "Ouvert mardi et mercredi"
+        },
+        "wedOnly": {
+            "en": "Open Wednesday only",
+            "fr": "Ouvert mercredi seulement"
+        },
+        "cuisine": {
+            "en": "Cuisine",
+            "fr": "Cuisine"
+        },
+        "open": {
+            "en": "Open",
+            "fr": "Heures d'ouverture"
+        },
+        "privateRoom": {
+            "en": "Private Room",
+            "fr": "Salle privée"
+        },
+        "cost": {
+            "en": "Cost",
+            "fr": "Prix"
+        },
+        "why": {
+            "en": "Why",
+            "fr": "Pourquoi"
+        },
+        "mapOf": {
+            "en": "Map of",
+            "fr": "Carte de"
+        }
     },
-    {
-        "openT": true,
-        "openW": true,
-        "name": "Buvette Beaubien",
-        "nameURL": "https://www.buvettebeaubien.com/",
-        "address": "211 Rue Beaubien E",
-        "mapURL": "https://www.google.com/maps/search/?api=1&query=Buvette+Beaubien+211+Rue+Beaubien+E+Montreal+QC+H2S+1R5",
-        "cuisine": "Wine Bar/Share Plates",
-        "hours": "Monday to Thursday, 11 a.m. to 11 p.m. Friday, 11 a.m. to midnight. Saturday, 10 a.m. to midnight. Sunday, 10 a.m. to 11 p.m.",
-        "options": "Vegetarian Options Available",
-        "privateRoom": "YES",
-        "cost": "$$$",
-        "why": "It has a private dining room for up to 40 people and takes reservations. The menu is a natural wine list with charcuterie, cheese, and composed dishes such as mushroom polenta. There is also a terrace."
-    },
-    {
-        "openT": true,
-        "openW": true,
-        "name": "Café Guerrero",
-        "nameURL": "http://cafeguerrero.com/",
-        "address": "6750 Av. de l’Esplanade",
-        "mapURL": "https://www.google.com/maps/search/?api=1&query=Cafe+Guerrero+6750+Avenue+de+l%27Esplanade+Montreal+QC+H2V+4M1",
-        "cuisine": "Vegetarian-Forward Café",
-        "hours": "Monday to Friday, 8 a.m. to 2 p.m. Closed Saturday and Sunday.",
-        "options": "Vegetarian Options Available",
-        "privateRoom": "NO",
-        "cost": "$",
-        "why": "Rotating lunch menu with vegetarian options. Weekday lunch only, so it works only if the group has a free weekday midday."
-    },
-    {
-        "openT": true,
-        "openW": true,
-        "name": "Caffè Italia",
-        "nameURL": "http://caffeitalia.ca/",
-        "address": "6840 Boul. Saint-Laurent",
-        "mapURL": "https://www.google.com/maps/search/?api=1&query=Caffe+Italia+6840+Boulevard+Saint-Laurent+Montreal+QC+H2S+3C7",
-        "cuisine": "Italian Café",
-        "hours": "Monday to Wednesday, 6 a.m. to 9 p.m. Thursday, 6 a.m. to 10 p.m. Friday, 6 a.m. to 11 p.m. Saturday, 7 a.m. to 11 p.m. Sunday, 7 a.m. to 10 p.m.",
-        "options": "",
-        "privateRoom": "NO",
-        "cost": "$",
-        "why": "A Little Italy landmark with 1950s decor, espresso drinks, and paninis. It is listed as good for groups, has a seasonal patio, and stays open late on weekends. Counter service, no online reservations."
-    },
-    {
-        "openT": true,
-        "openW": true,
-        "name": "Dépanneur Le Pick Up",
-        "nameURL": "http://lepickupmtl.com/",
-        "address": "7032 Rue Waverly",
-        "mapURL": "https://www.google.com/maps/search/?api=1&query=Depanneur+Le+Pick+Up+7032+Rue+Waverly+Montreal+QC+H2S+3J2",
-        "cuisine": "Sandwiches/All-Day Breakfast",
-        "hours": "Daily, 10 a.m. to 4 p.m.",
-        "options": "Vegetarian Options Available",
-        "privateRoom": "NO",
-        "cost": "$",
-        "why": "Google describes the sandwiches as gourmet and veg-friendly. It seats about 20 inside and 20 outside in summer. Daytime only, so it suits a lunch."
-    },
-    {
-        "openT": true,
-        "openW": true,
-        "name": "Épicerie Pumpui",
-        "nameURL": "http://www.pumpui.ca/",
-        "address": "83 Rue Saint-Zotique E",
-        "mapURL": "https://www.google.com/maps/search/?api=1&query=Epicerie+Pumpui+83+Rue+Saint-Zotique+E+Montreal+QC+H2S+1K7",
-        "cuisine": "Thai",
-        "hours": "Daily, noon to 3:30 p.m. and 4:30 to 9 p.m.",
-        "options": "",
-        "privateRoom": "NO",
-        "cost": "$$",
-        "why": "Classic Thai dishes with a terrace in season. The room is small (about six tables) and waits are common. No online reservations, so call (514) 379-3024."
-    },
-    {
-        "openT": true,
-        "openW": true,
-        "name": "Mon Petit Poulet",
-        "nameURL": "http://www.monpetitpoulet.ca/",
-        "address": "2343 Boul. Rosemont",
-        "mapURL": "https://www.google.com/maps/search/?api=1&query=Mon+Petit+Poulet+2343+Boulevard+Rosemont+Montreal+QC+H2G+1T9",
-        "cuisine": "Rotisserie/Fried Chicken",
-        "hours": "Tuesday to Sunday, 5 to 9 p.m. Closed Monday.",
-        "options": "",
-        "privateRoom": "NO",
-        "cost": "$$",
-        "why": "Casual comfort food with a liquor license (beer and wine). Google offers a “Find a table” link. A 2018 review put seating at about 25, so it is best for a smaller group. Vegetarian options are not listed."
-    },
-    {
-        "openT": true,
-        "openW": true,
-        "name": "Pizza Bouquet",
-        "nameURL": "http://pizzabouquet.ca/",
-        "address": "45 Rue Beaubien E",
-        "mapURL": "https://www.google.com/maps/search/?api=1&query=Pizza+Bouquet+45+Rue+Beaubien+E+Montreal+QC+H2S+1P8",
-        "cuisine": "New York-Style Pizza",
-        "hours": "Sunday to Thursday, noon to 9 p.m. Friday and Saturday, noon to 9:30 p.m.",
-        "options": "",
-        "privateRoom": "NO",
-        "cost": "$$",
-        "why": "Compact, no-frills counter spot selling slices or 16-inch pies. It is quick and cheap, but a poor fit for a seated group dinner."
-    }
-]
+    "places": [
+        {
+            "openT": true,
+            "openW": true,
+            "name": "Bottega Pizzeria",
+            "nameURL": "http://www.bottega.ca/",
+            "address": "65 Rue Saint-Zotique E",
+            "mapURL": "https://www.google.com/maps/search/?api=1&query=Bottega+Pizzeria+65+Rue+Saint-Zotique+E+Montreal+QC+H2S+1K6",
+            "cuisine": {
+                "en": "Neapolitan Pizza",
+                "fr": "Pizza napolitaine"
+            },
+            "hours": {
+                "en": "Tuesday, Wednesday, and Sunday, 5 to 9 p.m. Thursday to Saturday, 5 to 10 p.m. Closed Monday.",
+                "fr": "Mardi, mercredi et dimanche, de 17h à 21h. Du jeudi au samedi, de 17h à 22h. Fermé le lundi."
+            },
+            "options": {
+                "en": "",
+                "fr": ""
+            },
+            "privateRoom": {
+                "en": "NO",
+                "fr": "NON"
+            },
+            "cost": "$",
+            "why": {
+                "en": "Good for groups, private events, a seasonal terrace, and a wine list heavy on organic Italian producers. It has no private room, but it is the best fit here for a large group.",
+                "fr": "Idéal pour les groupes et les événements privés, avec une terrasse en saison et une carte des vins riche en producteurs italiens biologiques. Pas de salle privée, mais c'est le meilleur choix de cette liste pour un grand groupe."
+            }
+        },
+        {
+            "openT": true,
+            "openW": true,
+            "name": "Buvette Beaubien",
+            "nameURL": "https://www.buvettebeaubien.com/",
+            "address": "211 Rue Beaubien E",
+            "mapURL": "https://www.google.com/maps/search/?api=1&query=Buvette+Beaubien+211+Rue+Beaubien+E+Montreal+QC+H2S+1R5",
+            "cuisine": {
+                "en": "Wine Bar/Share Plates",
+                "fr": "Bar à vin / Plats à partager"
+            },
+            "hours": {
+                "en": "Monday to Thursday, 11 a.m. to 11 p.m. Friday, 11 a.m. to midnight. Saturday, 10 a.m. to midnight. Sunday, 10 a.m. to 11 p.m.",
+                "fr": "Du lundi au jeudi, de 11h à 23h. Vendredi, de 11h à minuit. Samedi, de 10h à minuit. Dimanche, de 10h à 23h."
+            },
+            "options": {
+                "en": "Vegetarian Options Available",
+                "fr": "Options végétariennes disponibles"
+            },
+            "privateRoom": {
+                "en": "YES",
+                "fr": "OUI"
+            },
+            "cost": "$$$",
+            "why": {
+                "en": "It has a private dining room for up to 40 people and takes reservations. The menu is a natural wine list with charcuterie, cheese, and composed dishes such as mushroom polenta. There is also a terrace.",
+                "fr": "Salle à manger privée pouvant accueillir jusqu'à 40 personnes, et on peut réserver. Carte de vins nature avec charcuteries, fromages et plats composés comme la polenta aux champignons. Il y a aussi une terrasse."
+            }
+        },
+        {
+            "openT": true,
+            "openW": true,
+            "name": "Café Guerrero",
+            "nameURL": "http://cafeguerrero.com/",
+            "address": "6750 Av. de l’Esplanade",
+            "mapURL": "https://www.google.com/maps/search/?api=1&query=Cafe+Guerrero+6750+Avenue+de+l%27Esplanade+Montreal+QC+H2V+4M1",
+            "cuisine": {
+                "en": "Vegetarian-Forward Café",
+                "fr": "Café surtout végétarien"
+            },
+            "hours": {
+                "en": "Monday to Friday, 8 a.m. to 2 p.m. Closed Saturday and Sunday.",
+                "fr": "Du lundi au vendredi, de 8h à 14h. Fermé le samedi et le dimanche."
+            },
+            "options": {
+                "en": "Vegetarian Options Available",
+                "fr": "Options végétariennes disponibles"
+            },
+            "privateRoom": {
+                "en": "NO",
+                "fr": "NON"
+            },
+            "cost": "$",
+            "why": {
+                "en": "Rotating lunch menu with vegetarian options. Weekday lunch only, so it works only if the group has a free weekday midday.",
+                "fr": "Menu du midi qui change régulièrement, avec des options végétariennes. Ouvert seulement le midi en semaine, donc convient uniquement si le groupe est libre à l'heure du dîner."
+            }
+        },
+        {
+            "openT": true,
+            "openW": true,
+            "name": "Caffè Italia",
+            "nameURL": "http://caffeitalia.ca/",
+            "address": "6840 Boul. Saint-Laurent",
+            "mapURL": "https://www.google.com/maps/search/?api=1&query=Caffe+Italia+6840+Boulevard+Saint-Laurent+Montreal+QC+H2S+3C7",
+            "cuisine": {
+                "en": "Italian Café",
+                "fr": "Café italien"
+            },
+            "hours": {
+                "en": "Monday to Wednesday, 6 a.m. to 9 p.m. Thursday, 6 a.m. to 10 p.m. Friday, 6 a.m. to 11 p.m. Saturday, 7 a.m. to 11 p.m. Sunday, 7 a.m. to 10 p.m.",
+                "fr": "Du lundi au mercredi, de 6h à 21h. Jeudi, de 6h à 22h. Vendredi, de 6h à 23h. Samedi, de 7h à 23h. Dimanche, de 7h à 22h."
+            },
+            "options": {
+                "en": "",
+                "fr": ""
+            },
+            "privateRoom": {
+                "en": "NO",
+                "fr": "NON"
+            },
+            "cost": "$",
+            "why": {
+                "en": "A Little Italy landmark with 1950s decor, espresso drinks, and paninis. It is listed as good for groups, has a seasonal patio, and stays open late on weekends. Counter service, no online reservations.",
+                "fr": "Une institution de la Petite Italie au décor des années 1950, avec cafés espresso et paninis. Indiqué comme convenant aux groupes, avec une terrasse en saison et ouvert tard la fin de semaine. Service au comptoir, pas de réservation en ligne."
+            }
+        },
+        {
+            "openT": true,
+            "openW": true,
+            "name": "Dépanneur Le Pick Up",
+            "nameURL": "http://lepickupmtl.com/",
+            "address": "7032 Rue Waverly",
+            "mapURL": "https://www.google.com/maps/search/?api=1&query=Depanneur+Le+Pick+Up+7032+Rue+Waverly+Montreal+QC+H2S+3J2",
+            "cuisine": {
+                "en": "Sandwiches/All-Day Breakfast",
+                "fr": "Sandwichs / Déjeuners toute la journée"
+            },
+            "hours": {
+                "en": "Daily, 10 a.m. to 4 p.m.",
+                "fr": "Tous les jours, de 10h à 16h."
+            },
+            "options": {
+                "en": "Vegetarian Options Available",
+                "fr": "Options végétariennes disponibles"
+            },
+            "privateRoom": {
+                "en": "NO",
+                "fr": "NON"
+            },
+            "cost": "$",
+            "why": {
+                "en": "Google describes the sandwiches as gourmet and veg-friendly. It seats about 20 inside and 20 outside in summer. Daytime only, so it suits a lunch.",
+                "fr": "Google décrit les sandwichs comme gourmets et adaptés aux végétariens. Environ 20 places à l'intérieur et 20 à l'extérieur l'été. Ouvert le jour seulement, donc plutôt pour un dîner."
+            }
+        },
+        {
+            "openT": true,
+            "openW": true,
+            "name": "Épicerie Pumpui",
+            "nameURL": "http://www.pumpui.ca/",
+            "address": "83 Rue Saint-Zotique E",
+            "mapURL": "https://www.google.com/maps/search/?api=1&query=Epicerie+Pumpui+83+Rue+Saint-Zotique+E+Montreal+QC+H2S+1K7",
+            "cuisine": {
+                "en": "Thai",
+                "fr": "Thaïlandaise"
+            },
+            "hours": {
+                "en": "Daily, noon to 3:30 p.m. and 4:30 to 9 p.m.",
+                "fr": "Tous les jours, de 12h à 15h30 et de 16h30 à 21h."
+            },
+            "options": {
+                "en": "",
+                "fr": ""
+            },
+            "privateRoom": {
+                "en": "NO",
+                "fr": "NON"
+            },
+            "cost": "$$",
+            "why": {
+                "en": "Classic Thai dishes with a terrace in season. The room is small (about six tables) and waits are common. No online reservations, so call (514) 379-3024.",
+                "fr": "Plats thaïlandais classiques avec terrasse en saison. La salle est petite (environ six tables) et il faut souvent attendre. Pas de réservation en ligne, appelez au (514) 379-3024."
+            }
+        },
+        {
+            "openT": true,
+            "openW": true,
+            "name": "Mon Petit Poulet",
+            "nameURL": "http://www.monpetitpoulet.ca/",
+            "address": "2343 Boul. Rosemont",
+            "mapURL": "https://www.google.com/maps/search/?api=1&query=Mon+Petit+Poulet+2343+Boulevard+Rosemont+Montreal+QC+H2G+1T9",
+            "cuisine": {
+                "en": "Rotisserie/Fried Chicken",
+                "fr": "Poulet rôti / Poulet frit"
+            },
+            "hours": {
+                "en": "Tuesday to Sunday, 5 to 9 p.m. Closed Monday.",
+                "fr": "Du mardi au dimanche, de 17h à 21h. Fermé le lundi."
+            },
+            "options": {
+                "en": "",
+                "fr": ""
+            },
+            "privateRoom": {
+                "en": "NO",
+                "fr": "NON"
+            },
+            "cost": "$$",
+            "why": {
+                "en": "Casual comfort food with a liquor license (beer and wine). Google offers a “Find a table” link. A 2018 review put seating at about 25, so it is best for a smaller group. Vegetarian options are not listed.",
+                "fr": "Cuisine réconfortante décontractée, avec permis d'alcool (bière et vin). Google propose un lien « Trouver une table ». Selon une critique de 2018, il y a environ 25 places, donc mieux pour un petit groupe. Aucune option végétarienne indiquée."
+            }
+        },
+        {
+            "openT": true,
+            "openW": true,
+            "name": "Pizza Bouquet",
+            "nameURL": "http://pizzabouquet.ca/",
+            "address": "45 Rue Beaubien E",
+            "mapURL": "https://www.google.com/maps/search/?api=1&query=Pizza+Bouquet+45+Rue+Beaubien+E+Montreal+QC+H2S+1P8",
+            "cuisine": {
+                "en": "New York-Style Pizza",
+                "fr": "Pizza style New York"
+            },
+            "hours": {
+                "en": "Sunday to Thursday, noon to 9 p.m. Friday and Saturday, noon to 9:30 p.m.",
+                "fr": "Du dimanche au jeudi, de 12h à 21h. Vendredi et samedi, de 12h à 21h30."
+            },
+            "options": {
+                "en": "",
+                "fr": ""
+            },
+            "privateRoom": {
+                "en": "NO",
+                "fr": "NON"
+            },
+            "cost": "$$",
+            "why": {
+                "en": "Compact, no-frills counter spot selling slices or 16-inch pies. It is quick and cheap, but a poor fit for a seated group dinner.",
+                "fr": "Petit comptoir sans prétention qui vend des pointes ou des pizzas de 16 pouces. Rapide et abordable, mais peu adapté à un souper de groupe assis."
+            }
+        }
+    ]
+}

@@ -1,21 +1,33 @@
+{{- /* Text fields in data/dinnerOptions.json are {"en": ..., "fr": ...}; fall back to English when a translation is missing. */ -}}
+{{- define "dinnerText" -}}{{ index .v .lang | default (index .v "en") }}{{- end -}}
 {{- define "dinnerRow" -}}
-<h3 class="text-2xl font-bold mt-0 mb-2"><a class="text-blue-700 underline" href="{{ .nameURL }}" target="_blank" rel="noopener">{{ .name }}</a></h3>
-<p class="text-xl mb-3"><a class="text-blue-700 underline" href="{{ .mapURL }}" target="_blank" rel="noopener">{{ .address }}</a></p>
+{{- $p := .place }}{{ $l := .labels }}{{ $lang := .lang -}}
+<h3 class="text-2xl font-bold mt-0 mb-2"><a class="text-blue-700 underline" href="{{ $p.nameURL }}" target="_blank" rel="noopener">{{ $p.name }}</a></h3>
+<p class="text-xl mb-3"><a class="text-blue-700 underline" href="{{ $p.mapURL }}" target="_blank" rel="noopener">{{ $p.address }}</a></p>
 <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-2 mb-10">
   <div>
-    <iframe class="w-full h-64 border-0" loading="lazy" title="Map of {{ .name }}"
-      src="https://maps.google.com/maps?q={{ printf "%s, %s, Montréal" .name .address | urlquery }}&output=embed"></iframe>
+    <iframe class="w-full h-64 border-0" loading="lazy" title="{{ template "dinnerText" (dict "v" $l.mapOf "lang" $lang) }} {{ $p.name }}"
+      src="https://maps.google.com/maps?q={{ printf "%s, %s, Montréal" $p.name $p.address | urlquery }}&hl={{ $lang }}&output=embed"></iframe>
   </div>
   <div class="space-y-4">
-    <p class="mt-0 !mb-0"><strong>Cuisine</strong>: {{ .cuisine }}</p>
-    {{ with .hours }}<p class="mt-0 !mb-0"><strong>Open</strong>: {{ . }}</p>{{ end }}
-    {{ with .options }}<p class="mt-0 !mb-0">{{ . }}.</p>{{ end }}
-    <p class="mt-0 !mb-0"><strong>Private Room</strong>: {{ .privateRoom }}</p>
-    <p class="mt-0 !mb-0"><strong>Cost</strong>: {{ .cost }}</p>
-    {{ with .why }}<p class="mt-0 !mb-0"><strong>Why</strong>: {{ . }}</p>{{ end }}
+    <p class="mt-0 !mb-0"><strong>{{ template "dinnerText" (dict "v" $l.cuisine "lang" $lang) }}</strong>: {{ template "dinnerText" (dict "v" $p.cuisine "lang" $lang) }}</p>
+    {{ with $p.hours.en }}<p class="mt-0 !mb-0"><strong>{{ template "dinnerText" (dict "v" $l.open "lang" $lang) }}</strong>: {{ template "dinnerText" (dict "v" $p.hours "lang" $lang) }}</p>{{ end }}
+    {{ with $p.options.en }}<p class="mt-0 !mb-0">{{ template "dinnerText" (dict "v" $p.options "lang" $lang) }}.</p>{{ end }}
+    <p class="mt-0 !mb-0"><strong>{{ template "dinnerText" (dict "v" $l.privateRoom "lang" $lang) }}</strong>: {{ template "dinnerText" (dict "v" $p.privateRoom "lang" $lang) }}</p>
+    <p class="mt-0 !mb-0"><strong>{{ template "dinnerText" (dict "v" $l.cost "lang" $lang) }}</strong>: {{ $p.cost }}</p>
+    {{ with $p.why.en }}<p class="mt-0 !mb-0"><strong>{{ template "dinnerText" (dict "v" $l.why "lang" $lang) }}</strong>: {{ template "dinnerText" (dict "v" $p.why "lang" $lang) }}</p>{{ end }}
   </div>
 </div>
 {{- end -}}
-{{ $places := site.Data.dinnerOptions }}
-<h2 class="mt-0!">{{ .Get "both" }}</h2>
-{{ range where (where $places "openT" true) "openW" true }}{{ template "dinnerRow" . }}{{ end }}
+{{ $data := site.Data.dinnerOptions }}
+{{ $lang := site.Language.Lang }}
+{{ $both := where (where $data.places "openT" true) "openW" true }}
+{{ $wedOnly := where (where $data.places "openT" false) "openW" true }}
+{{ with $both }}
+<h2 class="mt-0!">{{ template "dinnerText" (dict "v" $data.labels.bothDays "lang" $lang) }}</h2>
+{{ range . }}{{ template "dinnerRow" (dict "place" . "labels" $data.labels "lang" $lang) }}{{ end }}
+{{ end }}
+{{ with $wedOnly }}
+<h2>{{ template "dinnerText" (dict "v" $data.labels.wedOnly "lang" $lang) }}</h2>
+{{ range . }}{{ template "dinnerRow" (dict "place" . "labels" $data.labels "lang" $lang) }}{{ end }}
+{{ end }}
