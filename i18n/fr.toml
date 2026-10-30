@@ -182,7 +182,7 @@ agenda_content = """
               <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>8h15-9h30</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
-              <td class="px-6 py-4 w-4/5">Mot de bienvenue et ordre du jour<br><em>Doina Precup</em></td>
+              <td class="px-6 py-4 w-4/5">Mot de bienvenue et ordre du jour<br><em>Samer Faraj</em></td>
               <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>9h30-9h40</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
@@ -202,7 +202,7 @@ agenda_content = """
               <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>12h00-13h00</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
-              <td class="px-6 py-4 w-4/5">Conférencière invitée<br><em>Lyse Langlois</em></td>
+              <td class="px-6 py-4 w-4/5">Conférencière invitée<br><em>Marc-Antoine Dilhac</em></td>
               <td class="border-l border-gray-200 px-6 py-4 text-right font-medium text-gray-700 font-mono text-sm w-1/5"><time>13h00-13h30</time></td>
             </tr>
             <tr class="hover:bg-gray-50 border-b border-gray-200">
